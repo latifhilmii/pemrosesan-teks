@@ -1,0 +1,1001 @@
+stopwords_removed,2-gram
+"['malas', 'nak', 'cakap', 'dh', 'enemy', 'dh', 'pro', 'dh', 'noob', 'paling', 'malas', 'rendah', 'nyasar', 'sendiri', 'sedang', 'enmy', 'sampai', 'bekas', 'immortal', 'dh', 'cam', 'sial', 'update', 'sekaranggood', 'bye', 'forever']","['bekas_immortal', 'bye_forever', 'cakap_dh', 'cam_sial', 'dh_cam', 'dh_enemy', 'dh_noob', 'dh_pro', 'enemy_dh', 'enmy_sampai', 'immortal_dh', 'malas_nak', 'malas_rendah', 'nak_cakap', 'noob_paling', 'nyasar_sendiri', 'paling_malas', 'pro_dh', 'rendah_nyasar', 'sampai_bekas', 'sedang_enmy', 'sekaranggood_bye', 'sendiri_sedang', 'sial_update', 'update_sekaranggood']"
+['pamaniyasarusakali'],[]
+['yatim'],[]
+"['bagus', 'suka', 'ikan', 'ws', 'lebih', 'banyak']","['bagus_suka', 'ikan_ws', 'lebih_banyak', 'suka_ikan', 'ws_lebih']"
+"['semenjak', 'ganti', 'season', 'baru', 'makin', 'ngaco', 'matching', 'bug', 'lag', 'sinyal', 'bagus', 'entah', 'cheat', 'sebab', 'lag', 'makin', 'jelas', 'pokok']","['bagus_entah', 'baru_makin', 'bug_lag', 'cheat_sebab', 'entah_cheat', 'ganti_season', 'jelas_pokok', 'lag_makin', 'lag_sinyal', 'makin_jelas', 'makin_ngaco', 'matching_bug', 'ngaco_matching', 'season_baru', 'sebab_lag', 'semenjak_ganti', 'sinyal_bagus']"
+"['bagus', 'tolong', 'baik', 'muntun', 'renk', 'computer', 'musuh', 'serasa', 'joki', 'beri', 'lawan', 'padan', 'baik', 'pindah']","['bagus_tolong', 'baik_muntun', 'baik_pindah', 'beri_lawan', 'computer_musuh', 'joki_beri', 'lawan_padan', 'muntun_renk', 'musuh_serasa', 'padan_baik', 'renk_computer', 'serasa_joki', 'tolong_baik']"
+"['minus', 'permainanan', 'se', 'imbang', 'mvp', 'kalah', 'mah', 'ilangin', 'darat', 'cape']","['darat_cape', 'ilangin_darat', 'imbang_mvp', 'kalah_mah', 'mah_ilangin', 'minus_permainanan', 'mvp_kalah', 'permainanan_se', 'se_imbang']"
+"['seru', 'banget']",['seru_banget']
+"['buruk', 'efek', 'skin', 'biasa', 'hera', 'aneh', 'tampil', 'majapahit', 'rata', 'win', 'kalah', 'berkalikali', 'stres', 'ginian', 'banyak', 'banget', 'gelap']","['aneh_tampil', 'banget_gelap', 'banyak_banget', 'berkalikali_stres', 'biasa_hera', 'buruk_efek', 'efek_skin', 'ginian_banyak', 'hera_aneh', 'kalah_berkalikali', 'majapahit_rata', 'rata_win', 'skin_biasa', 'stres_ginian', 'tampil_majapahit', 'win_kalah']"
+"['kenapa', 'banyak', 'draksistem', 'capek', 'trol', 'jelas']","['banyak_draksistem', 'capek_trol', 'draksistem_capek', 'kenapa_banyak', 'trol_jelas']"
+"['update', 'patch', 'baru', 'sekarang', 'kk', 'stuck', 'loading', 'afk', 'sampai', 'menit', 'skoth', 'kah']","['afk_sampai', 'baru_sekarang', 'kk_stuck', 'loading_afk', 'menit_skoth', 'patch_baru', 'sampai_menit', 'sekarang_kk', 'skoth_kah', 'stuck_loading', 'update_patch']"
+"['tanding', 'stuck', 'lama', 'keluar', 'tanding', 'ngelakuin', 'gimana']","['keluar_tanding', 'lama_keluar', 'ngelakuin_gimana', 'stuck_lama', 'tanding_ngelakuin', 'tanding_stuck']"
+"['knp', 'akun', 'kena', 'bug', 'verifikasi', 'langkah', 'kena', 'verifikasi', 'langkah', 'tolong', 'jawab']","['akun_kena', 'bug_verifikasi', 'kena_bug', 'kena_verifikasi', 'knp_akun', 'langkah_kena', 'langkah_tolong', 'tolong_jawab', 'verifikasi_langkah']"
+"['mending', 'gausah', 'banyak', 'draks', 'bag', 'tu', 'ter', 'parah', 'pernah', 'alamin', 'mending', 'ff', 'pubg', 'bloods', 'trek', 'ghenshingimana', 'mythic', 'ngesetak', 'ketemu', 'muntum', 'dia', 'lukas']","['alamin_mending', 'bag_tu', 'banyak_draks', 'bloods_trek', 'dia_lukas', 'draks_bag', 'ff_pubg', 'gausah_banyak', 'ghenshingimana_mythic', 'ketemu_muntum', 'mending_ff', 'mending_gausah', 'muntum_dia', 'mythic_ngesetak', 'ngesetak_ketemu', 'parah_pernah', 'pernah_alamin', 'pubg_bloods', 'ter_parah', 'trek_ghenshingimana', 'tu_ter']"
+"['bagus', 'dalam', 'segi', 'skin', 'keren', 'keren', 'kenapa', 'gimana', 'gitu', 'tinggi', 'tinggi', 'bocil', 'mityik', 'susah', 'naik']","['bagus_dalam', 'bocil_mityik', 'dalam_segi', 'gimana_gitu', 'gitu_tinggi', 'kenapa_gimana', 'keren_kenapa', 'keren_keren', 'mityik_susah', 'segi_skin', 'skin_keren', 'susah_naik', 'tinggi_bocil', 'tinggi_tinggi']"
+"['sumpah', 'marah', 'pasti', 'kalah', 'maksud', 'gimana', 'sengaja', 'biar', 'kalah', 'stuck', 'ken', 'ngerasain', 'mytic', 'sampai', 'ngeluarin', 'mutiara', 'tolong', 'kerjasamanya']","['biar_kalah', 'gimana_sengaja', 'kalah_maksud', 'kalah_stuck', 'ken_ngerasain', 'maksud_gimana', 'marah_pasti', 'mutiara_tolong', 'mytic_sampai', 'ngeluarin_mutiara', 'ngerasain_mytic', 'pasti_kalah', 'sampai_ngeluarin', 'sengaja_biar', 'stuck_ken', 'sumpah_marah', 'tolong_kerjasamanya']"
+"['banyak', 'update', 'baru', 'makin', 'seru', 'bug', 'alam', 'buruk', 'lancar', 'bagus', 'guna', 'dalam', 'lag', 'sudah', 'mati', 'lancar', 'asa', 'pernah', 'fix', 'masalah', 'apakah', 'pihak', 'sengaja', 'sudah', 'banyak', 'masalah', 'masalah', 'pernah', 'tanggap', 'pihak']","['alam_buruk', 'apakah_pihak', 'asa_pernah', 'bagus_guna', 'banyak_masalah', 'banyak_update', 'baru_makin', 'bug_alam', 'buruk_lancar', 'dalam_lag', 'fix_masalah', 'guna_dalam', 'lag_sudah', 'lancar_asa', 'lancar_bagus', 'makin_seru', 'masalah_apakah', 'masalah_masalah', 'masalah_pernah', 'mati_lancar', 'pernah_fix', 'pernah_tanggap', 'pihak_sengaja', 'sengaja_sudah', 'seru_bug', 'sudah_banyak', 'sudah_mati', 'tanggap_pihak', 'update_baru']"
+"['macem', 'tolol', 'sinyal', 'hilang', 'sendiri', 'full', 'sinyal', 'dimatiin', 'gerak']","['dimatiin_gerak', 'full_sinyal', 'hilang_sendiri', 'macem_tolol', 'sendiri_full', 'sinyal_dimatiin', 'sinyal_hilang', 'tolol_sinyal']"
+"['buruk', 'kontol', 'baba']","['buruk_kontol', 'kontol_baba']"
+"['lumayan', 'dikenalin', 'emry']","['dikenalin_emry', 'lumayan_dikenalin']"
+"['bodoh', 'sudah', 'top', 'up', 'banyak', 'cuma', 'kalah', 'keren']","['banyak_cuma', 'bodoh_sudah', 'cuma_kalah', 'kalah_keren', 'sudah_top', 'top_up', 'up_banyak']"
+"['buruk', 'update', 'yng', 'sekarang', 'buruk', 'offline', 'pass', 'masuk', 'pilih', 'mulai', 'tulis', 'gitu', 'pass', 'pencet', 'oke', 'mulai', 'sendiri', 'lag', 'keluar', 'sendiri', 'baik', 'pliss', 'maaf', 'rate', 'cuma', 'dua', 'bintang', 'baik', 'terimakasih', 'maaf', 'terlalu', 'panjang']","['baik_pliss', 'baik_terimakasih', 'bintang_baik', 'buruk_offline', 'buruk_update', 'cuma_dua', 'dua_bintang', 'gitu_pass', 'keluar_sendiri', 'lag_keluar', 'maaf_rate', 'maaf_terlalu', 'masuk_pilih', 'mulai_sendiri', 'mulai_tulis', 'offline_pass', 'oke_mulai', 'pass_masuk', 'pass_pencet', 'pencet_oke', 'pilih_mulai', 'pliss_maaf', 'rate_cuma', 'sekarang_buruk', 'sendiri_baik', 'sendiri_lag', 'terimakasih_maaf', 'terlalu_panjang', 'tulis_gitu', 'update_yng', 'yng_sekarang']"
+['otak'],[]
+"['gblk', 'beri', 'gaperna', 'benar', 'mm', 'anjg']","['benar_mm', 'beri_gaperna', 'gaperna_benar', 'gblk_beri', 'mm_anjg']"
+"['lumayan', 'ngendali', 'pasti', 'seru', 'lawan', 'computer', 'maksud', 'skin', 'gratis', 'rendom']","['computer_maksud', 'gratis_rendom', 'lawan_computer', 'lumayan_ngendali', 'maksud_skin', 'ngendali_pasti', 'pasti_seru', 'seru_lawan', 'skin_gratis']"
+"['buruk', 'banyak', 'cheater', 'tambah', 'tambah', 'jelek', 'kurang', 'bagus', 'sengaja', 'bintang', 'otw', 'uninstal']","['bagus_sengaja', 'banyak_cheater', 'bintang_otw', 'buruk_banyak', 'cheater_tambah', 'jelek_kurang', 'kurang_bagus', 'otw_uninstal', 'sengaja_bintang', 'tambah_jelek', 'tambah_tambah']"
+"['makingg', 'adil', 'massa', 'ketemu', 'legenda', 'dmna', 'letak', 'adil', 'dri', 'dlu', 'smpee', 'skrngg', 'kya', 'gth', 'aneh']","['adil_dri', 'adil_massa', 'dlu_smpee', 'dmna_letak', 'dri_dlu', 'gth_aneh', 'ketemu_legenda', 'kya_gth', 'legenda_dmna', 'letak_adil', 'makingg_adil', 'massa_ketemu', 'skrngg_kya', 'smpee_skrngg']"
+['mengibur'],[]
+"['perbaikin', 'terlalu', 'delaylag', 'padalan', 'bagus']","['delaylag_padalan', 'padalan_bagus', 'perbaikin_terlalu', 'terlalu_delaylag']"
+"['stres', 'puyeng', 'satu', 'ujung', 'losetreak', 'trs']","['losetreak_trs', 'puyeng_satu', 'satu_ujung', 'stres_puyeng', 'ujung_losetreak']"
+"['epik', 'benar', 'lahh', 'ey', 'rusak', 'dongg', 'susah', 'kalah', 'lebih', 'baik', 'bintang', 'satu']","['baik_bintang', 'benar_lahh', 'bintang_satu', 'dongg_susah', 'epik_benar', 'ey_rusak', 'kalah_lebih', 'lahh_ey', 'lebih_baik', 'rusak_dongg', 'susah_kalah']"
+"['bagus', 'bgtt', 'walaupun', 'lag', 'gatau', 'knp', 'wifi', 'bagus', 'win', 'kalah', 'lebih', 'win', 'gara', 'gara', 'bot', 'gitu', 'thanks']","['bagus_bgtt', 'bagus_win', 'bgtt_walaupun', 'bot_gitu', 'gara_bot', 'gara_gara', 'gatau_knp', 'gitu_thanks', 'kalah_lebih', 'knp_wifi', 'lag_gatau', 'lebih_win', 'walaupun_lag', 'wifi_bagus', 'win_gara', 'win_kalah']"
+"['kontolo', 'memek']",['kontolo_memek']
+"['seru', 'banget']",['seru_banget']
+"['ubah', 'rang']",['ubah_rang']
+"['suka', 'banget', 'seru']","['banget_seru', 'suka_banget']"
+"['terimakasih', 'teman', 'nin', 'pergi', 'lama', 'mu', 'lama', 'love', 'you', 'bye']","['lama_love', 'lama_mu', 'love_you', 'mu_lama', 'nin_pergi', 'pergi_lama', 'teman_nin', 'terimakasih_teman', 'you_bye']"
+['seru'],[]
+"['gg', 'coo', 'keren', 'mantap', 'lebih', 'keren', 'ff', 'awokawokawok']","['coo_keren', 'ff_awokawokawok', 'gg_coo', 'keren_ff', 'keren_mantap', 'lebih_keren', 'mantap_lebih']"
+"['tolong', 'lawan']",['tolong_lawan']
+['tolol'],[]
+"['rusak', 'bug', 'hijau', 'lag']","['bug_hijau', 'hijau_lag', 'rusak_bug']"
+"['maaf', 'motoon', 'inanilahi', 'mati', 'pensi', 'cpe', 'naik', 'trun', 'naik', 'trun', 'bismilah', 'mti']","['bismilah_mti', 'cpe_naik', 'inanilahi_mati', 'maaf_motoon', 'mati_pensi', 'motoon_inanilahi', 'naik_trun', 'pensi_cpe', 'trun_bismilah', 'trun_naik']"
+"['minimal', 'lgi']",['minimal_lgi']
+"['tolol', 'musuh', 'susah', 'kasi', 'ws']","['kasi_ws', 'musuh_susah', 'susah_kasi', 'tolol_musuh']"
+"['goblog', 'pusing']",['goblog_pusing']
+"['ramah', 'sombong']",['ramah_sombong']
+['lostrek'],[]
+"['hadeh', 'bayak', 'gelap', 'epik', 'gj', 'jelas', 'lus']","['bayak_gelap', 'epik_gj', 'gelap_epik', 'gj_jelas', 'hadeh_bayak', 'jelas_lus']"
+"['sang', 'at', 'bail', 'mi']","['at_bail', 'bail_mi', 'sang_at']"
+"['timgak', 'amin']",['timgak_amin']
+['bagus'],[]
+"['mantap', 'sakuramba']",['mantap_sakuramba']
+"['pilih', 'anjg']",['pilih_anjg']
+"['sinyal', 'bagus', 'standart', 'kenapa', 'lag', 'akibat', 'hitung', 'afk', 'rugi', 'nyari', 'senang', 'stres']","['afk_rugi', 'akibat_hitung', 'bagus_standart', 'hitung_afk', 'kenapa_lag', 'lag_akibat', 'nyari_senang', 'rugi_nyari', 'senang_stres', 'sinyal_bagus', 'standart_kenapa']"
+"['kalah', 'gara', 'gara', 'jago', 'bae', 'musuh', 'drack', 'semua']","['bae_musuh', 'drack_semua', 'gara_gara', 'gara_jago', 'jago_bae', 'kalah_gara', 'musuh_drack']"
+['adil'],[]
+"['seru', 'banget']",['seru_banget']
+"['bagus', 'suka', 'makanya', 'jgn', 'bot', 'sudah', 'kg', 'bs', 'dongoo']","['bagus_suka', 'bot_sudah', 'bs_dongoo', 'jgn_bot', 'kg_bs', 'makanya_jgn', 'sudah_kg', 'suka_makanya']"
+"['susah', 'banget', 'masuk', 'makin', 'berat']","['banget_masuk', 'makin_berat', 'masuk_makin', 'susah_banget']"
+"['kalah', 'menang', 'sudah', 'biasa', 'kalah', 'tanpa', 'progress', 'sebal', 'baru', 'season', 'sekarang', 'alami', 'hal', 'your', 'gelap']","['alami_hal', 'baru_season', 'biasa_kalah', 'hal_your', 'kalah_menang', 'kalah_tanpa', 'menang_sudah', 'progress_sebal', 'season_sekarang', 'sebal_baru', 'sekarang_alami', 'sudah_biasa', 'tanpa_progress', 'your_gelap']"
+['suka'],[]
+"['seru', 'senang', 'enak', 'dimainin', 'seru', 'banget', 'teman', 'seru', 'seru', 'seru', 'seru', 'seru', 'seru', 'seru', 'banget', 'lebih', 'seru', 'sonia', 'sun', 'sun', 'guys', 'usah', 'teman', 'lebih', 'seru', 'hujanhujanan', 'dimarahin', 'tuhan']","['banget_lebih', 'banget_teman', 'dimainin_seru', 'dimarahin_tuhan', 'enak_dimainin', 'guys_usah', 'hujanhujanan_dimarahin', 'lebih_seru', 'senang_enak', 'seru_banget', 'seru_hujanhujanan', 'seru_senang', 'seru_seru', 'seru_sonia', 'sonia_sun', 'sun_guys', 'sun_sun', 'teman_lebih', 'teman_seru', 'usah_teman']"
+['kontl'],[]
+"['cuma', 'fokus', 'event', 'tanpa', 'optimal', 'ubah', 'ui', 'cacat', 'serius', 'fokus', 'jual', 'merchandise', 'event', 'kikir']","['cacat_serius', 'cuma_fokus', 'event_kikir', 'event_tanpa', 'fokus_event', 'fokus_jual', 'jual_merchandise', 'merchandise_event', 'optimal_ubah', 'serius_fokus', 'tanpa_optimal', 'ubah_ui', 'ui_cacat']"
+"['stuck', 'baik', 'jg']","['baik_jg', 'stuck_baik']"
+"['ngga', 'guna', 'ngga', 'pernah', 'beri', 'bangus']","['beri_bangus', 'guna_ngga', 'ngga_guna', 'ngga_pernah', 'pernah_beri']"
+"['sinyal', 'bagus', 'gerak', 'ngentod', 'niat']","['bagus_gerak', 'gerak_ngentod', 'ngentod_niat', 'sinyal_bagus']"
+"['seru', 'banyak', 'gelap', 'sytem', 'bintang', 'naik', 'legen', 'poke', 'musuh', 'top', 'globalpenjoki']","['banyak_gelap', 'bintang_naik', 'gelap_sytem', 'legen_poke', 'musuh_top', 'naik_legen', 'poke_musuh', 'seru_banyak', 'sytem_bintang', 'top_globalpenjoki']"
+['jembut'],[]
+['anjing'],[]
+"['banyak', 'update', 'sinyal', 'server', 'urus', 'sinyal', 'bagus', 'lag']","['bagus_lag', 'banyak_update', 'server_urus', 'sinyal_bagus', 'sinyal_server', 'update_sinyal', 'urus_sinyal']"
+['bagus'],[]
+"['bagus', 'walaupun', 'ngelagketemu', 'gelap', 'situ', 'ajar', 'toxic', 'terimakasih', 'developer', 'makanya', 'dm', 'sampai', 'assalamualaikum', 'warahmatullahi', 'wabarakatuh']","['ajar_toxic', 'assalamualaikum_warahmatullahi', 'bagus_walaupun', 'developer_makanya', 'dm_sampai', 'gelap_situ', 'makanya_dm', 'ngelagketemu_gelap', 'sampai_assalamualaikum', 'situ_ajar', 'terimakasih_developer', 'toxic_terimakasih', 'walaupun_ngelagketemu', 'warahmatullahi_wabarakatuh']"
+"['seru', 'knpa', 'beberapa', 'parah', 'banget', 'pdhl', 'bagus', 'langsung', 'parah', 'banget', 'pdhl', 'belum', 'gprnh', 'masalah', 'lg']","['bagus_langsung', 'banget_pdhl', 'beberapa_parah', 'belum_gprnh', 'gprnh_masalah', 'knpa_beberapa', 'langsung_parah', 'masalah_lg', 'parah_banget', 'pdhl_bagus', 'pdhl_belum', 'seru_knpa']"
+"['rekomendasi', 'ton', 'kurang', 'gelap']","['kurang_gelap', 'rekomendasi_ton', 'ton_kurang']"
+"['pertama', 'terimakasih', 'cipta', 'epic', 'beri', 'saran', 'tolong', 'benah', 'minta', 'tolong', 'benah', 'matching', 'garis', 'bawah', 'sungguh', 'classic', 'lagend', 'dapetnya', 'pangkat', 'warior', 'masuk', 'akal', 'mohon', 'benah', 'begitu', 'sudah', 'maklum', 'classic', 'lebih']","['akal_mohon', 'bawah_sungguh', 'begitu_sudah', 'benah_begitu', 'benah_matching', 'benah_minta', 'beri_saran', 'cipta_epic', 'classic_lagend', 'classic_lebih', 'dapetnya_pangkat', 'epic_beri', 'garis_bawah', 'lagend_dapetnya', 'maklum_classic', 'masuk_akal', 'matching_garis', 'minta_tolong', 'mohon_benah', 'pangkat_warior', 'pertama_terimakasih', 'saran_tolong', 'sudah_maklum', 'sungguh_classic', 'terimakasih_cipta', 'tolong_benah', 'warior_masuk']"
+"['selalu', 'adil', 'mana', 'musuh', 'terlalu', 'jago', 'mula']","['adil_mana', 'jago_mula', 'mana_musuh', 'musuh_terlalu', 'selalu_adil', 'terlalu_jago']"
+"['ketemu', 'bot']",['ketemu_bot']
+"['minimal', 'beri', 'musuh', 'sendiri', 'imbang', 'laa', 'sendiri', 'gabisaa', 'lawan', 'jago', 'gimana', 'menang']","['beri_musuh', 'gabisaa_lawan', 'gimana_menang', 'imbang_laa', 'jago_gimana', 'laa_sendiri', 'lawan_jago', 'minimal_beri', 'musuh_sendiri', 'sendiri_gabisaa', 'sendiri_imbang']"
+"['inih', 'bagus']",['inih_bagus']
+"['legends', 'seruu']",['legends_seruu']
+['baik'],[]
+"['kotol', 'lose', 'lose', 'moga', 'ceper', 'mati', 'nonton']","['ceper_mati', 'kotol_lose', 'lose_lose', 'lose_moga', 'mati_nonton', 'moga_ceper']"
+['tai'],[]
+['bantu'],[]
+"['tolong', 'baik']",['tolong_baik']
+"['bagus', 'ampe', 'ratarata', 'playernya', 'sdm', 'turun']","['ampe_ratarata', 'bagus_ampe', 'playernya_sdm', 'ratarata_playernya', 'sdm_turun']"
+"['wah', 'keren', 'banget', 'ruang', 'clasik', 'brawel', 'arkade', 'tang', 'kasing', 'bintang', 'lima', 'musuh', 'botsemua', 'padaha', 'tang', 'epik', 'kenapa', 'musuh', 'bot']","['arkade_tang', 'banget_ruang', 'bintang_lima', 'botsemua_padaha', 'brawel_arkade', 'clasik_brawel', 'epik_kenapa', 'kasing_bintang', 'kenapa_musuh', 'keren_banget', 'lima_musuh', 'musuh_bot', 'musuh_botsemua', 'padaha_tang', 'ruang_clasik', 'tang_epik', 'tang_kasing', 'wah_keren']"
+"['babi', 'selalu', 'sampah']","['babi_selalu', 'selalu_sampah']"
+"['hampir', 'semuah', 'gelap', 'kecewa']","['gelap_kecewa', 'hampir_semuah', 'semuah_gelap']"
+"['rusak', 'rusak']",['rusak_rusak']
+"['kenapa', 'selalu', 'bot', 'capek']","['bot_capek', 'kenapa_selalu', 'selalu_bot']"
+['bagong'],[]
+"['gelap', 'banyak']",['gelap_banyak']
+"['banyak', 'darksistem', 'n', 'lag']","['banyak_darksistem', 'darksistem_lag']"
+"['skrng', 'suka', 'lag', 'pdahl', 'bukak', 'apk', 'lain', 'lancaraja']","['apk_lain', 'bukak_apk', 'lag_pdahl', 'lain_lancaraja', 'pdahl_bukak', 'skrng_suka', 'suka_lag']"
+"['bagus', 'semua', 'dowlodtannya', 'selalu', 'hilang', 'tinggal', 'sekolah', 'smp', 'hilang', 'mohon', 'baik', 'moga', 'perhati', 'segitu', 'mohon', 'kerja']","['bagus_semua', 'baik_moga', 'dowlodtannya_selalu', 'hilang_mohon', 'hilang_tinggal', 'moga_perhati', 'mohon_baik', 'mohon_kerja', 'perhati_segitu', 'segitu_mohon', 'sekolah_smp', 'selalu_hilang', 'semua_dowlodtannya', 'smp_hilang', 'tinggal_sekolah']"
+"['seru', 'iklann', 'skin', 'banyakk', 'lukas', 'zilong', 'lain', 'lain']","['banyakk_lukas', 'iklann_skin', 'lain_lain', 'lukas_zilong', 'seru_iklann', 'skin_banyakk', 'zilong_lain']"
+"['makin', 'ancor', 'laq', 'sekrang', 'bagus']","['ancor_laq', 'laq_sekrang', 'makin_ancor', 'sekrang_bagus']"
+"['makin', 'makin', 'buruk', 'selalu', 'lag', 'mulai', 'jengkel']","['buruk_selalu', 'lag_mulai', 'makin_buruk', 'makin_makin', 'mulai_jengkel', 'selalu_lag']"
+"['kenapa', 'musuh', 'skin', 'skin', 'gaje', 'sekarang']","['gaje_sekarang', 'kenapa_musuh', 'musuh_skin', 'skin_gaje', 'skin_skin']"
+"['jelas', 'sinyal', 'lag', 'dalem', 'buruk']","['dalem_buruk', 'jelas_sinyal', 'lag_dalem', 'sinyal_lag']"
+"['kon', 'ol', 'anjg', 'lag', 'parah', 'c', 'k']","['anjg_lag', 'kon_ol', 'lag_parah', 'ol_anjg']"
+"['lumayan', 'bagus', 'tipe', 'banget', 'rating', 'lebih', 'enak', 'king', 'segi', 'gamplay', 'bagus']","['bagus_tipe', 'banget_rating', 'enak_king', 'gamplay_bagus', 'king_segi', 'lebih_enak', 'lumayan_bagus', 'rating_lebih', 'segi_gamplay', 'tipe_banget']"
+['draksistem'],[]
+"['jelas', 'gelap', 'semua', 'gendong']","['gelap_semua', 'jelas_gelap', 'semua_gendong']"
+"['ilang', 'signal']",['ilang_signal']
+"['woy', 'kenapa', 'makin', 'makin', 'lag', 'sinyal', 'pdhal', 'kouta', 'byk', 'sinyal', 'hijau', 'kenapa', 'lag', 'skin', 'banyak', 'lag', 'biarin']","['banyak_lag', 'byk_sinyal', 'hijau_kenapa', 'kenapa_lag', 'kenapa_makin', 'kouta_byk', 'lag_biarin', 'lag_sinyal', 'lag_skin', 'makin_lag', 'makin_makin', 'pdhal_kouta', 'sinyal_hijau', 'sinyal_pdhal', 'skin_banyak', 'woy_kenapa']"
+"['seru', 'baru', 'seru', 'teman', 'cuma', 'punya', 'keluh', 'masa', 'tadi', 'sudah', 'chat', 'yatim', 'random', 'moga', 'ramah', 'semua']","['baru_seru', 'chat_yatim', 'cuma_punya', 'keluh_masa', 'masa_tadi', 'moga_ramah', 'punya_keluh', 'ramah_semua', 'random_moga', 'seru_baru', 'seru_teman', 'sudah_chat', 'tadi_sudah', 'teman_cuma', 'yatim_random']"
+"['season', 'sekarang', 'ngaco', 'auto', 'lag', 'pdhl', 'sinyal', 'wifi', 'amanalhasil', 'jd', 'kalah', 'jg', 'kacausll', 'troll']","['amanalhasil_jd', 'auto_lag', 'jd_kalah', 'jg_kacausll', 'kacausll_troll', 'kalah_jg', 'lag_pdhl', 'ngaco_auto', 'pdhl_sinyal', 'season_sekarang', 'sekarang_ngaco', 'sinyal_wifi', 'wifi_amanalhasil']"
+"['macthmaking', 'busuk', 'jelas', 'banget', 'beban', 'report', 'sedang', 'sungguh', 'sungguh', 'nak', 'report', 'aneh', 'mtyhic', 'atas', 'aneh', 'aneh', 'atur', 'aneh', 'mending', 'uninstal']","['aneh_aneh', 'aneh_atur', 'aneh_mending', 'aneh_mtyhic', 'atas_aneh', 'atur_aneh', 'banget_beban', 'beban_report', 'busuk_jelas', 'jelas_banget', 'macthmaking_busuk', 'mending_uninstal', 'mtyhic_atas', 'nak_report', 'report_aneh', 'report_sedang', 'sedang_sungguh', 'sungguh_nak', 'sungguh_sungguh']"
+['bagus'],[]
+"['bagus', 'bget', 'ramh', 'pk']","['bagus_bget', 'bget_ramh', 'ramh_pk']"
+"['sinyal', 'hijau', 'lag', 'sampai', 'afk']","['hijau_lag', 'lag_sampai', 'sampai_afk', 'sinyal_hijau']"
+"['legends', 'sekarang', 'suka', 'lag', 'gajelas', 'bagus', 'lag', 'sendiri', 'knapa']","['bagus_lag', 'gajelas_bagus', 'lag_gajelas', 'lag_sendiri', 'legends_sekarang', 'sekarang_suka', 'sendiri_knapa', 'suka_lag']"
+"['sampah', 'jelas', 'beranta', 'ngatur', 'kikir', 'busuk']","['beranta_ngatur', 'jelas_beranta', 'kikir_busuk', 'ngatur_kikir', 'sampah_jelas']"
+"['parah', 'kena', 'kredit', 'skor', 'bs', 'ranked', 'cma', 'gara', 'gara', 'kurang', 'bs', 'sperti', 'lain', 'biar', 'lancar', 'mending', 'pindah', 'king']","['biar_lancar', 'bs_ranked', 'bs_sperti', 'cma_gara', 'gara_gara', 'gara_kurang', 'kena_kredit', 'kredit_skor', 'kurang_bs', 'lain_biar', 'lancar_mending', 'mending_pindah', 'parah_kena', 'pindah_king', 'ranked_cma', 'skor_bs', 'sperti_lain']"
+['bagus'],[]
+"['ngomong', 'tosix', 'sopan', 'kasihan', 'anak', 'anak', 'bawah', 'umur', 'bilang', 'mundur', 'mundur', 'lostreek', 'kualitas', 'bagus', 'mending', 'lain', 'mati', 'suri']","['anak_anak', 'anak_bawah', 'bagus_mending', 'bawah_umur', 'bilang_mundur', 'kasihan_anak', 'kualitas_bagus', 'lain_mati', 'lostreek_kualitas', 'mati_suri', 'mending_lain', 'mundur_lostreek', 'mundur_mundur', 'ngomong_tosix', 'sopan_kasihan', 'tosix_sopan', 'umur_bilang']"
+"['masa', 'iya', 'ketemu', 'trio', 'gitu', 'duoyg', 'imbang']","['duoyg_imbang', 'gitu_duoyg', 'iya_ketemu', 'ketemu_trio', 'masa_iya', 'trio_gitu']"
+"['kalah', 'naik', 'legendmonton', 'kecewa']","['kalah_naik', 'legendmonton_kecewa', 'naik_legendmonton']"
+['haji'],[]
+"['beri', 'ma', 'en', 'tolol', 'semua']","['beri_ma', 'en_tolol', 'ma_en', 'tolol_semua']"
+['lumayan'],[]
+"['bento', 'banyak', 'bot']","['banyak_bot', 'bento_banyak']"
+"['ehh', 'poke', 'punya', 'apk', 'baharu', 'update', 'tan', 'benar', 'emosi', 'ping', 'stabil', 'fress', 'kwk', 'laq', 'laku', 'lalai', 'update']","['apk_baharu', 'baharu_update', 'benar_emosi', 'ehh_poke', 'emosi_ping', 'fress_kwk', 'kwk_laq', 'laku_lalai', 'lalai_update', 'laq_laku', 'ping_stabil', 'poke_punya', 'punya_apk', 'stabil_fress', 'tan_benar', 'update_tan']"
+"['aneh', 'sekarang', 'mulai', 'mact', 'tulis', 'reconet', 'sinyal', 'bagus', 'winstrake', 'hancur', 'gara', 'gara', 'haduh', 'mohon', 'perhatianya']","['aneh_sekarang', 'bagus_winstrake', 'gara_gara', 'gara_haduh', 'haduh_mohon', 'hancur_gara', 'mact_tulis', 'mohon_perhatianya', 'mulai_mact', 'reconet_sinyal', 'sekarang_mulai', 'sinyal_bagus', 'tulis_reconet', 'winstrake_hancur']"
+"['akhir', 'bug', 'jelas', 'sampai', 'late', 'mainin', 'lancar', 'suka', 'lag', 'sungguh', 'masuk', 'akal', 'tolong', 'baik']","['akal_tolong', 'akhir_bug', 'bug_jelas', 'jelas_sampai', 'lag_sungguh', 'lancar_suka', 'late_mainin', 'mainin_lancar', 'masuk_akal', 'sampai_late', 'suka_lag', 'sungguh_masuk', 'tolong_baik']"
+"['coba', 'tambahin', 'ngirim', 'battle', 'poin', 'biar', 'ngirim', 'teman']","['battle_poin', 'biar_ngirim', 'coba_tambahin', 'ngirim_battle', 'ngirim_teman', 'poin_biar', 'tambahin_ngirim']"
+"['bagus', 'keren', 'bagus', 'bagus', 'balik', 'jembut', 'buruk', 'buruk']","['bagus_bagus', 'bagus_balik', 'bagus_keren', 'balik_jembut', 'buruk_buruk', 'jembut_buruk', 'keren_bagus']"
+"['makin', 'makin', 'jelas', 'masalah', 'jelek', 'banget', 'stabil', 'suka', 'lag', 'tibajadi', 'makin', 'males', 'update', 'makin', 'gede', 'mb', 'baik', 'sudah', 'waras']","['baik_sudah', 'banget_stabil', 'gede_mb', 'jelas_masalah', 'jelek_banget', 'lag_tibajadi', 'makin_gede', 'makin_jelas', 'makin_makin', 'makin_males', 'males_update', 'masalah_jelek', 'mb_baik', 'stabil_suka', 'sudah_waras', 'suka_lag', 'tibajadi_makin', 'update_makin']"
+"['waw', 'seru']",['waw_seru']
+"['mantap', 'bagus', 'banget', 'ws', 'alhamdulillah']","['bagus_banget', 'banget_ws', 'mantap_bagus', 'ws_alhamdulillah']"
+"['bagussihh', 'tolong', 'gelap', 'hapus']","['bagussihh_tolong', 'gelap_hapus', 'tolong_gelap']"
+"['sukak', 'user', 'franko', 'tari', 'maut', 'langsung', 'kena', 'lord']","['franko_tari', 'kena_lord', 'langsung_kena', 'maut_langsung', 'sukak_user', 'tari_maut', 'user_franko']"
+"['sedot', 'makin', 'makin', 'jelek', 'makin', 'buruk', 'full', 'leq', 'bnyak', 'bug']","['bnyak_bug', 'buruk_full', 'full_leq', 'jelek_makin', 'leq_bnyak', 'makin_buruk', 'makin_jelek', 'makin_makin', 'sedot_makin']"
+"['moga', 'bagus']",['moga_bagus']
+"['buruk', 'banyak', 'draksistem', 'buruk', 'pernah']","['banyak_draksistem', 'buruk_banyak', 'buruk_pernah', 'draksistem_buruk']"
+"['makin', 'lama', 'makin', 'anj', 'bagus', 'stabil', 'gabisa', 'gerak', 'pencet', 'bilang', 'buruk', 'muncul', 'bagusstabil', 'jelas', 'musuh', 'party', 'posisi', 'menang', 'hubung', 'ulang', 'make', 'kuota']","['anj_bagus', 'bagus_stabil', 'bagusstabil_jelas', 'bilang_buruk', 'buruk_muncul', 'gabisa_gerak', 'gerak_pencet', 'hubung_ulang', 'jelas_musuh', 'lama_makin', 'make_kuota', 'makin_anj', 'makin_lama', 'menang_hubung', 'muncul_bagusstabil', 'musuh_party', 'party_posisi', 'pencet_bilang', 'posisi_menang', 'stabil_gabisa', 'ulang_make']"
+"['rusak', 'bug', 'afk', 'bodo']","['afk_bodo', 'bug_afk', 'rusak_bug']"
+"['bagus', 'banget', 'bos']","['bagus_banget', 'banget_bos']"
+"['keri', 'gs', 'jangn', 'coba', 'adik', 'mainnin', 'lama', 'bulan', 'lebih', 'masuk', 'rumah', 'sakit', 'jiwa', 'setress', 'lebih', 'habus', 'baik', 'kesehatanmental']","['adik_mainnin', 'baik_kesehatanmental', 'bulan_lebih', 'coba_adik', 'gs_jangn', 'habus_baik', 'jangn_coba', 'jiwa_setress', 'keri_gs', 'lama_bulan', 'lebih_habus', 'lebih_masuk', 'mainnin_lama', 'masuk_rumah', 'rumah_sakit', 'sakit_jiwa', 'setress_lebih']"
+"['hadeuh', 'mah', 'seru', 'stres', 'wortit', 'banget', 'apalgi', 'sengaja', 'banget', 'kasi', 'gelap', 'gelap', 'melulu', 'tambah', 'sinyal', 'bagus', 'lag', 'lag']","['apalgi_sengaja', 'bagus_lag', 'banget_apalgi', 'banget_kasi', 'gelap_gelap', 'gelap_melulu', 'hadeuh_mah', 'kasi_gelap', 'lag_lag', 'mah_seru', 'melulu_tambah', 'sengaja_banget', 'seru_stres', 'sinyal_bagus', 'stres_wortit', 'tambah_sinyal', 'wortit_banget']"
+"['makin', 'update', 'lag', 'enak', 'khusus', 'mending', 'usah', 'maksa', 'yaudah', 'awas', 'darah', 'tinggi', 'bubarin', 'tod']","['awas_darah', 'bubarin_tod', 'darah_tinggi', 'enak_khusus', 'khusus_mending', 'lag_enak', 'makin_update', 'maksa_yaudah', 'mending_usah', 'tinggi_bubarin', 'update_lag', 'usah_maksa', 'yaudah_awas']"
+"['seru', 'cari', 'teman', 'pacar']","['cari_teman', 'seru_cari', 'teman_pacar']"
+['seru'],[]
+"['moga', 'sabar', 'tinggi', 'serta', 'semua', 'domzz', 'stay']","['domzz_stay', 'moga_sabar', 'sabar_tinggi', 'semua_domzz', 'serta_semua', 'tinggi_serta']"
+"['seru', 'epic', 'moga', 'onic']","['epic_moga', 'moga_onic', 'seru_epic']"
+"['lovyu', 'muntun', 'akun', 'balik', 'cs', 'bgus', 'banget', 'banget', 'banget', 'lovyu', 'muntun']","['akun_balik', 'balik_cs', 'banget_banget', 'banget_lovyu', 'bgus_banget', 'cs_bgus', 'lovyu_muntun', 'muntun_akun']"
+"['jangan', 'guys', 'haram', 'isi', 'gelap', 'selalu', 'kalah', 'adil', 'scak', 'epic', 'gegera', 'gelap', 'tolong', 'pisahin', 'gelap', 'kikirr', 'emosi', 'bukan', 'ngilangin', 'stres', 'tambah', 'stres', 'haram', 'kikir', 'poke', 'adil', 'ngepus', 'sampai', 'imo', 'nyata', 'kalah', 'haram', 'tolong', 'not', 'mending', 'free', 'fire', 'lose', 'treak', 'cape', 'epic', 'tolong', 'bagus']","['adil_ngepus', 'adil_scak', 'bukan_ngilangin', 'cape_epic', 'emosi_bukan', 'epic_gegera', 'epic_tolong', 'fire_lose', 'free_fire', 'gegera_gelap', 'gelap_kikirr', 'gelap_selalu', 'gelap_tolong', 'guys_haram', 'haram_isi', 'haram_kikir', 'haram_tolong', 'imo_nyata', 'isi_gelap', 'jangan_guys', 'kalah_adil', 'kalah_haram', 'kikir_poke', 'kikirr_emosi', 'lose_treak', 'mending_free', 'ngepus_sampai', 'ngilangin_stres', 'not_mending', 'nyata_kalah', 'pisahin_gelap', 'poke_adil', 'sampai_imo', 'scak_epic', 'selalu_kalah', 'stres_haram', 'stres_tambah', 'tambah_stres', 'tolong_bagus', 'tolong_not', 'tolong_pisahin', 'treak_cape']"
+"['legends', 'nggk', 'mobil', 'aplikasi', 'nggk', 'didonwloadya', 'mungkin', 'nokia', 'hehe']","['aplikasi_nggk', 'didonwloadya_mungkin', 'legends_nggk', 'mobil_aplikasi', 'mungkin_nokia', 'nggk_didonwloadya', 'nggk_mobil', 'nokia_hehe']"
+"['kontribusi', 'playernya', 'toxic', 'trs', 'wifi', 'lag', 'scroll', 'yt', 'tiktok', 'lag']","['kontribusi_playernya', 'lag_scroll', 'playernya_toxic', 'scroll_yt', 'tiktok_lag', 'toxic_trs', 'trs_wifi', 'wifi_lag', 'yt_tiktok']"
+"['makin', 'jelas', 'resah', 'tambah', 'makin', 'banyak', 'draksistem', 'adalagi', 'bila', 'bintang', 'ketemu', 'trol', 'makin', 'makin', 'bb']","['adalagi_bila', 'banyak_draksistem', 'bila_bintang', 'bintang_ketemu', 'draksistem_adalagi', 'jelas_resah', 'ketemu_trol', 'makin_banyak', 'makin_bb', 'makin_jelas', 'makin_makin', 'resah_tambah', 'tambah_makin', 'trol_makin']"
+"['najis', 'bug', 'lol', 'emosi', 'rusak', 'bug', 'buka', 'aplikasi', 'lain', 'lancar', 'jaya', 'kocak']","['aplikasi_lain', 'bug_buka', 'bug_lol', 'buka_aplikasi', 'emosi_rusak', 'jaya_kocak', 'lain_lancar', 'lancar_jaya', 'lol_emosi', 'najis_bug', 'rusak_bug']"
+"['gonta', 'ganti', 'provider', 'clasic', 'super', 'lag', 'niat', 'cari', 'hibur', 'emosi', 'uninstall', 'males']","['cari_hibur', 'clasic_super', 'emosi_uninstall', 'ganti_provider', 'gonta_ganti', 'hibur_emosi', 'lag_niat', 'niat_cari', 'provider_clasic', 'super_lag', 'uninstall_males']"
+"['merah', 'bgs', 'classic', 'bagus', 'kacau', 'skrng', 'bagus']","['bagus_kacau', 'bgs_classic', 'classic_bagus', 'kacau_skrng', 'merah_bgs', 'skrng_bagus']"
+"['hello', 'justin', 'yuan', 'and', 'watson', 'xu', 'zhenhua', 'will', 'never', 'read', 'letter', 'al', 'jabar', 'you', 'm', 'already', 'hurt', 'by', 'you', 'so', 'congratulations', 'on', 'what', 'will', 'happen', 'pain', 'that', 'why']","['al_jabar', 'already_hurt', 'and_watson', 'by_you', 'congratulations_on', 'happen_pain', 'hello_justin', 'hurt_by', 'jabar_you', 'justin_yuan', 'letter_al', 'never_read', 'on_what', 'pain_that', 'read_letter', 'so_congratulations', 'that_why', 'watson_xu', 'what_will', 'will_happen', 'will_never', 'xu_zhenhua', 'you_already', 'you_so', 'yuan_and', 'zhenhua_will']"
+"['kece', 'badai']",['kece_badai']
+"['ngasi', 'teman', 'tu', 'benar', 'gausah', 'kawan', 'epik', 'lawan', 'glory', 'imbang', 'menang', 'kalah', 'sampek', 'imbang', 'kawan', 'lawan', 'cuihh']","['benar_gausah', 'epik_lawan', 'gausah_kawan', 'glory_imbang', 'imbang_kawan', 'imbang_menang', 'kalah_sampek', 'kawan_epik', 'kawan_lawan', 'lawan_cuihh', 'lawan_glory', 'menang_kalah', 'ngasi_teman', 'sampek_imbang', 'teman_tu', 'tu_benar']"
+"['sip', 'bagus']",['sip_bagus']
+"['kadang', 'kadang', 'emosi']","['kadang_emosi', 'kadang_kadang']"
+['seru'],[]
+"['lumayan', 'agak', 'agak', 'lag']","['agak_agak', 'agak_lag', 'lumayan_agak']"
+"['bjirr', 'baru', 'bulan', 'epic']","['baru_bulan', 'bjirr_baru', 'bulan_epic']"
+"['ygy', 'donlowd', 'usak', 'mentaly', 'saling', 'ngejek', 'toxic', 'recal', 'ramah', 'dikill', 'musuh', 'lansung', 'lanjut', 'cril', 'mah', 'ngetik', 'dikill', 'musuh', 'omongin', 'pou', 'recal', 'ygy', 'jgn', 'donlowd', 'banke', 'tolol', 'idiot', 'montod']","['banke_tolol', 'cril_mah', 'dikill_musuh', 'donlowd_banke', 'donlowd_usak', 'idiot_montod', 'jgn_donlowd', 'lanjut_cril', 'lansung_lanjut', 'mah_ngetik', 'mentaly_saling', 'musuh_lansung', 'musuh_omongin', 'ngejek_toxic', 'ngetik_dikill', 'omongin_pou', 'pou_recal', 'ramah_dikill', 'recal_ramah', 'recal_ygy', 'saling_ngejek', 'tolol_idiot', 'toxic_recal', 'usak_mentaly', 'ygy_donlowd', 'ygy_jgn']"
+"['win', 'lose', 'gitu', 'sampai', 'tres', 'sekarang', 'sudah', 'hapus', 'tres']","['gitu_sampai', 'hapus_tres', 'lose_gitu', 'sampai_tres', 'sekarang_sudah', 'sudah_hapus', 'tres_sekarang', 'win_lose']"
+"['buruk', 'sinyal', 'bagus', 'lag', 'lag', 'riport', 'sudah', 'bagus', 'sinyal', 'cok', 'cek', 'sudah', 'bagus', 'abang']","['bagus_abang', 'bagus_lag', 'bagus_sinyal', 'buruk_sinyal', 'cek_sudah', 'cok_cek', 'lag_lag', 'lag_riport', 'riport_sudah', 'sinyal_bagus', 'sinyal_cok', 'sudah_bagus']"
+"['ayo', 'rusak', 'enginesistem']","['ayo_rusak', 'rusak_enginesistem']"
+"['naon', 'naon', 'minion', 'aing', 'kalah', 'nyerang', 'base', 'aing', 'tolol', 'minion', 'kanker']","['aing_kalah', 'aing_tolol', 'base_aing', 'kalah_nyerang', 'minion_aing', 'minion_kanker', 'naon_minion', 'naon_naon', 'nyerang_base', 'tolol_minion']"
+"['memng', 'mantap', 'bosan']","['mantap_bosan', 'memng_mantap']"
+"['bagus', 'seru', 'banget', 'buru', 'coba']","['bagus_seru', 'banget_buru', 'buru_coba', 'seru_banget']"
+"['beri', 'adil', 'pensi']","['adil_pensi', 'beri_adil']"
+"['tolong', 'baik', 'signyal', 'full', 'patah']","['baik_signyal', 'full_patah', 'signyal_full', 'tolong_baik']"
+"['uda', 'lama', 'sekarang', 'sekarang', 'lag', 'gejalas', 'bahkan', 'sampai', 'ngga', 'gerak', 'sinyal', 'bagus', 'wifi', 'bagus', 'tolong', 'server', 'baik', 'mas', 'ngga', 'baik', 'hormat', 'uninstal']","['bagus_tolong', 'bagus_wifi', 'bahkan_sampai', 'baik_hormat', 'baik_mas', 'gejalas_bahkan', 'gerak_sinyal', 'hormat_uninstal', 'lag_gejalas', 'lama_sekarang', 'mas_ngga', 'ngga_baik', 'ngga_gerak', 'sampai_ngga', 'sekarang_lag', 'sekarang_sekarang', 'server_baik', 'sinyal_bagus', 'tolong_server', 'uda_lama', 'wifi_bagus']"
+"['makin', 'devices', 'friendly', 'detik', 'sampai', 'frame', 'drop', 'fps', 'per', 'detik', 'parah', 'alhasil', 'ganti', 'emblem', 'battle', 'spell', 'bayang', 'suruh', 'fast', 'respon', 'cuma', 'detik', 'chipset', 'sd', 'kurang', 'kah']","['alhasil_ganti', 'battle_spell', 'bayang_suruh', 'chipset_sd', 'cuma_detik', 'detik_chipset', 'detik_parah', 'detik_sampai', 'devices_friendly', 'drop_fps', 'emblem_battle', 'fast_respon', 'fps_per', 'frame_drop', 'friendly_detik', 'ganti_emblem', 'kurang_kah', 'makin_devices', 'parah_alhasil', 'per_detik', 'respon_cuma', 'sampai_frame', 'sd_kurang', 'spell_bayang', 'suruh_fast']"
+"['makin', 'makin', 'jelas', 'lag', 'selalu', 'kalah', 'untun', 'jelek']","['jelas_lag', 'kalah_untun', 'lag_selalu', 'makin_jelas', 'makin_makin', 'selalu_kalah', 'untun_jelek']"
+"['jelek', 'sekarang', 'ngga', 'android']","['jelek_sekarang', 'ngga_android', 'sekarang_ngga']"
+[],[]
+['gelap'],[]
+"['macam', 'seru', 'banget']","['macam_seru', 'seru_banget']"
+['bagus'],[]
+"['ciga', 'bagong', 'ayna', 'sia', 't', 'ngajawab', 'tanya', 'aing', 'kana', 'aing', 'sia', 'jieun', 'rem', 'najis', 'ayna', 'mah', 'aing', 'kudu', 'deui', 'ieu']","['aing_kana', 'aing_kudu', 'aing_sia', 'ayna_mah', 'ayna_sia', 'bagong_ayna', 'ciga_bagong', 'deui_ieu', 'jieun_rem', 'kana_aing', 'kudu_deui', 'mah_aing', 'najis_ayna', 'ngajawab_tanya', 'rem_najis', 'sia_jieun', 'sia_ngajawab', 'tanya_aing']"
+"['mkin', 'rusak', 'suka', 'lag', 'pdhal', 'jringan', 'hijau', 'mnding', 'usah', 'dowload']","['hijau_mnding', 'jringan_hijau', 'lag_pdhal', 'mkin_rusak', 'mnding_usah', 'pdhal_jringan', 'rusak_suka', 'suka_lag', 'usah_dowload']"
+['hama'],[]
+"['sinyal', 'bagus', 'lag', 'emosi']","['bagus_lag', 'lag_emosi', 'sinyal_bagus']"
+"['lag', 'wifi']",['lag_wifi']
+"['guna', 'jelek', 'nonton', 'yt', 'ig', 'tiktok', 'lancar', 'banget', 'asli', 'guna', 'kntol']","['asli_guna', 'banget_asli', 'guna_jelek', 'guna_kntol', 'ig_tiktok', 'jelek_nonton', 'lancar_banget', 'nonton_yt', 'tiktok_lancar', 'yt_ig']"
+"['bagus', 'bangett']",['bagus_bangett']
+"['makin', 'buruk', 'kagak', 'senengin', 'selalu', 'feeder', 'bot', 'tahu', 'jenis', 'item', 'emblem', 'butuh', 'terkadang', 'asal', 'pilih', 'king', 'jauh', 'lebih', 'seru']","['asal_pilih', 'bot_tahu', 'buruk_kagak', 'butuh_terkadang', 'emblem_butuh', 'feeder_bot', 'item_emblem', 'jauh_lebih', 'jenis_item', 'kagak_senengin', 'king_jauh', 'lebih_seru', 'makin_buruk', 'pilih_king', 'selalu_feeder', 'senengin_selalu', 'tahu_jenis', 'terkadang_asal']"
+"['buruk', 'kau', 'bagus', 'bagus', 'sikit', 'beri', 't', 'n', 'semua', 'hapus', 'play', 'store']","['bagus_bagus', 'bagus_sikit', 'beri_semua', 'buruk_kau', 'hapus_play', 'kau_bagus', 'play_store', 'semua_hapus', 'sikit_beri']"
+"['bagus', 'usia', 'baik']","['bagus_usia', 'usia_baik']"
+"['update', 'season', 'pernah', 'rusak', 'sinyal', 'bagus', 'lag', 'butut']","['bagus_lag', 'lag_butut', 'pernah_rusak', 'rusak_sinyal', 'season_pernah', 'sinyal_bagus', 'update_season']"
+"['kalah', 'lawa', 'ngeri', 'lol']","['kalah_lawa', 'lawa_ngeri', 'ngeri_lol']"
+['aneh'],[]
+['buruk'],[]
+"['muak', 'daritadi', 'sengaja', 'kalah']","['daritadi_sengaja', 'muak_daritadi', 'sengaja_kalah']"
+"['tolong', 'notice', 'milik', 'masuk', 'coba', 'tambah', 'brawl', 'brawl', 'masuk', 'semangat']","['brawl_brawl', 'brawl_masuk', 'coba_tambah', 'masuk_coba', 'masuk_semangat', 'milik_masuk', 'notice_milik', 'tambah_brawl', 'tolong_notice']"
+"['sinyal', 'down', 'pernah', 'perhati', 'complain', 'ttg', 'stabil', 'sinyal', 'update', 'baru', 'lag', 'parah']","['baru_lag', 'complain_ttg', 'down_pernah', 'lag_parah', 'perhati_complain', 'pernah_perhati', 'sinyal_down', 'sinyal_update', 'stabil_sinyal', 'ttg_stabil', 'update_baru']"
+"['jelas', 'lama', 'update', 'makin', 'parah', 'lag', 'pdhl', 'hijau', 'sinyal', 'msuk', 'lagg', 'afk', 'jelas']","['afk_jelas', 'hijau_sinyal', 'jelas_lama', 'lag_pdhl', 'lagg_afk', 'lama_update', 'makin_parah', 'msuk_lagg', 'parah_lag', 'pdhl_hijau', 'sinyal_msuk', 'update_makin']"
+"['gaje', 'glory', 'isi', 'tetp', 'banyak', 'draksisitem']","['banyak_draksisitem', 'gaje_glory', 'glory_isi', 'isi_tetp', 'tetp_banyak']"
+"['mending', 'lain', 'curang']","['lain_curang', 'mending_lain']"
+"['munafik', 'bego', 'win', 'klh', 'dlu', 'wkwk', 'buruk', 'push', 'lama', 'stack', 'lingkar', 'setan', 'gtu', 'mending', 'pindah', 'ketimbang', 'kikir', 'stack', 'mawi', 'minimal', 'beri', 'imbang', 'sedikit', 'biadab', 'masa', 'musuh', 'pro', 'bot', 'mikir', 'bego', 'mending', 'ep', 'ep', 'ketimbang', 'kikir']","['bego_mending', 'bego_win', 'beri_imbang', 'biadab_masa', 'bot_mikir', 'buruk_push', 'dlu_wkwk', 'ep_ep', 'ep_ketimbang', 'gtu_mending', 'imbang_sedikit', 'ketimbang_kikir', 'kikir_stack', 'klh_dlu', 'lama_stack', 'lingkar_setan', 'masa_musuh', 'mawi_minimal', 'mending_ep', 'mending_pindah', 'mikir_bego', 'minimal_beri', 'munafik_bego', 'musuh_pro', 'pindah_ketimbang', 'pro_bot', 'push_lama', 'sedikit_biadab', 'setan_gtu', 'stack_lingkar', 'stack_mawi', 'win_klh', 'wkwk_buruk']"
+"['makin', 'absurb', 'imbang', 'cuih', 'sampah', 'staffnya', 'ngga', 'kerja']","['absurb_imbang', 'cuih_sampah', 'imbang_cuih', 'makin_absurb', 'ngga_kerja', 'sampah_staffnya', 'staffnya_ngga']"
+"['cocok', 'bintang', 'satu', 'ws', 'ls']","['bintang_satu', 'cocok_bintang', 'satu_ws', 'ws_ls']"
+"['alam', 'senang', 'bagus', 'inspirasi', 'tokohtokoh', 'nasional', 'kenal', 'negara', 'beda', 'tema', 'tarik', 'dukung', 'kembang', 'lonjak', 'drastis', 'sudah', 'masuk', 'salah', 'satu', 'favorit', 'alam', 'virtual', 'senang', 'senang', 'selalu', 'buff', 'nerf', 'sesuai', 'play', 'imbang']","['alam_senang', 'alam_virtual', 'bagus_inspirasi', 'beda_tema', 'buff_nerf', 'drastis_sudah', 'dukung_kembang', 'favorit_alam', 'inspirasi_tokohtokoh', 'kembang_lonjak', 'kenal_negara', 'lonjak_drastis', 'masuk_salah', 'nasional_kenal', 'negara_beda', 'nerf_sesuai', 'play_imbang', 'salah_satu', 'satu_favorit', 'selalu_buff', 'senang_bagus', 'senang_selalu', 'senang_senang', 'sesuai_play', 'sudah_masuk', 'tarik_dukung', 'tema_tarik', 'tokohtokoh_nasional', 'virtual_senang']"
+"['jelas', 'beri', 'ngotak', 'tres']","['beri_ngotak', 'jelas_beri', 'ngotak_tres']"
+"['makin', 'ngaco', 'down', 'ms', 'naik', 'turuun', 'rating']","['down_ms', 'makin_ngaco', 'ms_naik', 'naik_turuun', 'ngaco_down', 'turuun_rating']"
+"['kadita', 'butuh', 'skin', 'epic', 'zenith', 'kadita', 'ariel', 'cocok', 'zenith']","['ariel_cocok', 'butuh_skin', 'cocok_zenith', 'epic_zenith', 'kadita_ariel', 'kadita_butuh', 'skin_epic', 'zenith_kadita']"
+"['bangke', 'mending', 'urusin', 'masalah', 'bug', 'ingame', 'ngurusin', 'event', 'skin', 'siasia', 'banyak', 'event', 'skin', 'masalah', 'bug', 'urusin', 'ijo', 'lag', 'aneh']","['bangke_mending', 'banyak_event', 'bug_ingame', 'bug_urusin', 'event_skin', 'ijo_lag', 'ingame_ngurusin', 'lag_aneh', 'masalah_bug', 'mending_urusin', 'ngurusin_event', 'siasia_banyak', 'skin_masalah', 'skin_siasia', 'urusin_ijo', 'urusin_masalah']"
+"['sekarang', 'aneh', 'banget', 'satuin', 'bego', 'musuh', 'op', 'malesin']","['aneh_banget', 'banget_satuin', 'bego_musuh', 'musuh_op', 'op_malesin', 'satuin_bego', 'sekarang_aneh']"
+"['baik', 'dunia']",['baik_dunia']
+"['bukan', 'makin', 'bagus', 'makin', 'parah', 'lagnya', 'setting', 'speed', 'tingkat', 'masalah', 'aktif', 'selalu', 'suka', 'nonaktif', 'sendiri', 'nyalain', 'speed', 'tingkat', 'tambah', 'kira', 'masalah', 'signal', 'sendiri', 'wifi', 'cek', 'signal', 'bar', 'penuh', 'begitu', 'wifi', 'tes', 'youtube', 'lain', 'lancar', 'gimana', 'tolong', 'walau', 'merek', 'as', 'lama', 'lain', 'bagus']","['aktif_selalu', 'as_lama', 'bagus_makin', 'bar_penuh', 'begitu_wifi', 'bukan_makin', 'cek_signal', 'gimana_tolong', 'kira_masalah', 'lagnya_setting', 'lain_bagus', 'lain_lancar', 'lama_lain', 'lancar_gimana', 'makin_bagus', 'makin_parah', 'masalah_aktif', 'masalah_signal', 'merek_as', 'nonaktif_sendiri', 'nyalain_speed', 'parah_lagnya', 'penuh_begitu', 'selalu_suka', 'sendiri_nyalain', 'sendiri_wifi', 'setting_speed', 'signal_bar', 'signal_sendiri', 'speed_tingkat', 'suka_nonaktif', 'tambah_kira', 'tes_youtube', 'tingkat_masalah', 'tingkat_tambah', 'tolong_walau', 'walau_merek', 'wifi_cek', 'wifi_tes', 'youtube_lain']"
+"['aneh', 'tinggi', 'teman', 'bot', 'aneh', 'bett', 'musuh', 'semua', 'sendiri', 'bott', 'buay', 'serius', 'bodoh']","['aneh_bett', 'aneh_tinggi', 'bett_musuh', 'bot_aneh', 'bott_buay', 'buay_serius', 'musuh_semua', 'semua_sendiri', 'sendiri_bott', 'serius_bodoh', 'teman_bot', 'tinggi_teman']"
+"['buruk', 'wifi', 'bagus', 'apakah', 'legends', 'rusak']","['apakah_legends', 'bagus_apakah', 'buruk_wifi', 'legends_rusak', 'wifi_bagus']"
+['rusak'],[]
+"['coba', 'baik', 'anjg', 'bagus', 'kenapa', 'lag', 'emosi', 'heran']","['anjg_bagus', 'bagus_kenapa', 'baik_anjg', 'coba_baik', 'emosi_heran', 'kenapa_lag', 'lag_emosi']"
+"['pliss', 'baik', 'masa', 'ie', 'lezen', 'epic', 'gara', 'gara', 'punya', 'guna', 'gelap', 'aduh']","['baik_masa', 'epic_gara', 'gara_gara', 'gara_punya', 'gelap_aduh', 'guna_gelap', 'ie_lezen', 'lezen_epic', 'masa_ie', 'pliss_baik', 'punya_guna']"
+"['kalah', 'sampai', 'menang', 'lawan', 'komputer']","['kalah_sampai', 'lawan_komputer', 'menang_lawan', 'sampai_menang']"
+['gjls'],[]
+"['makin', 'updetan', 'makin', 'jelas', 'selalu', 'lag', 'sinyal', 'bagus']","['jelas_selalu', 'lag_sinyal', 'makin_jelas', 'makin_updetan', 'selalu_lag', 'sinyal_bagus', 'updetan_makin']"
+"['bagus', 'kikir', 'imbang', 'banyak', 'bansos', 'gacha', 'wangi', 'baik', 'wangiin', 'akun', 'moontod', 'tambahin', 'bintang', 'gacha', 'aspirant', 'pola', 'akun', 'danish']","['akun_danish', 'akun_moontod', 'aspirant_pola', 'bagus_kikir', 'baik_wangiin', 'bansos_gacha', 'banyak_bansos', 'bintang_gacha', 'gacha_aspirant', 'gacha_wangi', 'imbang_banyak', 'kikir_imbang', 'moontod_tambahin', 'pola_akun', 'tambahin_bintang', 'wangi_baik', 'wangiin_akun']"
+"['sinyal', 'bagus', 'lag', 'mentok', 'loby', 'patah', 'patah', 'sudah', 'bagus', 'ram', 'besar', 'banyak', 'performa', 'asik']","['bagus_lag', 'bagus_ram', 'banyak_performa', 'besar_banyak', 'lag_mentok', 'loby_patah', 'mentok_loby', 'patah_patah', 'patah_sudah', 'performa_asik', 'ram_besar', 'sinyal_bagus', 'sudah_bagus']"
+"['sampah', 'tolol', 'banyak', 'bocah', 'random', 'acak', 'jelas', 'tolol', 'buruk']","['acak_jelas', 'banyak_bocah', 'bocah_random', 'jelas_tolol', 'random_acak', 'sampah_tolol', 'tolol_banyak', 'tolol_buruk']"
+['kontol'],[]
+"['cocok', 'hilang', 'strees', 'strees']","['cocok_hilang', 'hilang_strees', 'strees_strees']"
+['stres'],[]
+"['ketemu', 'party', 'aneh', 'busuk', 'busuk']","['aneh_busuk', 'busuk_busuk', 'ketemu_party', 'party_aneh']"
+['bagus'],[]
+"['tolong', 'imbang', 'troll', 'afk', 'sesuai', 'mending']","['afk_sesuai', 'imbang_troll', 'sesuai_mending', 'tolong_imbang', 'troll_afk']"
+['bagus'],[]
+"['beberapa', 'imbang', 'afk']","['beberapa_imbang', 'imbang_afk']"
+"['susah', 'gampang']",['susah_gampang']
+"['pls', 'bagi', 'koin', 'teman']","['bagi_koin', 'koin_teman', 'pls_bagi']"
+"['benar', 'ancur', 'season', 'masa', 'full', 'ketemu', 'duo', 'trio', 'party', 'kocak', 'niat', 'happy', 'fun', 'emosi', 'saran', 'mending', 'hapus', 'dri', 'kalean']","['ancur_season', 'benar_ancur', 'dri_kalean', 'duo_trio', 'emosi_saran', 'full_ketemu', 'fun_emosi', 'happy_fun', 'hapus_dri', 'ketemu_duo', 'kocak_niat', 'masa_full', 'mending_hapus', 'niat_happy', 'party_kocak', 'saran_mending', 'season_masa', 'trio_party']"
+"['babi', 'macth', 'tier', 'epic', 'atas', 'tdk', 'adil', 'tuk', 'lose', 'streak', 'percuma', 'mvp', 'tuk', 'kalah', 'dasar', 'anjing']","['adil_tuk', 'atas_tdk', 'babi_macth', 'dasar_anjing', 'epic_atas', 'kalah_dasar', 'lose_streak', 'macth_tier', 'mvp_tuk', 'percuma_mvp', 'streak_percuma', 'tdk_adil', 'tier_epic', 'tuk_kalah', 'tuk_lose']"
+"['jamet', 'bedahal', 'wifi', 'lancar', 'dasar', 'buruk', 'mending', 'ff']","['bedahal_wifi', 'buruk_mending', 'dasar_buruk', 'jamet_bedahal', 'lancar_dasar', 'mending_ff', 'wifi_lancar']"
+"['buruk', 'jangan', 'gelap', 'tadi', 'sudah', 'lose', 'trik', 'pensi']","['buruk_jangan', 'gelap_tadi', 'jangan_gelap', 'lose_trik', 'sudah_lose', 'tadi_sudah', 'trik_pensi']"
+"['coba', 'lag', 'simulator', 'wifi', 'plus', 'tingkat', 'aktif', 'semua', 'lag']","['aktif_semua', 'coba_lag', 'lag_simulator', 'plus_tingkat', 'semua_lag', 'simulator_wifi', 'tingkat_aktif', 'wifi_plus']"
+"['rusak', 'habis', 'update', 'lag', 'suka', 'ngetroll', 'rusak']","['habis_update', 'lag_suka', 'ngetroll_rusak', 'rusak_habis', 'suka_ngetroll', 'update_lag']"
+"['tolong', 'skin', 'dalam', 'tanding', 'gede', 'banget', 'tolong', 'biar', 'hapus', 'lain', 'guna', 'biar', 'hapus', 'berat', 'banget', 'afk', 'sanksi', 'kocak', 'salah', 'gada', 'ringan', 'kentang']","['afk_sanksi', 'banget_afk', 'banget_tolong', 'berat_banget', 'biar_hapus', 'dalam_tanding', 'gada_ringan', 'gede_banget', 'guna_biar', 'hapus_berat', 'hapus_lain', 'kocak_salah', 'lain_guna', 'ringan_kentang', 'salah_gada', 'sanksi_kocak', 'skin_dalam', 'tanding_gede', 'tolong_biar', 'tolong_skin']"
+"['lag', 'parah', 'update', 'project', 'next', 'buka', 'event', 'draft', 'akhir', 'lag', 'wajar', 'kadang', 'loading', 'stuck', 'jelass']","['akhir_lag', 'buka_event', 'draft_akhir', 'event_draft', 'kadang_loading', 'lag_parah', 'lag_wajar', 'loading_stuck', 'next_buka', 'parah_update', 'project_next', 'stuck_jelass', 'update_project', 'wajar_kadang']"
+"['makin', 'mantap']",['makin_mantap']
+"['kira', 'kira', 'luh', 'rangin', 'kredit', 'skor', 'afk', 'sebentar', 'kurang', 'admin', 'lol']","['admin_lol', 'afk_sebentar', 'kira_kira', 'kira_luh', 'kredit_skor', 'kurang_admin', 'luh_rangin', 'rangin_kredit', 'sebentar_kurang', 'skor_afk']"
+"['minimal', 'baik', 'sinyal', 'minimal', 'lag', 'banget', 'beta']","['baik_sinyal', 'banget_beta', 'lag_banget', 'minimal_baik', 'minimal_lag', 'sinyal_minimal']"
+"['tani', 'sepi']",['tani_sepi']
+"['ng', 'bagus', 'cuma', 'tensi', 'naik']","['bagus_cuma', 'cuma_tensi', 'ng_bagus', 'tensi_naik']"
+"['apalahh', 'signal', 'hijau', 'lag', 'olah', 'kouta', 'mana', 'moment', 'krusial', 'late', 'lose', 'akibat', 'ping', 'benar']","['akibat_ping', 'apalahh_signal', 'hijau_lag', 'kouta_mana', 'krusial_late', 'lag_olah', 'late_lose', 'lose_akibat', 'mana_moment', 'moment_krusial', 'olah_kouta', 'ping_benar', 'signal_hijau']"
+"['bangus', 'sip']",['bangus_sip']
+"['he', 'memeq', 'user', 'mm', 'sat', 'ngapa', 'exp', 'meq']","['exp_meq', 'he_memeq', 'memeq_user', 'mm_sat', 'ngapa_exp', 'sat_ngapa', 'user_mm']"
+"['jelek', 'gelap']",['jelek_gelap']
+"['moontn', 'kyk', 't', 'lag', 'bett', 'hijau', 'dahh', 'ajaa', 'lahh']","['ajaa_lahh', 'bett_hijau', 'dahh_ajaa', 'hijau_dahh', 'kyk_lag', 'lag_bett', 'moontn_kyk']"
+"['banyak', 'ramah', 'intimidasi', 'lebih', 'rendah']","['banyak_ramah', 'intimidasi_lebih', 'lebih_rendah', 'ramah_intimidasi']"
+"['tolongg', 'baik', 'ngestack', 'masalah', 'afk', 'gara', 'gara', 'masalah', 'sampai', 'jika', 'salah', 'mohon', 'koreksi', 'teman', 'teman']","['afk_gara', 'baik_ngestack', 'gara_gara', 'gara_masalah', 'jika_salah', 'koreksi_teman', 'masalah_afk', 'masalah_sampai', 'mohon_koreksi', 'ngestack_masalah', 'salah_mohon', 'sampai_jika', 'teman_teman', 'tolongg_baik']"
+['rusak'],[]
+['bagus'],[]
+"['update', 'busuk', 'nunggu', 'delay']","['busuk_nunggu', 'nunggu_delay', 'update_busuk']"
+"['bagus', 'banget', 'like', 'it']","['bagus_banget', 'banget_like', 'like_it']"
+['bagus'],[]
+"['sampah', 'kalah']",['sampah_kalah']
+"['kikir', 'kalah']",['kikir_kalah']
+"['bagus', 'sakal', 'engak', 'tarik', 'tolong', 'minta', 'konter']","['bagus_sakal', 'engak_tarik', 'minta_konter', 'sakal_engak', 'tarik_tolong', 'tolong_minta']"
+"['benar', 'anj', 'masa', 'ketemu', 'trio', 'random', 'tolol', 'lawan', 'partyaan', 'lima']","['anj_masa', 'benar_anj', 'ketemu_trio', 'lawan_partyaan', 'masa_ketemu', 'partyaan_lima', 'random_tolol', 'tolol_lawan', 'trio_random']"
+"['bagus', 'hal', 'dewasa']","['bagus_hal', 'hal_dewasa']"
+"['kuliah', 'baru', 'ikut', 'rame', 'isi', 'kosong']","['baru_ikut', 'ikut_rame', 'isi_kosong', 'kuliah_baru', 'rame_isi']"
+"['jangan', 'dowload', 'ketemu', 'beban', 'anjg', 'kaasih', 'beban', 'cape', 'bangsat']","['anjg_kaasih', 'beban_anjg', 'beban_cape', 'cape_bangsat', 'dowload_ketemu', 'jangan_dowload', 'kaasih_beban', 'ketemu_beban']"
+"['menit', 'kalah', 'bintang', 'lindung', 'mmr', 'turun', 'sudah', 'bagus', 'asu', 'asu', 'asu', 'buruk']","['asu_asu', 'asu_buruk', 'bagus_asu', 'bintang_lindung', 'kalah_bintang', 'lindung_mmr', 'menit_kalah', 'mmr_turun', 'sudah_bagus', 'turun_sudah']"
+"['beri', 'benar']",['beri_benar']
+"['cuma', 'ngehabisin', 'paket', 'semua', 'afk', 'gausah']","['afk_gausah', 'cuma_ngehabisin', 'ngehabisin_paket', 'paket_semua', 'semua_afk']"
+"['goreng', 'patut', 'lag', 'wae']","['goreng_patut', 'lag_wae', 'patut_lag']"
+"['buruk', 'pernah', 'lag', 'gabisa', 'gerak', 'tolong', 'baik', 'jika', 'baik', 'mending', 'hapus', 'gane', 'rusak']","['baik_jika', 'baik_mending', 'buruk_pernah', 'gabisa_gerak', 'gane_rusak', 'gerak_tolong', 'hapus_gane', 'jika_baik', 'lag_gabisa', 'mending_hapus', 'pernah_lag', 'tolong_baik']"
+"['banyak', 'jelas', 'mending', 'poin', 'bintang', 'coklat', 'poin', 'kurang', 'paling', 'banyak', 'mvp', 'point', 'kurang', 'masa', 'banyak', 'kalah', 'menang', 'tinggal', 'nunggu', 'baru', 'laku']","['banyak_jelas', 'banyak_kalah', 'banyak_mvp', 'baru_laku', 'bintang_coklat', 'coklat_poin', 'jelas_mending', 'kalah_menang', 'kurang_masa', 'kurang_paling', 'masa_banyak', 'menang_tinggal', 'mending_poin', 'mvp_point', 'nunggu_baru', 'paling_banyak', 'poin_bintang', 'poin_kurang', 'point_kurang', 'tinggal_nunggu']"
+"['woyy', 'kenapa', 'gabisa', 'bukak', 'bagus']","['bukak_bagus', 'gabisa_bukak', 'kenapa_gabisa', 'woyy_kenapa']"
+['bagus'],[]
+"['bagus', 'rangin', 'gelap']","['bagus_rangin', 'rangin_gelap']"
+"['adil', 'banyak', 'beban']","['adil_banyak', 'banyak_beban']"
+"['bagus', 'banget', 'terimakasih', 'bagus']","['bagus_banget', 'banget_terimakasih', 'terimakasih_bagus']"
+"['bagus', 'banget', 'suka']","['bagus_banget', 'banget_suka']"
+['bagusds'],[]
+"['pesan', 'tolong', 'lh', 'ringan', 'kentang', 'jauh', 'pelosok', 'ken', 'nyaman', 'alami', 'utama', 'tarung', 'lawan', 'alami', 'lag', 'langsung', 'merah', 'stabil', 'tanya', 'kenapa', 'ad', 'musuh', 'tarung', 'baru', 'bagus', 'belum', 'bagus', 'bagus', 'kenapa', 'tolong', 'tolong', 'kasi', 'ringan', 'lh', 'kepada']","['ad_musuh', 'alami_lag', 'alami_utama', 'bagus_bagus', 'bagus_belum', 'bagus_kenapa', 'baru_bagus', 'belum_bagus', 'jauh_pelosok', 'kasi_ringan', 'ken_nyaman', 'kenapa_ad', 'kenapa_tolong', 'kentang_jauh', 'lag_langsung', 'langsung_merah', 'lawan_alami', 'lh_kepada', 'lh_ringan', 'merah_stabil', 'musuh_tarung', 'nyaman_alami', 'pelosok_ken', 'pesan_tolong', 'ringan_kentang', 'ringan_lh', 'stabil_tanya', 'tanya_kenapa', 'tarung_baru', 'tarung_lawan', 'tolong_kasi', 'tolong_lh', 'tolong_tolong', 'utama_tarung']"
+['kikir'],[]
+"['minimal', 'tolong', 'punya', 'masuk', 'lobby', 'sinyal', 'oke', 'tibatiba', 'gm', 'bilang', 'mohon', 'maaf', 'gagal', 'sambung', 'periksa', 'jangan', 'bagus', 'minimal', 'tolong', 'baless', 'minimal']","['bagus_minimal', 'baless_minimal', 'bilang_mohon', 'gagal_sambung', 'gm_bilang', 'jangan_bagus', 'lobby_sinyal', 'maaf_gagal', 'masuk_lobby', 'minimal_tolong', 'mohon_maaf', 'oke_tibatiba', 'periksa_jangan', 'punya_masuk', 'sambung_periksa', 'sinyal_oke', 'tibatiba_gm', 'tolong_baless', 'tolong_punya']"
+['bagus'],[]
+"['apasih', 'jelas', 'bngt', 'afk', 'sebentar', 'trs', 'balik', 'lgi', 'kena', 'ingat', 'afk']","['afk_sebentar', 'apasih_jelas', 'balik_lgi', 'bngt_afk', 'ingat_afk', 'jelas_bngt', 'kena_ingat', 'lgi_kena', 'sebentar_trs', 'trs_balik']"
+"['rusakk', 'beri', 'imbang', 'lawakk', 'mana', 'lag']","['beri_imbang', 'imbang_lawakk', 'lawakk_mana', 'mana_lag', 'rusakk_beri']"
+['baik'],[]
+"['makin', 'buriq', 'banget', 'asli', 'sumpah', 'mending', 'unistall', 'dehh', 'mainin', 'lama', 'semakain', 'jelek', 'masa', 'bagus', 'gerak', 'skill', 'analog', 'pencet', 'utama', 'bagi', 'analog', 'kadang', 'mencet', 'sendiri', 'reccal', 'vakum']","['analog_kadang', 'analog_pencet', 'asli_sumpah', 'bagi_analog', 'bagus_gerak', 'banget_asli', 'buriq_banget', 'dehh_mainin', 'gerak_skill', 'jelek_masa', 'kadang_mencet', 'lama_semakain', 'mainin_lama', 'makin_buriq', 'masa_bagus', 'mencet_sendiri', 'mending_unistall', 'pencet_utama', 'reccal_vakum', 'semakain_jelek', 'sendiri_reccal', 'skill_analog', 'sumpah_mending', 'unistall_dehh', 'utama_bagi']"
+"['love', 'this', 'for', 'not', 'having', 'ai', 'animation', 'for', 'their', 'trailer', 'pls', 'dont', 'change']","['ai_animation', 'animation_for', 'dont_change', 'for_not', 'for_their', 'having_ai', 'love_this', 'not_having', 'pls_dont', 'their_trailer', 'this_for', 'trailer_pls']"
+"['jangan', 'akibat', 'stres', 'jarak', 'makan', 'jarang', 'sholat', 'lebih', 'parah', 'akn', 'akibat', 'marahmarah']","['akibat_marahmarah', 'akibat_stres', 'akn_akibat', 'jangan_akibat', 'jarak_makan', 'jarang_sholat', 'lebih_parah', 'makan_jarang', 'parah_akn', 'sholat_lebih', 'stres_jarak']"
+['bangsat'],[]
+"['seru', 'gemburik']",['seru_gemburik']
+"['stres', 'banyak', 'gelap', 'epik', 'buruk', 'jangan', 'sampai', 'anak', 'kecil', 'men', 'dawlod', 'ngerusakin']","['anak_kecil', 'banyak_gelap', 'buruk_jangan', 'dawlod_ngerusakin', 'epik_buruk', 'gelap_epik', 'jangan_sampai', 'kecil_men', 'men_dawlod', 'sampai_anak', 'stres_banyak']"
+"['makin', 'makin', 'jelas', 'loststeak', 'sampai', 'ditroll', 'kadang', 'lag', 'akibat', 'keluar', 'sendiri', 'masuk', 'langsung', 'afk', 'payah', 'mem', 'milih']","['afk_payah', 'akibat_keluar', 'ditroll_kadang', 'jelas_loststeak', 'kadang_lag', 'keluar_sendiri', 'lag_akibat', 'langsung_afk', 'loststeak_sampai', 'makin_jelas', 'makin_makin', 'masuk_langsung', 'mem_milih', 'payah_mem', 'sampai_ditroll', 'sendiri_masuk']"
+"['selalu', 'tolol', 'admin', 'masa', 'mvp', 'defeat', 'mantep', 'mind', 'biar', 'gendong', 'bocil', 'tolol']","['admin_masa', 'biar_gendong', 'bocil_tolol', 'defeat_mantep', 'gendong_bocil', 'mantep_mind', 'masa_mvp', 'mind_biar', 'mvp_defeat', 'selalu_tolol', 'tolol_admin']"
+"['have', 'fun']",['have_fun']
+"['gemnya', 'rayan', 'seru']","['gemnya_rayan', 'rayan_seru']"
+"['banyak', 'gelap']",['banyak_gelap']
+"['woy', 'lag', 'sampai', 'crash', 'dalam', 'tanding', 'rusak', 'lol']","['crash_dalam', 'dalam_tanding', 'lag_sampai', 'rusak_lol', 'sampai_crash', 'tanding_rusak', 'woy_lag']"
+"['rusak', 'setan']",['rusak_setan']
+"['seru', 'tolong', 'draksistemnya', 'rangin', 'sya', 'selalu', 'tolol', 'tb', 'lag', 'pdhl', 'lag', 'mohon', 'muntun', 'rangin', 'tolol', 'hehh']","['draksistemnya_rangin', 'lag_mohon', 'lag_pdhl', 'mohon_muntun', 'muntun_rangin', 'pdhl_lag', 'rangin_sya', 'rangin_tolol', 'selalu_tolol', 'seru_tolong', 'sya_selalu', 'tb_lag', 'tolol_hehh', 'tolol_tb', 'tolong_draksistemnya']"
+"['wins', 'treak']",['wins_treak']
+"['bingung', 'saran', 'bawah', 'umur']","['bawah_umur', 'bingung_saran', 'saran_bawah']"
+['hibur'],[]
+"['jngn', 'rusak', 'sinyal', 'parah']","['jngn_rusak', 'rusak_sinyal', 'sinyal_parah']"
+"['najis', 'kalah']",['najis_kalah']
+"['busuk', 'skin', 'makin', 'banyak', 'kualitas', 'turun', 'benar', 'ingame', 'stuck', 'gerak', 'sinyal', 'hijau']","['banyak_kualitas', 'benar_ingame', 'busuk_skin', 'gerak_sinyal', 'ingame_stuck', 'kualitas_turun', 'makin_banyak', 'sinyal_hijau', 'skin_makin', 'stuck_gerak', 'turun_benar']"
+"['gubluk', 'lolot', 'dev', 'kikir', 'cuma', 'mikirin', 'uang', 'uang', 'melulu', 'collab', 'melulu', 'benar', 'mai', 'skill', 'warrior', 'sia', 'sia', 'ranked', 'asu', 'tolong', 'tingkat', 'jgn', 'notice', 'uang', 'pernah', 'urus', 'sudah', 'gitu', 'troll', 'biasa', 'kena', 'hukum', 'ban']","['asu_tolong', 'benar_mai', 'biasa_kena', 'collab_melulu', 'cuma_mikirin', 'dev_kikir', 'gitu_troll', 'gubluk_lolot', 'hukum_ban', 'jgn_notice', 'kena_hukum', 'kikir_cuma', 'lolot_dev', 'mai_skill', 'melulu_benar', 'melulu_collab', 'mikirin_uang', 'notice_uang', 'pernah_urus', 'ranked_asu', 'sia_ranked', 'sia_sia', 'skill_warrior', 'sudah_gitu', 'tingkat_jgn', 'tolong_tingkat', 'troll_biasa', 'uang_melulu', 'uang_pernah', 'uang_uang', 'urus_sudah', 'warrior_sia']"
+"['we', 'pontoon', 'jago', 'kasi', 'jago', 'donk']","['jago_donk', 'jago_kasi', 'kasi_jago', 'pontoon_jago', 'we_pontoon']"
+"['kenapa', 'woy', 'sinyal', 'hijau', 'ping', 'ms', 'sambung', 'perangkat', 'babi', 'update', 'gagal', 'palah', 'rilis', 'tolol']","['babi_update', 'gagal_palah', 'hijau_ping', 'kenapa_woy', 'ms_sambung', 'palah_rilis', 'perangkat_babi', 'ping_ms', 'rilis_tolol', 'sambung_perangkat', 'sinyal_hijau', 'update_gagal', 'woy_sinyal']"
+['senang'],[]
+"['oke', 'tolong', 'banget', 'beri', 'musuh', 'bukan', 'ketemu', 'musuh', 'duo', 'trio', 'benar', 'benar', 'susah', 'tolong', 'banget', 'baru', 'terimakasih']","['banget_baru', 'banget_beri', 'baru_terimakasih', 'benar_benar', 'benar_susah', 'beri_musuh', 'bukan_ketemu', 'duo_trio', 'ketemu_musuh', 'musuh_bukan', 'musuh_duo', 'oke_tolong', 'susah_tolong', 'tolong_banget', 'trio_benar']"
+"['oyy', 'jelsas', 'sedikit', 'napa', 'bias', 'sinyal', 'bagus', 'kadang', 'pin', 'gabisa', 'gerak', 'plislah', 'defeat', 'sakit', 'klw', 'banding', 'ff', 'gitu', 'lancar', 'bisah', 'gerak', 'kocak', 'makanya', 'yakin', 'masalah', 'bukan', 'sinyal', 'ingat', 'bukan']","['bagus_kadang', 'banding_ff', 'bias_sinyal', 'bisah_gerak', 'bukan_sinyal', 'defeat_sakit', 'ff_gitu', 'gabisa_gerak', 'gerak_kocak', 'gerak_plislah', 'gitu_lancar', 'ingat_bukan', 'jelsas_sedikit', 'kadang_pin', 'klw_banding', 'kocak_makanya', 'lancar_bisah', 'makanya_yakin', 'masalah_bukan', 'napa_bias', 'oyy_jelsas', 'pin_gabisa', 'plislah_defeat', 'sakit_klw', 'sedikit_napa', 'sinyal_bagus', 'sinyal_ingat', 'yakin_masalah']"
+"['event', 'lg', 'bosen', 'trs', 'lg', 'event', 'lain']","['bosen_trs', 'event_lain', 'event_lg', 'lg_bosen', 'lg_event', 'trs_lg']"
+"['otak', 'normal', 'strees']","['normal_strees', 'otak_normal']"
+['keren'],[]
+"['jangan', 'curang', 'musuh', 'komputer']","['curang_musuh', 'jangan_curang', 'musuh_komputer']"
+['bagus'],[]
+['enak'],[]
+['rusak'],[]
+"['selalu', 'beban', 'sengaja', 'troll', 'gelap', 'susah', 'naik', 'tahay']","['beban_sengaja', 'gelap_susah', 'naik_tahay', 'selalu_beban', 'sengaja_troll', 'susah_naik', 'troll_gelap']"
+"['bangkrut', 'baru', 'paksa', 'diamond']","['bangkrut_baru', 'baru_paksa', 'paksa_diamond']"
+"['brawl', 'slot']",['brawl_slot']
+"['seru', 'pokok']",['seru_pokok']
+"['juang', 'anj']",['juang_anj']
+"['stiap', 'ngestak', 'pdhl', 'mh', 'aman', 'tolong', 'segera', 'baik']","['aman_tolong', 'mh_aman', 'ngestak_pdhl', 'pdhl_mh', 'segera_baik', 'stiap_ngestak', 'tolong_segera']"
+"['season', 'baru', 'ngomong', 'paling', 'parah', 'sndiri', 'tipikal', 'pernah', 'komplen', 'emng', 'kalah', 'pasti', 'lag', 'semua', 'lag', 'parah', 'musuh', 'pasti', 'gg', 'parah', 'terlalu', 'jgn', 'donlod', 'buruk']","['baru_ngomong', 'donlod_buruk', 'emng_kalah', 'gg_parah', 'jgn_donlod', 'kalah_pasti', 'komplen_emng', 'lag_parah', 'lag_semua', 'musuh_pasti', 'ngomong_paling', 'paling_parah', 'parah_musuh', 'parah_sndiri', 'parah_terlalu', 'pasti_gg', 'pasti_lag', 'pernah_komplen', 'season_baru', 'semua_lag', 'sndiri_tipikal', 'terlalu_jgn', 'tipikal_pernah']"
+"['selalu', 'lag', 'tibaba', 'mati', 'baik']","['lag_tibaba', 'mati_baik', 'selalu_lag', 'tibaba_mati']"
+"['masa', 'full', 'baik', 'lag', 'sendiri', 'error', 'tolong', 'baik']","['baik_lag', 'error_tolong', 'full_baik', 'lag_sendiri', 'masa_full', 'sendiri_error', 'tolong_baik']"
+"['banyak', 'banyak', 'istighfar']","['banyak_banyak', 'banyak_istighfar']"
+"['haram', 'naik', 'turun', 'naik', 'turun', 'asu', 'komputer']","['asu_komputer', 'haram_naik', 'naik_turun', 'turun_asu', 'turun_naik']"
+['bagus'],[]
+"['teman', 'selalu', 'gelap', 'selalu', 'lag', 'buka', 'youtube', 'bagus', 'bagus', 'teman', 'gelap', 'ahk', 'benar', 'gg', 'pro', 'rating', 'satu', 'bintang', 'musuh', 'gg', 'sedang', 'bot', 'pokok', 'joki', 'proplayer', 'top', 'global']","['ahk_benar', 'bagus_bagus', 'bagus_teman', 'benar_gg', 'bintang_musuh', 'bot_pokok', 'buka_youtube', 'gelap_ahk', 'gelap_selalu', 'gg_pro', 'gg_sedang', 'joki_proplayer', 'lag_buka', 'musuh_gg', 'pokok_joki', 'pro_rating', 'proplayer_top', 'rating_satu', 'satu_bintang', 'sedang_bot', 'selalu_gelap', 'selalu_lag', 'teman_gelap', 'teman_selalu', 'top_global', 'youtube_bagus']"
+"['bagus', 'hd', 'cakep', 'bagus', 'utama', 'obsidia']","['bagus_hd', 'bagus_utama', 'cakep_bagus', 'hd_cakep', 'utama_obsidia']"
+['seruu'],[]
+"['keren', 'bagus', 'sedikit', 'kurang', 'yaitu', 'lag', 'stabil', 'harap', 'tanggap', 'ulas', 'baik']","['bagus_sedikit', 'harap_tanggap', 'keren_bagus', 'kurang_yaitu', 'lag_stabil', 'sedikit_kurang', 'stabil_harap', 'tanggap_ulas', 'ulas_baik', 'yaitu_lag']"
+"['update', 'sekarang', 'freeze', 'al', 'hasil', 'lose', 'streak', 'belum', 'update', 'lancar', 'kecewa']","['al_hasil', 'belum_update', 'freeze_al', 'hasil_lose', 'lancar_kecewa', 'lose_streak', 'sekarang_freeze', 'streak_belum', 'update_lancar', 'update_sekarang']"
+"['cukup', 'seru', 'makin', 'lama', 'makin', 'berat', 'hpku', 'bukan', 'gaming', 'gampang', 'panas']","['berat_hpku', 'bukan_gaming', 'cukup_seru', 'gaming_gampang', 'gampang_panas', 'hpku_bukan', 'lama_makin', 'makin_berat', 'makin_lama', 'seru_makin']"
+"['musuh', 'susah']",['musuh_susah']
+"['atas', 'teman', 'yaitu', 'samuel', 'prabowo', 'jika', 'guna', 'samar', 'anggap', 'langgar', 'atur', 'pasal', 'undangundang']","['anggap_langgar', 'atas_teman', 'atur_pasal', 'guna_samar', 'jika_guna', 'langgar_atur', 'pasal_undangundang', 'prabowo_jika', 'samar_anggap', 'samuel_prabowo', 'teman_yaitu', 'yaitu_samuel']"
+"['ngerank', 'bocil']",['ngerank_bocil']
+"['fikss', 'percaya', 'banyak', 'legends', 'bang', 'bang', 'pasti', 'banyak', 'ngalamin', 'bug', 'skill', 'sinyal', 'slalu', 'hilang', 'ingame', 'rating', 'b', 'tuju', 'pihak', 'bukan', 'dua', 'ngalamin', 'kyk', 'begini', 'performa', 'turun', 'bukan', 'cuma', 'banyak', 'banyak', 'pensi', 'masalah', 'bgni', 'contoh', 'teman', 'tolong', 'developer', 'baik', 'jt', 'lebih', 'wakil']","['baik_jt', 'bang_bang', 'bang_pasti', 'banyak_banyak', 'banyak_legends', 'banyak_ngalamin', 'banyak_pensi', 'begini_performa', 'bgni_contoh', 'bug_skill', 'bukan_cuma', 'bukan_dua', 'contoh_teman', 'cuma_banyak', 'developer_baik', 'dua_ngalamin', 'fikss_percaya', 'hilang_ingame', 'ingame_rating', 'jt_lebih', 'kyk_begini', 'lebih_wakil', 'legends_bang', 'masalah_bgni', 'ngalamin_bug', 'ngalamin_kyk', 'pasti_banyak', 'pensi_masalah', 'percaya_banyak', 'performa_turun', 'pihak_bukan', 'rating_tuju', 'sinyal_slalu', 'skill_sinyal', 'slalu_hilang', 'teman_tolong', 'tolong_developer', 'tuju_pihak', 'turun_bukan']"
+"['muas', 'tolong', 'gelap', 'rangin']","['gelap_rangin', 'muas_tolong', 'tolong_gelap']"
+"['bagus', 'reting', 'bintang']","['bagus_reting', 'reting_bintang']"
+"['jelek', 'banyak', 'ewean', 'hapus']","['banyak_ewean', 'ewean_hapus', 'jelek_banyak']"
+"['punya', 'kendala', 'yaitu', 'asik', 'sinyal', 'hilang', 'tampil', 'teks', 'hubung', 'tanding', 'umum', 'kuota', 'aktif', 'ping', 'hijau', 'sekitar', 'ms', 'entah', 'knp', 'makin', 'berat', 'kentang', 'sinyal', 'makin', 'kacau', 'moga', 'lain', 'lebih', 'baik']","['aktif_ping', 'asik_sinyal', 'berat_kentang', 'entah_knp', 'hijau_sekitar', 'hilang_tampil', 'hubung_tanding', 'kacau_moga', 'kendala_yaitu', 'kentang_sinyal', 'knp_makin', 'kuota_aktif', 'lain_lebih', 'lebih_baik', 'makin_berat', 'makin_kacau', 'moga_lain', 'ms_entah', 'ping_hijau', 'punya_kendala', 'sekitar_ms', 'sinyal_hilang', 'sinyal_makin', 'tampil_teks', 'tanding_umum', 'teks_hubung', 'umum_kuota', 'yaitu_asik']"
+"['represing', 'hilang', 'stres', 'nambah', 'stres', 'lost', 'treak', 'kon']","['hilang_stres', 'lost_treak', 'nambah_stres', 'represing_hilang', 'stres_lost', 'stres_nambah', 'treak_kon']"
+"['tolol', 'jelas']",['tolol_jelas']
+"['buruk', 'sinyal', 'rusak', 'buruk', 'kematen', 'update', 'skin', 'kolektor', 'sinyal', 'dadak', 'hilang', 'lping', 'atas', 'begini', 'lama', 'banyak', 'uninstal', 'gara', 'sinyal', 'hilang', 'lostreak', 'njing']","['atas_begini', 'banyak_uninstal', 'begini_lama', 'buruk_kematen', 'buruk_sinyal', 'dadak_hilang', 'gara_sinyal', 'hilang_lostreak', 'hilang_lping', 'kematen_update', 'kolektor_sinyal', 'lama_banyak', 'lostreak_njing', 'lping_atas', 'rusak_buruk', 'sinyal_dadak', 'sinyal_hilang', 'sinyal_rusak', 'skin_kolektor', 'uninstal_gara', 'update_skin']"
+"['emng', 't', 'buka', 'neng', 'stres']","['buka_neng', 'emng_buka', 'neng_stres']"
+['bagus'],[]
+"['keren', 'banget']",['keren_banget']
+"['tolong', 'jangan', 'darksistem', 'semua', 'anj', 'pen', 'mythic', 'glory', 'cok', 'liatt', 'komen']","['anj_pen', 'cok_liatt', 'darksistem_semua', 'glory_cok', 'jangan_darksistem', 'liatt_komen', 'mythic_glory', 'pen_mythic', 'semua_anj', 'tolong_jangan']"
+"['lag', 'lag', 'mid', 'baru', 'lag', 'gimana', 'kalah', 'dominasi', 'duluan', 'musuh']","['baru_lag', 'dominasi_duluan', 'duluan_musuh', 'gimana_kalah', 'kalah_dominasi', 'lag_gimana', 'lag_lag', 'lag_mid', 'mid_baru']"
+"['makin', 'parah', 'lag']","['makin_parah', 'parah_lag']"
+"['jelas', 'gelap']",['jelas_gelap']
+"['minimal', 'nyepin', 'pernah', 'hoki', 'win', 'strikk', 'beri', 'komputer', 'semua', 'anj']","['beri_komputer', 'hoki_win', 'komputer_semua', 'minimal_nyepin', 'nyepin_pernah', 'pernah_hoki', 'semua_anj', 'strikk_beri', 'win_strikk']"
+['bagus'],[]
+"['bagi', 'skin']",['bagi_skin']
+"['asu', 'lag', 'sudah', 'pakek', 'wifipaket', 'dataa', 'tolol', 'babi', 'haramm']","['asu_lag', 'babi_haramm', 'dataa_tolol', 'lag_sudah', 'pakek_wifipaket', 'sudah_pakek', 'tolol_babi', 'wifipaket_dataa']"
+"['sihh', 'gede', 'lag', 'tolol']","['gede_lag', 'lag_tolol', 'sihh_gede']"
+"['tolol', 'co']",['tolol_co']
+"['benar', 'milih', 'lawan', 'sendiri', 'imbang', 'bukan', 'vs', 'afkjangan', 'beban', 'ranked', 'benah', 'vs', 'padan', 'menang', 'kalah', 'urus', 'nanti', 'turun', 'ketemu', 'gelap', 'vs', 'lalu', 'vs', 'gelap', 'bukan', 'kalah', 'fear', 'vs', 'gapapa', 'classic', 'ketemu', 'gelap', 'vs']","['afkjangan_beban', 'beban_ranked', 'benah_vs', 'benar_milih', 'bukan_kalah', 'bukan_vs', 'classic_ketemu', 'fear_vs', 'gapapa_classic', 'gelap_bukan', 'gelap_vs', 'imbang_bukan', 'kalah_fear', 'kalah_urus', 'ketemu_gelap', 'lalu_vs', 'lawan_sendiri', 'menang_kalah', 'milih_lawan', 'nanti_turun', 'padan_menang', 'ranked_benah', 'sendiri_imbang', 'turun_ketemu', 'urus_nanti', 'vs_afkjangan', 'vs_gapapa', 'vs_gelap', 'vs_lalu', 'vs_padan']"
+['sampah'],[]
+['redy'],[]
+"['bintang', 'bukan', 'bagus', 'jelek', 'makin', 'sekarang', 'makin', 'ngebug', 'masa', 'loby', 'warna', 'ungu', 'draf', 'suka', 'lag', 'tambah', 'bagus', 'suka', 'lag']","['bagus_jelek', 'bagus_suka', 'bintang_bukan', 'bukan_bagus', 'draf_suka', 'jelek_makin', 'lag_tambah', 'loby_warna', 'makin_ngebug', 'makin_sekarang', 'masa_loby', 'ngebug_masa', 'sekarang_makin', 'suka_lag', 'tambah_bagus', 'ungu_draf', 'warna_ungu']"
+"['pencet', 'hubung', 'akun', 'wanya']","['akun_wanya', 'hubung_akun', 'pencet_hubung']"
+"['offline', 'bintang', 'lima', 'biasa', 'hotspot', 'tetangga', 'lag', 'marah', 'pukul', 'gitu']","['biasa_hotspot', 'bintang_lima', 'hotspot_tetangga', 'lag_marah', 'lima_biasa', 'marah_pukul', 'offline_bintang', 'pukul_gitu', 'tetangga_lag']"
+"['terlalu', 'banyak', 'jasa', 'joki', 'banyak', 'beban', 'ranked', 'ripot', 'pernah', 'hasil', 'walaupun', 'skor', 'gelap', 'kacau']","['banyak_beban', 'banyak_jasa', 'beban_ranked', 'gelap_kacau', 'hasil_walaupun', 'jasa_joki', 'joki_banyak', 'pernah_hasil', 'ranked_ripot', 'ripot_pernah', 'skor_gelap', 'terlalu_banyak', 'walaupun_skor']"
+"['babi', 'benar']",['babi_benar']
+"['gelap', 'mlu', 'gmn', 'mles', 'hpus', 'ganti']","['gelap_mlu', 'gmn_mles', 'hpus_ganti', 'mles_hpus', 'mlu_gmn']"
+"['parah', 'benar', 'selalu', 'lag', 'pdahal', 'bgus', 'sinyal', 'banyak', 'bug', 'nie', 'tolong', 'baik', 'perhati']","['baik_perhati', 'banyak_bug', 'benar_selalu', 'bgus_sinyal', 'bug_nie', 'lag_pdahal', 'nie_tolong', 'parah_benar', 'pdahal_bgus', 'selalu_lag', 'sinyal_banyak', 'tolong_baik']"
+['kombeck'],[]
+"['kenapaa', 'sinyalnyaa', 'sinyal', 'bagus', 'lag', 'ahh', 'rusak', 'napa']","['ahh_rusak', 'bagus_lag', 'kenapaa_sinyalnyaa', 'lag_ahh', 'rusak_napa', 'sinyal_bagus', 'sinyalnyaa_sinyal']"
+"['tolong', 'rangin', 'mb']","['rangin_mb', 'tolong_rangin']"
+"['oii', 'awas', 'misal', 'magic', 'core', 'reset', 'bulan', 'sumpahin', 'pasti', 'blunder', 'pasti', 'makin', 'sepi', 'nanti', 'gara', 'hal']","['awas_misal', 'blunder_pasti', 'bulan_sumpahin', 'core_reset', 'gara_hal', 'magic_core', 'makin_sepi', 'misal_magic', 'nanti_gara', 'oii_awas', 'pasti_blunder', 'pasti_makin', 'reset_bulan', 'sepi_nanti', 'sumpahin_pasti']"
+"['akun', 'kenapa', 'kaitin', 'suatu', 'salah', 'satu', 'opsi', 'akun', 'ilang', 'bind']","['akun_ilang', 'akun_kenapa', 'ilang_bind', 'kaitin_suatu', 'kenapa_kaitin', 'opsi_akun', 'salah_satu', 'satu_opsi', 'suatu_salah']"
+"['sekarang', 'mudah', 'lag', 'loding', 'lama', 'wifi', 'masuk', 'masuk', 'afk', 'mohon', 'bantu', 'pak']","['afk_mohon', 'bantu_pak', 'lag_loding', 'lama_wifi', 'loding_lama', 'masuk_afk', 'masuk_masuk', 'mohon_bantu', 'mudah_lag', 'sekarang_mudah', 'wifi_masuk']"
+['bgus'],[]
+"['mermerlukan', 'luar', 'biasa']","['luar_biasa', 'mermerlukan_luar']"
+"['bagus', 'kadang', 'masalah', 'seru', 'kesal', 'senang']","['bagus_kadang', 'kadang_masalah', 'kesal_senang', 'masalah_seru', 'seru_kesal']"
+"['ngawur', 'high', 'mythical', 'glory', 'tinggi', 'ketemu', 'satu', 'high', 'mythic', 'mythical', 'bintang', 'ketemu', 'trio', 'tolong', 'perhati', 'bagus']","['bintang_ketemu', 'glory_tinggi', 'high_mythic', 'high_mythical', 'ketemu_satu', 'ketemu_trio', 'mythic_mythical', 'mythical_bintang', 'mythical_glory', 'ngawur_high', 'perhati_bagus', 'satu_high', 'tinggi_ketemu', 'tolong_perhati', 'trio_tolong']"
+"['skin', 'bagus']",['skin_bagus']
+['anjg'],[]
+"['simpel', 'gc', 'jelas', 'spell', 'retri', 'mala', 'ngpus', 'minion', 'kecewa', 'banget']","['gc_jelas', 'jelas_spell', 'kecewa_banget', 'mala_ngpus', 'minion_kecewa', 'ngpus_minion', 'retri_mala', 'simpel_gc', 'spell_retri']"
+"['bagus', 'tahan', 'menara', 'tanpa', 'koneksi', 'pokok', 'bagus']","['bagus_tahan', 'koneksi_pokok', 'menara_tanpa', 'pokok_bagus', 'tahan_menara', 'tanpa_koneksi']"
+['rusak'],[]
+"['saran', 'matchnya', 'buruk']","['matchnya_buruk', 'saran_matchnya']"
+"['strees', 'relog', 'lama', 'jelek', 'banyak', 'update', 'jelek']","['banyak_update', 'jelek_banyak', 'lama_jelek', 'relog_lama', 'strees_relog', 'update_jelek']"
+['nyusahin'],[]
+"['seru', 'banyak', 'lag']","['banyak_lag', 'seru_banyak']"
+"['makas', 'sudah', 'lama', 'hibur', 'kadang', 'stres', 'banyak', 'kalah', 'gelap', 'systemnya', 'gapapa', 'bagus', 'beberapa', 'bug', 'update', 'tan', 'terimakasih']","['bagus_beberapa', 'banyak_kalah', 'beberapa_bug', 'bug_update', 'gapapa_bagus', 'gelap_systemnya', 'hibur_kadang', 'kadang_stres', 'kalah_gelap', 'lama_hibur', 'makas_sudah', 'stres_banyak', 'sudah_lama', 'systemnya_gapapa', 'tan_terimakasih', 'update_tan']"
+"['bintang', 'buruk', 'ee', 'semua']","['bintang_buruk', 'buruk_ee', 'ee_semua']"
+"['baga', 'buang', 'sja']","['baga_buang', 'buang_sja']"
+['bagus'],[]
+"['bagus', 'lag', 'jir']","['bagus_lag', 'lag_jir']"
+['seru'],[]
+"['ta', 'akun', 'ban', 'sembarang', 'tasu']","['akun_ban', 'ban_sembarang', 'sembarang_tasu', 'ta_akun']"
+"['buruk', 'benar', 'anjg', 'ngasi', 'bapuk', 'benar', 'asuu', 'asu', 'boikot', 'anjg']","['anjg_ngasi', 'asu_boikot', 'asuu_asu', 'bapuk_benar', 'benar_anjg', 'benar_asuu', 'boikot_anjg', 'buruk_benar', 'ngasi_bapuk']"
+"['bagus', 'banget', 'sinyal', 'baik']","['bagus_banget', 'banget_sinyal', 'sinyal_baik']"
+"['makin', 'stres', 'koontol']","['makin_stres', 'stres_koontol']"
+"['sepi', 'matching', 'sampai', 'menit']","['matching_sampai', 'sampai_menit', 'sepi_matching']"
+['taik'],[]
+"['benar', 'masa', 'glory', 'ketemu', 'gtu', 'aneh', 'bngtt']","['aneh_bngtt', 'benar_masa', 'glory_ketemu', 'gtu_aneh', 'ketemu_gtu', 'masa_glory']"
+"['percuma', 'atur', 'draft', 'beberapa', 'imbang', 'banyak', 'feedtroll', 'makin', 'mls']","['atur_draft', 'banyak_feedtroll', 'beberapa_imbang', 'draft_beberapa', 'feedtroll_makin', 'imbang_banyak', 'makin_mls', 'percuma_atur']"
+"['bintang', 'jg', 'sudah', 'uninstall', 'hilang', 'sinyal', 'full']","['bintang_jg', 'hilang_sinyal', 'jg_sudah', 'sinyal_full', 'sudah_uninstall', 'uninstall_hilang']"
+"['opsi', 'report', 'tanding', 'guna', 'selain', 'afk', 'ayo', 'meski', 'medal', 'gold', 'bapuk', 'banyak', 'mati', 'push', 'tower', 'bagai', 'sebab', 'kalah', 'wajib', 'tindak', 'cerita', 'lebih', 'bagus', 'kemanamana', 'dalam', 'hal', 'tindak']","['afk_ayo', 'ayo_meski', 'bagai_sebab', 'bagus_kemanamana', 'banyak_mati', 'bapuk_banyak', 'cerita_lebih', 'dalam_hal', 'gold_bapuk', 'guna_selain', 'hal_tindak', 'kalah_wajib', 'kemanamana_dalam', 'lebih_bagus', 'mati_push', 'medal_gold', 'meski_medal', 'opsi_report', 'push_tower', 'report_tanding', 'sebab_kalah', 'selain_afk', 'tanding_guna', 'tindak_cerita', 'tower_bagai', 'wajib_tindak']"
+"['terlalu', 'banyak', 'akun', 'bot']","['akun_bot', 'banyak_akun', 'terlalu_banyak']"
+['buruk'],[]
+"['matching', 'benar', 'jelas']","['benar_jelas', 'matching_benar']"
+"['tolong', 'baik', 'bug', 'bug', 'jangan', 'event', 'patch', 'urusin', 'bug', 'bug', 'dalam', 'biarin', 'mana', 'pensi']","['baik_bug', 'biarin_mana', 'bug_bug', 'bug_dalam', 'bug_jangan', 'dalam_biarin', 'event_patch', 'jangan_event', 'mana_pensi', 'patch_urusin', 'tolong_baik', 'urusin_bug']"
+"['dongo', 'mentang', 'peringkat', 'global', 'kawan', 'bot', 'lose']","['bot_lose', 'dongo_mentang', 'global_kawan', 'kawan_bot', 'mentang_peringkat', 'peringkat_global']"
+"['muntun', 'tolong', 'sinyaljaringan', 'jelek', 'paket', 'lancar', 'pernah', 'pakek', 'wifi', 'sinyal', 'tetap', 'buruk', 'kesel', 'knp', 'lag', 'gerak', 'teman', 'lancar', 'jalan', 'sinyal', 'jelek', 'otomatis', 'lihat', 'lag', 'knp', 'kesel', 'push', 'renk', 'barw', 'tolong', 'muntun', 'history', 'silver', 'coklat', 'kadang', 'afk', 'knp', 'sejak', 'ab', 'tahir', 'buruk']","['ab_tahir', 'afk_knp', 'barw_tolong', 'buruk_kesel', 'coklat_kadang', 'gerak_teman', 'history_silver', 'jalan_sinyal', 'jelek_otomatis', 'jelek_paket', 'kadang_afk', 'kesel_knp', 'kesel_push', 'knp_kesel', 'knp_lag', 'knp_sejak', 'lag_gerak', 'lag_knp', 'lancar_jalan', 'lancar_pernah', 'lihat_lag', 'muntun_history', 'muntun_tolong', 'otomatis_lihat', 'pakek_wifi', 'paket_lancar', 'pernah_pakek', 'push_renk', 'renk_barw', 'sejak_ab', 'silver_coklat', 'sinyal_jelek', 'sinyal_tetap', 'sinyaljaringan_jelek', 'tahir_buruk', 'teman_lancar', 'tetap_buruk', 'tolong_muntun', 'tolong_sinyaljaringan', 'wifi_sinyal']"
+"['banyak', 'bug', 'bagi', 'ngasal']","['bagi_ngasal', 'banyak_bug', 'bug_bagi']"
+['oke'],[]
+"['banyak', 'gelap']",['banyak_gelap']
+"['emng', 'seru', 'kadang', 'stres', 'neng', 'sdkit', 'lebih', 'banyak', 'stres', 'buka', 'bahagia', 'kasi', 'bot', 'semua', 'ngerti', 'menang', 'kalah', 'ngertii', 'walaupun', 'lama', 'kolo', 'giniin', 'bosen', 'terimakasih', 'thunny']","['bahagia_kasi', 'banyak_stres', 'bosen_terimakasih', 'bot_semua', 'buka_bahagia', 'emng_seru', 'giniin_bosen', 'kadang_stres', 'kalah_ngertii', 'kasi_bot', 'kolo_giniin', 'lama_kolo', 'lebih_banyak', 'menang_kalah', 'neng_sdkit', 'ngerti_menang', 'ngertii_walaupun', 'sdkit_lebih', 'semua_ngerti', 'seru_kadang', 'stres_buka', 'stres_neng', 'terimakasih_thunny', 'walaupun_lama']"
+"['pilih', 'freya', 'hadiah', 'topup', 'pertama', 'beleric']","['freya_hadiah', 'hadiah_topup', 'pertama_beleric', 'pilih_freya', 'topup_pertama']"
+"['musuh', 'jago', 'dongo', 'capek', 'cok', 'ngegendong', 'gendong', 'tu']","['capek_cok', 'cok_ngegendong', 'dongo_capek', 'gendong_tu', 'jago_dongo', 'musuh_jago', 'ngegendong_gendong']"
+"['tolong', 'baik', 'sinyalnyaping', 'selalu', 'merah', 'lelet']","['baik_sinyalnyaping', 'merah_lelet', 'selalu_merah', 'sinyalnyaping_selalu', 'tolong_baik']"
+['suka'],[]
+"['neng', 'kalah', 'muluk', 'gara', 'gara', 'seim', 'bang', 'tolong', 'jangan', 'sik', 'sa']","['bang_tolong', 'gara_gara', 'gara_seim', 'jangan_sik', 'kalah_muluk', 'muluk_gara', 'neng_kalah', 'seim_bang', 'sik_sa', 'tolong_jangan']"
+"['tolol', 'masalah', 'tulis', 'ruang', 'habis', 'banyak', 'tolol', 'gimana', 'tolol', 'banget', 'yatim']","['banget_yatim', 'banyak_tolol', 'gimana_tolol', 'habis_banyak', 'masalah_tulis', 'ruang_habis', 'tolol_banget', 'tolol_gimana', 'tolol_masalah', 'tulis_ruang']"
+"['hallo', 'tolong', 'server', 'rusak', 'semenjak', 'bug', 'border', 'avatar', 'alucard', 'lag', 'parah', 'ngefrezee', 'stuck', 'tampil', 'utama', 'kalaupun', 'bintang', 'nambah', 'menang', 'invalid']","['alucard_lag', 'avatar_alucard', 'bintang_nambah', 'border_avatar', 'bug_border', 'hallo_tolong', 'kalaupun_bintang', 'lag_parah', 'menang_invalid', 'nambah_menang', 'ngefrezee_stuck', 'parah_ngefrezee', 'rusak_semenjak', 'semenjak_bug', 'server_rusak', 'stuck_tampil', 'tampil_utama', 'tolong_server', 'utama_kalaupun']"
+['oah'],[]
+"['makin', 'makin', 'aneh', 'gelap', 'pernah', 'padan', 'opmeta', 'dipake', 'musuh', 'jago', 'bot', 'bilang', 'jago', 'bot', 'tolong']","['aneh_gelap', 'bilang_jago', 'bot_bilang', 'bot_tolong', 'dipake_musuh', 'gelap_pernah', 'jago_bot', 'makin_aneh', 'makin_makin', 'musuh_jago', 'opmeta_dipake', 'padan_opmeta', 'pernah_padan']"
+"['no', 'comment']",['no_comment']
+"['keran', 'suka']",['keran_suka']
+"['ko', 'sekarang', 'susah', 'buka', 'yh', 'sayah']","['buka_yh', 'ko_sekarang', 'sekarang_susah', 'susah_buka', 'yh_sayah']"
+"['turun', 'harga', 'dm']","['harga_dm', 'turun_harga']"
+"['cpe', 'ketemu', 'gelap', 'semua', 'jadeh', 'makin', 'banyak', 'gelap', 'banyak', 'ngtik', 'sok', 'jago', 'hadeh', 'hadeh', 'abk', 'semua', 'cpe', 'ge', 'cpe', 'gendong', 'ketemu', 'abk', 'tolong', 'abk', 'usah', 'cpe', 'dongo', 'semua', 'cpe', 'gendong', 'dongo', 'ajg']","['abk_semua', 'abk_tolong', 'abk_usah', 'banyak_gelap', 'banyak_ngtik', 'cpe_dongo', 'cpe_ge', 'cpe_gendong', 'cpe_ketemu', 'dongo_ajg', 'dongo_semua', 'ge_cpe', 'gelap_banyak', 'gelap_semua', 'gendong_dongo', 'gendong_ketemu', 'hadeh_abk', 'hadeh_hadeh', 'jadeh_makin', 'jago_hadeh', 'ketemu_abk', 'ketemu_gelap', 'makin_banyak', 'ngtik_sok', 'semua_cpe', 'semua_jadeh', 'sok_jago', 'tolong_abk', 'usah_cpe']"
+['bagus'],[]
+"['kasi', 'yng', 'bagus', 'napa', 'capek', 'kalah', 'kontol']","['bagus_napa', 'capek_kalah', 'kalah_kontol', 'kasi_yng', 'napa_capek', 'yng_bagus']"
+"['tai', 'bot', 'mending', 'hapus']","['bot_mending', 'mending_hapus', 'tai_bot']"
+"['buruk', 'ping', 'merah', 'payah', 'ubah']","['buruk_ping', 'merah_payah', 'payah_ubah', 'ping_merah']"
+"['rusak', 'mitic', 'tabrakin', 'miskirkisd']","['mitic_tabrakin', 'rusak_mitic', 'tabrakin_miskirkisd']"
+"['habis', 'abdet', 'tambah', 'jelas', 'gems', 'internet', 'ilang', 'mohon', 'segera', 'perhati', 'nyaman', 'para']","['abdet_tambah', 'gems_internet', 'habis_abdet', 'ilang_mohon', 'internet_ilang', 'jelas_gems', 'mohon_segera', 'nyaman_para', 'perhati_nyaman', 'segera_perhati', 'tambah_jelas']"
+"['benar', 'masa', 'layla', 'janggel', 'benar', 'baru', 'bintang', 'beban', 'asa', 'musuh', 'bagus', 'bagus', 'agak', 'jago']","['agak_jago', 'asa_musuh', 'bagus_agak', 'bagus_bagus', 'baru_bintang', 'beban_asa', 'benar_baru', 'benar_masa', 'bintang_beban', 'janggel_benar', 'layla_janggel', 'masa_layla', 'musuh_bagus']"
+"['fider', 'ripot', 'nunggu', 'dlu', 'aneh', 'bngt', 'mending', 'epep', 'rusak']","['aneh_bngt', 'bngt_mending', 'dlu_aneh', 'epep_rusak', 'fider_ripot', 'mending_epep', 'nunggu_dlu', 'ripot_nunggu']"
+"['samakin', 'update', 'makin', 'busuk', 'sinyal', 'macet', 'tolong', 'prngertiannya']","['busuk_sinyal', 'macet_tolong', 'makin_busuk', 'samakin_update', 'sinyal_macet', 'tolong_prngertiannya', 'update_makin']"
+"['buruk', 'rekomendasi', 'cocok', 'buang', 'sampah']","['buang_sampah', 'buruk_rekomendasi', 'cocok_buang', 'rekomendasi_cocok']"
+['favorit'],[]
+"['woy', 'kw', 'benar', 'lol', 'kw', 'beri', 'benar', 'ibarat', 'rombong', 'pascol', 'lawan', 'skaylar', 'tolol', 'kw', 'kalah', 'mvp', 'montan', 'capek', 'normal', 'mitic', 'hanabi', 'ispayer', 'zilong', 'roam', 'tol']","['benar_ibarat', 'benar_lol', 'beri_benar', 'capek_normal', 'hanabi_ispayer', 'ibarat_rombong', 'ispayer_zilong', 'kalah_mvp', 'kw_benar', 'kw_beri', 'kw_kalah', 'lawan_skaylar', 'lol_kw', 'mitic_hanabi', 'montan_capek', 'mvp_montan', 'normal_mitic', 'pascol_lawan', 'roam_tol', 'rombong_pascol', 'skaylar_tolol', 'tolol_kw', 'woy_kw', 'zilong_roam']"
+"['gatel', 'teman', 'satu', 'jelek', 'buruk', 'kalah', 'kalah', 'mvp', 'satu', 'beban', 'tolong', 'bantu', 'asal', 'asal', 'ban']","['asal_asal', 'asal_ban', 'bantu_asal', 'beban_tolong', 'buruk_kalah', 'gatel_teman', 'jelek_buruk', 'kalah_kalah', 'kalah_mvp', 'mvp_satu', 'satu_beban', 'satu_jelek', 'teman_satu', 'tolong_bantu']"
+"['seru', 'iy']",['seru_iy']
+"['lihat', 'ulas', 'banyak', 'komen', 'bahkan', 'banyak', 'celah', 'ngak', 'ppa', 'bot', 'kurang', 'faham', 'hadap', 'dalam', 'se', 'pasti', 'satu', 'bodoh', 'klu', 'begini', 'banyak', 'pindah']","['bahkan_banyak', 'banyak_celah', 'banyak_komen', 'banyak_pindah', 'begini_banyak', 'bodoh_klu', 'bot_kurang', 'celah_ngak', 'dalam_se', 'faham_hadap', 'hadap_dalam', 'klu_begini', 'komen_bahkan', 'kurang_faham', 'lihat_ulas', 'ngak_ppa', 'pasti_satu', 'ppa_bot', 'satu_bodoh', 'se_pasti', 'ulas_banyak']"
+['bagus'],[]
+"['adil', 'bagi']",['adil_bagi']
+['bagus'],[]
+"['abis', 'draft', 'kenapa', 'ngeframe', 'sudah', 'tengah', 'suka', 'lag']","['abis_draft', 'draft_kenapa', 'kenapa_ngeframe', 'ngeframe_sudah', 'sudah_tengah', 'suka_lag', 'tengah_suka']"
+"['heh', 'monoton', 'beri', 'benar', 'sore', 'nyampe', 'subuh', 'ubah', 'makin', 'update', 'makin', 'rusak', 'ganti', 'rusak']","['benar_sore', 'beri_benar', 'ganti_rusak', 'heh_monoton', 'makin_rusak', 'makin_update', 'monoton_beri', 'nyampe_subuh', 'rusak_ganti', 'sore_nyampe', 'subuh_ubah', 'ubah_makin', 'update_makin']"
+"['knpa', 'sekarang', 'lag', 'bagus']","['knpa_sekarang', 'lag_bagus', 'sekarang_lag']"
+"['sll', 'teman', 'buruk', 'pdhl', 'musuh', 'pro', 'jelas', 'uninstall', 'bye', 'th', 'nyata', 'bnr', 'bukan', 'have', 'fun', 'stres']","['bnr_bukan', 'bukan_have', 'buruk_pdhl', 'bye_th', 'fun_stres', 'have_fun', 'jelas_uninstall', 'musuh_pro', 'nyata_bnr', 'pdhl_musuh', 'pro_jelas', 'sll_teman', 'teman_buruk', 'th_nyata', 'uninstall_bye']"
+"['gam', 'jelas', 'server', 'lag', 'parah', 'belum', 'rusak', 'lancar', 'draf', 'pik', 'serfer', 'lag', 'rusak', 'nugini', 'nyaingin', 'enak', 'mundur', 'suara', 'dengerin', 'rusak', 'salah', 'serfer', 'muak', 'lag', 'ngek', 'begini', 'lama', 'lama', 'pindah', 'nanti', 'baru']","['begini_lama', 'belum_rusak', 'dengerin_rusak', 'draf_pik', 'enak_mundur', 'gam_jelas', 'jelas_server', 'lag_ngek', 'lag_parah', 'lag_rusak', 'lama_lama', 'lama_pindah', 'lancar_draf', 'muak_lag', 'mundur_suara', 'nanti_baru', 'ngek_begini', 'nugini_nyaingin', 'nyaingin_enak', 'parah_belum', 'pik_serfer', 'pindah_nanti', 'rusak_lancar', 'rusak_nugini', 'rusak_salah', 'salah_serfer', 'serfer_lag', 'serfer_muak', 'server_lag', 'suara_dengerin']"
+"['nakin', 'lama', 'signal', 'makin', 'parah', 'signal', 'lancarr', 'hilang', 'frezz', 'jelas', 'banyak', 'an', 'update', 'skin', 'doank', 'perhatiin', 'unistal', 'ganti', 'rugi', 'bintang', 'minus', 'minus', 'skor']","['an_update', 'banyak_an', 'bintang_minus', 'doank_perhatiin', 'frezz_jelas', 'ganti_rugi', 'hilang_frezz', 'jelas_banyak', 'lama_signal', 'lancarr_hilang', 'makin_parah', 'minus_minus', 'minus_skor', 'nakin_lama', 'parah_signal', 'perhatiin_unistal', 'rugi_bintang', 'signal_lancarr', 'signal_makin', 'skin_doank', 'unistal_ganti', 'update_skin']"
+"['mohon', 'bosan', 'kalah', 'menang', 'menang', 'pasti', 'lanjut', 'kalah', 'bosan', 'jika', 'punya', 'teman', 'mabar', 'rekomendasi', 'mendownload']","['bosan_jika', 'bosan_kalah', 'jika_punya', 'kalah_bosan', 'kalah_menang', 'lanjut_kalah', 'mabar_rekomendasi', 'menang_menang', 'menang_pasti', 'mohon_bosan', 'pasti_lanjut', 'punya_teman', 'rekomendasi_mendownload', 'teman_mabar']"
+"['this', 'not', 'fair']","['not_fair', 'this_not']"
+"['moga', 'meningal', 'dunia', 'aminn']","['dunia_aminn', 'meningal_dunia', 'moga_meningal']"
+"['sinyal', 'sekarang', 'buruk', 'full']","['buruk_full', 'sekarang_buruk', 'sinyal_sekarang']"
+"['putus', 'henti', 'makin', 'lama', 'makin', 'jelas', 'tanding', 'feeder', 'lawan', 'pro', 'hibur', 'emosi', 'buruk']","['emosi_buruk', 'feeder_lawan', 'henti_makin', 'hibur_emosi', 'jelas_tanding', 'lama_makin', 'lawan_pro', 'makin_jelas', 'makin_lama', 'pro_hibur', 'putus_henti', 'tanding_feeder']"
+"['tolol', 'anjg']",['tolol_anjg']
+"['aneh', 'kaga', 'pernah', 'benar', 'tolol']","['aneh_kaga', 'benar_tolol', 'kaga_pernah', 'pernah_benar']"
+"['games', 'filled', 'with', 'gelap', 'systems']","['filled_with', 'games_filled', 'gelap_systems', 'with_gelap']"
+"['para', 'streamer', 'pd', 'pindah', 'roblox', 'auto', 'sepi', 'rating', 'y', 'drop']","['auto_sepi', 'para_streamer', 'pd_pindah', 'pindah_roblox', 'rating_drop', 'roblox_auto', 'sepi_rating', 'streamer_pd']"
+"['punya', 'ngk', 'diri', 'tolol', 'amat', 'mentang', 'mentang', 'tolol', 'tolol', 'semua', 'haram']","['amat_mentang', 'diri_tolol', 'mentang_mentang', 'mentang_tolol', 'ngk_diri', 'punya_ngk', 'semua_haram', 'tolol_amat', 'tolol_semua', 'tolol_tolol']"
+"['kecewa', 'rasio', 'rusak', 'gara', 'akun', 'baru']","['akun_baru', 'gara_akun', 'kecewa_rasio', 'rasio_rusak', 'rusak_gara']"
+['suka'],[]
+"['isi', 'tolol', 'ras', 'matching', 'rusak', 'idiot']","['isi_tolol', 'matching_rusak', 'ras_matching', 'rusak_idiot', 'tolol_ras']"
+"['makin', 'makin', 'jelas', 'satu', 'ktemu', 'musuh', 'keras', 'abangabang', 'imo', 'layer', 'evic', 'smua', 'jelas', 'adaada', 'lost', 'trek', 'wr', 'hancur', 'mmr', 'ancur', 'ngerti', 'sudah', 'males', 'lamalama']","['abangabang_imo', 'adaada_lost', 'ancur_ngerti', 'evic_smua', 'hancur_mmr', 'imo_layer', 'jelas_adaada', 'jelas_satu', 'keras_abangabang', 'ktemu_musuh', 'layer_evic', 'lost_trek', 'makin_jelas', 'makin_makin', 'males_lamalama', 'mmr_ancur', 'musuh_keras', 'ngerti_sudah', 'satu_ktemu', 'smua_jelas', 'sudah_males', 'trek_wr', 'wr_hancur']"
+['lancar'],[]
+"['bug', 'bahkan', 'beri', 'deg', 'musuh', 'lipat']","['bahkan_beri', 'beri_deg', 'bug_bahkan', 'deg_musuh', 'musuh_lipat']"
+"['sebenernya', 'suka', 'banget', 'legand', 'cuma', 'sekarang', 'line', 'tentu', 'kurang', 'suka', 'banget', 'punya', 'banyak']","['banget_legand', 'banget_punya', 'cuma_sekarang', 'kurang_suka', 'legand_cuma', 'line_tentu', 'punya_banyak', 'sebenernya_suka', 'sekarang_line', 'suka_banget', 'tentu_kurang']"
+"['selalu', 'kurang', 'bagus']","['kurang_bagus', 'selalu_kurang']"
+"['lag', 'bareng', 'beda', 'tempat', 'beda', 'beda', 'sinyal']","['bareng_beda', 'beda_beda', 'beda_sinyal', 'beda_tempat', 'lag_bareng', 'tempat_beda']"
+['haram'],[]
+"['nerf', 'cici', 'cok']","['cici_cok', 'nerf_cici']"
+"['bodoh', 'tres', 'pemainyah', 'apdetan', 'baru', 'kecewa']","['apdetan_baru', 'baru_kecewa', 'bodoh_tres', 'pemainyah_apdetan', 'tres_pemainyah']"
+"['tolong', 'optimal', 'bagus', 'lag', 'makin', 'update', 'makin', 'perag']","['bagus_lag', 'lag_makin', 'makin_perag', 'makin_update', 'optimal_bagus', 'tolong_optimal', 'update_makin']"
+"['terlalu', 'berat', 'pangkat', 'kecil', 'musuh', 'imbang', 'problem', 'tidahanya', 'stres', 'musuh', 'jago', 'sudah', 'lama', 'sedakan', 'baru', 'indonesia', 'cepat', 'baik', 'adil', 'benar', 'bagus', 'musuh', 'berat', 'adil', 'mohon', 'maaf', 'jika', 'sopan', 'maaf']","['adil_benar', 'adil_mohon', 'bagus_musuh', 'baik_adil', 'baru_indonesia', 'benar_bagus', 'berat_adil', 'berat_pangkat', 'cepat_baik', 'imbang_problem', 'indonesia_cepat', 'jago_sudah', 'jika_sopan', 'kecil_musuh', 'lama_sedakan', 'maaf_jika', 'mohon_maaf', 'musuh_berat', 'musuh_imbang', 'musuh_jago', 'pangkat_kecil', 'problem_tidahanya', 'sedakan_baru', 'sopan_maaf', 'stres_musuh', 'sudah_lama', 'terlalu_berat', 'tidahanya_stres']"
+"['rugi', 'bagai', 'oke', 'dpet', 'slalu', 'gajelas', 'apalgi', 'prapilih', 'role', 'maksain', 'role', 'guna', 'pilih', 'dpetnya', 'roam', 'kyaknya', 'mulai', 'mikirin', 'perihal', 'dpet', 'mvp', 'kalah', 'tetap', 'nmbah', 'bintang', 'sbagai', 'bentuk', 'apresiasi', 'rugi', 'tenaga', 'mmr', 'winrate', 'bintang', 'turun', 'mikir', 'bagus', 'win', 'cuma', 'lose', 'mvp', 'semua', 'kgak', 'nyesek', 'weh', 'mikir', 'woy', 'buruk']","['apalgi_prapilih', 'apresiasi_rugi', 'bagai_oke', 'bagus_win', 'bentuk_apresiasi', 'bintang_sbagai', 'bintang_turun', 'cuma_lose', 'dpet_mvp', 'dpet_slalu', 'dpetnya_roam', 'gajelas_apalgi', 'guna_pilih', 'kalah_tetap', 'kgak_nyesek', 'kyaknya_mulai', 'lose_mvp', 'maksain_role', 'mikir_bagus', 'mikir_woy', 'mikirin_perihal', 'mmr_winrate', 'mulai_mikirin', 'mvp_kalah', 'mvp_semua', 'nmbah_bintang', 'nyesek_weh', 'oke_dpet', 'perihal_dpet', 'pilih_dpetnya', 'prapilih_role', 'roam_kyaknya', 'role_guna', 'role_maksain', 'rugi_bagai', 'rugi_tenaga', 'sbagai_bentuk', 'semua_kgak', 'slalu_gajelas', 'tenaga_mmr', 'tetap_nmbah', 'turun_mikir', 'weh_mikir', 'win_cuma', 'winrate_bintang', 'woy_buruk']"
+"['admin', 'anjg', 'bot', 'trs']","['admin_anjg', 'anjg_bot', 'bot_trs']"
+"['banyak', 'update', 'kualitas', 'buruk', 'kikir', 'babi']","['banyak_update', 'buruk_kikir', 'kikir_babi', 'kualitas_buruk', 'update_kualitas']"
+"['report', 'adu', 'customer', 'servicenya', 'baik', 'jawab', 'template', 'solusi', 'parah', 'kenal', 'sampah']","['adu_customer', 'baik_jawab', 'customer_servicenya', 'jawab_template', 'kenal_sampah', 'parah_kenal', 'report_adu', 'servicenya_baik', 'solusi_parah', 'template_solusi']"
+"['tanya', 'perihal', 'adil', 'alami', 'kalah', 'masif', 'fair', 'selalu', 'rugi', 'rekan', 'coba', 'report', 'tindak', 'lanjut', 'jawab', 'baik', 'dar', 'minta', 'maaf', 'mungkin', 'buruk', 'pernah', 'terimakasih']","['adil_alami', 'alami_kalah', 'baik_dar', 'buruk_pernah', 'coba_report', 'dar_minta', 'fair_selalu', 'jawab_baik', 'kalah_masif', 'lanjut_jawab', 'maaf_mungkin', 'masif_fair', 'minta_maaf', 'mungkin_buruk', 'perihal_adil', 'pernah_terimakasih', 'rekan_coba', 'report_tindak', 'rugi_rekan', 'selalu_rugi', 'tanya_perihal', 'tindak_lanjut']"
+['kontol'],[]
+"['tolong', 'lh', 'hapus', 'darksistem', 'lebih', 'tanding', 'stuck', 'situ', 'pasti', 'darksistem', 'capek', 'cok', 'bukan', 'have', 'fun', 'stres']","['bukan_have', 'capek_cok', 'cok_bukan', 'darksistem_capek', 'darksistem_lebih', 'fun_stres', 'hapus_darksistem', 'have_fun', 'lebih_tanding', 'lh_hapus', 'pasti_darksistem', 'situ_pasti', 'stuck_situ', 'tanding_stuck', 'tolong_lh']"
+"['mikirr', 'beri', 'matching', 'romawi', 'plus', 'sedang', 'musuh', 'full', 'glory', 'emng', 'tambah', 'stres', 'heran', 'adil', 'banget', 'benar', 'benar', 'rusak', 'rusak', 'ws', 'lgsng', 'ls']","['adil_banget', 'banget_benar', 'benar_benar', 'benar_rusak', 'beri_matching', 'emng_tambah', 'full_glory', 'glory_emng', 'heran_adil', 'lgsng_ls', 'matching_romawi', 'mikirr_beri', 'musuh_full', 'plus_sedang', 'romawi_plus', 'rusak_rusak', 'rusak_ws', 'sedang_musuh', 'stres_heran', 'tambah_stres', 'ws_lgsng']"
+['kranjingan'],[]
+"['jangan', 'bro', 'buang', 'buang']","['bro_buang', 'buang_buang', 'jangan_bro']"
+"['cari', 'imbang']",['cari_imbang']
+"['daerah', 'jawa', 'timur', 'jawa', 'tengah', 'mati', 'babi']","['daerah_jawa', 'jawa_tengah', 'jawa_timur', 'mati_babi', 'tengah_mati', 'timur_jawa']"
+"['macam', 'isi', 'balita', 'gelap', 'semua']","['balita_gelap', 'gelap_semua', 'isi_balita', 'macam_isi']"
+"['benar', 'benar', 'aneh', 'bagus', 'lag', 'kadang', 'hapus', 'baru']","['aneh_bagus', 'bagus_lag', 'benar_aneh', 'benar_benar', 'hapus_baru', 'kadang_hapus', 'lag_kadang']"
+"['aneh', 'selalu', 'gelap', 'stres', 'orng']","['aneh_selalu', 'gelap_stres', 'selalu_gelap', 'stres_orng']"
+"['kontol', 'lag']",['kontol_lag']
+"['cl', 'imbang', 'masa', 'bagai', 'beban', 'musuh', 'jago', 'skill', 'sudah', 'gitu', 'wr', 'balance', 'pula', 'kalah', 'turun', 'banyak', 'win', 'naik', 'sedikit', 'sinyal', 'turun', 'naiklag', 'jumping', 'sinyal', 'tes', 'hijau', 'masalah', 'segera', 'atas', 'tetap', 'bintang', 'satu', 'dasar', 'tambah', 'stres']","['atas_tetap', 'bagai_beban', 'balance_pula', 'banyak_win', 'beban_musuh', 'bintang_satu', 'cl_imbang', 'dasar_tambah', 'gitu_wr', 'hijau_masalah', 'imbang_masa', 'jago_skill', 'jumping_sinyal', 'kalah_turun', 'masa_bagai', 'masalah_segera', 'musuh_jago', 'naik_sedikit', 'naiklag_jumping', 'pula_kalah', 'satu_dasar', 'sedikit_sinyal', 'segera_atas', 'sinyal_tes', 'sinyal_turun', 'skill_sudah', 'sudah_gitu', 'tambah_stres', 'tes_hijau', 'tetap_bintang', 'turun_banyak', 'turun_naiklag', 'win_naik', 'wr_balance']"
+"['abis', 'baru', 'makin', 'lag', 'bagus']","['abis_baru', 'baru_makin', 'lag_bagus', 'makin_lag']"
+"['jelek', 'bnyk', 'gelap']","['bnyk_gelap', 'jelek_bnyk']"
+['tolol'],[]
+"['beri', 'pernah', 'benar', 'tolol']","['benar_tolol', 'beri_pernah', 'pernah_benar']"
+"['tolol', 'rate', 'bagus', 'report', 'laen', 'kurang', 'ks', 'report', 'respon', 'buangsat']","['bagus_report', 'ks_report', 'kurang_ks', 'laen_kurang', 'rate_bagus', 'report_laen', 'report_respon', 'respon_buangsat', 'tolol_rate']"
+"['waras', 'dongo', 'moontod', 'poke']","['dongo_moontod', 'moontod_poke', 'waras_dongo']"
+"['rusak', 'stres']",['rusak_stres']
+"['rusak', 'sumpah']",['rusak_sumpah']
+"['tolong', 'ban', 'trol', 'masa', 'make', 'zilong', 'mid', 'bilang', 'menang', 'dia', 'mati', 'nyalahin', 'satu', 'teman', 'ngedukung', 'pula', 'make', 'zilong', 'mid', 'lelah', 'pepek']","['ban_trol', 'bilang_menang', 'dia_mati', 'lelah_pepek', 'make_zilong', 'masa_make', 'mati_nyalahin', 'menang_dia', 'mid_bilang', 'mid_lelah', 'ngedukung_pula', 'nyalahin_satu', 'pula_make', 'satu_teman', 'teman_ngedukung', 'tolong_ban', 'trol_masa', 'zilong_mid']"
+"['sportif', 'adil', 'kurang', 'sportif', 'selalu', 'anggap', 'laku', 'langgar', 'kurang', 'skor', 'poin', 'admin', 'bagus', 'sportif', 'jangan', 'cundang', 'selalu', 'pihak', 'kepada', 'lain', 'cam', 'baik', 'baik', 'ingat', 'paham']","['adil_kurang', 'admin_bagus', 'anggap_laku', 'bagus_sportif', 'baik_baik', 'baik_ingat', 'cam_baik', 'cundang_selalu', 'ingat_paham', 'jangan_cundang', 'kepada_lain', 'kurang_skor', 'kurang_sportif', 'lain_cam', 'laku_langgar', 'langgar_kurang', 'pihak_kepada', 'poin_admin', 'selalu_anggap', 'selalu_pihak', 'skor_poin', 'sportif_adil', 'sportif_jangan', 'sportif_selalu']"
+"['reng', 'kecil', 'kasi', 'lwan', 'reng', 'tinggi', 'pasti', 'kalah']","['kasi_lwan', 'kecil_kasi', 'lwan_reng', 'pasti_kalah', 'reng_kecil', 'reng_tinggi', 'tinggi_pasti']"
+"['ngapasi', 'lag', 'make', 'kouta', 'lag', 'kontes', 'lord', 'lag']","['kontes_lord', 'kouta_lag', 'lag_kontes', 'lag_make', 'lord_lag', 'make_kouta', 'ngapasi_lag']"
+"['babi', 'gemar', 'banyak', 'pernah', 'baik', 'diam', 'mending', 'lebih', 'asik']","['babi_gemar', 'baik_diam', 'banyak_pernah', 'diam_mending', 'gemar_banyak', 'lebih_asik', 'mending_lebih', 'pernah_baik']"
+"['overall', 'bagus', 'masa', 'besar', 'iya', 'jelas', 'gajelas', 'inti', 'minggu', 'kemaren', 'menang', 'please', 'mohon', 'banget', 'baik', 'ulang', 'gi', 'grandmaster', 'kompak', 'masa', 'atas', 'susah', 'banget']","['atas_susah', 'bagus_masa', 'baik_ulang', 'banget_baik', 'besar_iya', 'gajelas_inti', 'gi_grandmaster', 'grandmaster_kompak', 'inti_minggu', 'iya_jelas', 'jelas_gajelas', 'kemaren_menang', 'kompak_masa', 'masa_atas', 'masa_besar', 'menang_please', 'minggu_kemaren', 'mohon_banget', 'overall_bagus', 'please_mohon', 'susah_banget', 'ulang_gi']"
+"['woy', 'cok', 'dancok', 'gamr', 'mu', 'koyok', 'gatell', 'asu', 'kirekk', 'dancok']","['asu_kirekk', 'cok_dancok', 'dancok_gamr', 'gamr_mu', 'gatell_asu', 'kirekk_dancok', 'koyok_gatell', 'mu_koyok', 'woy_cok']"
+"['busuk', 'server', 'aneh', 'kalah', 'mach', 'aneh', 'busuk', 'sedang', 'musuh', 'bagus', 'sudah', 'ganti', 'akun', 'baru', 'tetap', 'grafik', 'bagusin', 'event', 'banyakin', 'play', 'benahin', 'tetap', 'busuk', 'sen', 'tolol', 'mach', 'imbang']","['akun_baru', 'aneh_busuk', 'aneh_kalah', 'bagus_sudah', 'bagusin_event', 'banyakin_play', 'baru_tetap', 'benahin_tetap', 'busuk_sedang', 'busuk_sen', 'busuk_server', 'event_banyakin', 'ganti_akun', 'grafik_bagusin', 'kalah_mach', 'mach_aneh', 'mach_imbang', 'musuh_bagus', 'play_benahin', 'sedang_musuh', 'sen_tolol', 'server_aneh', 'sudah_ganti', 'tetap_busuk', 'tetap_grafik', 'tolol_mach']"
+['kalah'],[]
+"['kenapa', 'sudah', 'update', 'sekarang', 'lebih', 'terputuskoneksi', 'lambatdelayy', 'ganggu', 'kenceng', 'wifidataa']","['ganggu_kenceng', 'kenapa_sudah', 'kenceng_wifidataa', 'lambatdelayy_ganggu', 'lebih_terputuskoneksi', 'sekarang_lebih', 'sudah_update', 'terputuskoneksi_lambatdelayy', 'update_sekarang']"
+"['woy', 'developer', 'makin', 'update', 'makin', 'busuk', 'bug', 'benar', 'rusak', 'server', 'busuk', 'ngaco', 'bug', 'update', 'makin', 'parah']","['benar_rusak', 'bug_benar', 'bug_update', 'busuk_bug', 'busuk_ngaco', 'developer_makin', 'makin_busuk', 'makin_parah', 'makin_update', 'ngaco_bug', 'rusak_server', 'server_busuk', 'update_makin', 'woy_developer']"
+"['tolong', 'beri', 'benar']","['beri_benar', 'tolong_beri']"
+"['please', 'fix', 'you', 'server', 'because', 'lag', 'play', 'if', 'used', 'wify', 'and', 'plaese', 'fix', 'chaeter', 'this', 'oke', 'if', 'you', 'already', 'fix', 'lag', 'and', 'cheater', 'wa', 'nt', 'gift', 'you', 'stars', 'oke']","['already_fix', 'and_cheater', 'and_plaese', 'because_lag', 'chaeter_this', 'cheater_wa', 'fix_chaeter', 'fix_lag', 'fix_you', 'gift_you', 'if_used', 'if_you', 'lag_and', 'lag_play', 'nt_gift', 'oke_if', 'plaese_fix', 'play_if', 'please_fix', 'server_because', 'stars_oke', 'this_oke', 'used_wify', 'wa_nt', 'wify_and', 'you_already', 'you_server', 'you_stars']"
+"['taik', 'lostrek']",['taik_lostrek']
+"['sumpah', 'matckingnya', 'lama', 'banget', 'cuma', 'rool', 'sumpag', 'ngotak', 'lama']","['banget_cuma', 'cuma_rool', 'lama_banget', 'matckingnya_lama', 'ngotak_lama', 'rool_sumpag', 'sumpag_ngotak', 'sumpah_matckingnya']"
+"['pantes', 'ktemu', 'becus', 'sinyal', 'lag', 'sendiri', 'hapus', 'play', 'store']","['becus_sinyal', 'hapus_play', 'ktemu_becus', 'lag_sendiri', 'pantes_ktemu', 'play_store', 'sendiri_hapus', 'sinyal_lag']"
+"['jelas', 'lama', 'digabungin', 'semua', 'bocil', 'resah', 'gendong', 'lama', 'males', 'sumpah', 'digabungin', 'tot']","['bocil_resah', 'digabungin_semua', 'digabungin_tot', 'gendong_lama', 'jelas_lama', 'lama_digabungin', 'lama_males', 'males_sumpah', 'resah_gendong', 'semua_bocil', 'sumpah_digabungin']"
+"['knapa', 'ketemu', 'top', 'global', 'sentuh', 'top', 'provinsi', 'belum', 'blas']","['belum_blas', 'global_sentuh', 'ketemu_top', 'knapa_ketemu', 'provinsi_belum', 'sentuh_top', 'top_global', 'top_provinsi']"
+"['tolong', 'misal', 'chat', 'masuk', 'sensitif', 'ilangin', 'minimal', 'kocak', 'biar', 'plonga', 'plongo', 'nungguin', 'balesin', 'chat', 'nyata', 'emg', 'kirim']","['balesin_chat', 'biar_plonga', 'chat_masuk', 'chat_nyata', 'emg_kirim', 'ilangin_minimal', 'kocak_biar', 'masuk_sensitif', 'minimal_kocak', 'misal_chat', 'nungguin_balesin', 'nyata_emg', 'plonga_plongo', 'plongo_nungguin', 'sensitif_ilangin', 'tolong_misal']"
+['tres'],[]
+"['anjing', 'pay', 'win', 'bangsat']","['anjing_pay', 'pay_win', 'win_bangsat']"
+"['hilang', 'stres', 'selalu', 'stres', 'garagara', 'banyak', 'ngerti']","['banyak_ngerti', 'garagara_banyak', 'hilang_stres', 'selalu_stres', 'stres_garagara', 'stres_selalu']"
+"['bedain', 'skill', 'playernya', 'masa', 'jago', 'dongo', 'mana', 'musuh', 'jago', 'mytic', 'masa', 'nasih', 'epick', 'aneh', 'oon']","['aneh_oon', 'bedain_skill', 'dongo_mana', 'epick_aneh', 'jago_dongo', 'jago_mytic', 'mana_musuh', 'masa_jago', 'masa_nasih', 'musuh_jago', 'mytic_masa', 'nasih_epick', 'playernya_masa', 'skill_playernya']"
+['seru'],[]
+"['jelek', 'banget', 'drafpick', 'oot', 'semua', 'benar']","['banget_drafpick', 'drafpick_oot', 'jelek_banget', 'oot_semua', 'semua_benar']"
+"['kon', 'tol', 'lawan', 'keras', 'iya', 'kelas', 'ajg', 'naikin', 'bintang', 'susah', 'minta', 'ampun', 'kocak', 'beri', 'cacat', 'gelap', 'taeklah', 'makin', 'lama', 'seru', 'imbang', 'beri', 'dasar', 'ajg', 'moontoon', 'asu']","['ajg_moontoon', 'ajg_naikin', 'ampun_kocak', 'beri_cacat', 'beri_dasar', 'bintang_susah', 'cacat_gelap', 'dasar_ajg', 'gelap_taeklah', 'imbang_beri', 'iya_kelas', 'kelas_ajg', 'keras_iya', 'kocak_beri', 'kon_tol', 'lama_seru', 'lawan_keras', 'makin_lama', 'minta_ampun', 'moontoon_asu', 'naikin_bintang', 'seru_imbang', 'susah_minta', 'taeklah_makin', 'tol_lawan']"
+"['matcmaking', 'buruk', 'ktmu', 'musuh', 'jago', 'buruk', 'afk', 'dll', 'gajelas', 'banyak', 'joki', 'jd', 'sakarepmu']","['afk_dll', 'banyak_joki', 'buruk_afk', 'buruk_ktmu', 'dll_gajelas', 'gajelas_banyak', 'jago_buruk', 'jd_sakarepmu', 'joki_jd', 'ktmu_musuh', 'matcmaking_buruk', 'musuh_jago']"
+"['bagai', 'user', 'layla', 'kecewauntuk', 'skin', 'layla', 'tema', 'nexus', 'sea', 'jangan', 'ubah', 'skin', 'benar', 'suka', 'desain', 'skinnya', 'tolong', 'jangan', 'ubah', 'skin', 'sudah', 'nunggu', 'skin', 'layla', 'baru', 'nyata', 'serius', 'rilissaya', 'sudah', 'nunggu', 'berapa', 'bulan', 'skin', 'layla', 'desain']","['bagai_user', 'baru_nyata', 'benar_suka', 'berapa_bulan', 'bulan_skin', 'desain_skinnya', 'jangan_ubah', 'kecewauntuk_skin', 'layla_baru', 'layla_desain', 'layla_kecewauntuk', 'layla_tema', 'nexus_sea', 'nunggu_berapa', 'nunggu_skin', 'nyata_serius', 'rilissaya_sudah', 'sea_jangan', 'serius_rilissaya', 'skin_benar', 'skin_layla', 'skin_sudah', 'skinnya_tolong', 'sudah_nunggu', 'suka_desain', 'tema_nexus', 'tolong_jangan', 'ubah_skin', 'user_layla']"
+"['mooton', 'makin', 'makin', 'jelas', 'ngapain', 'turun', 'season', 'segala', 'tolol', 'amat']","['jelas_ngapain', 'makin_jelas', 'makin_makin', 'mooton_makin', 'ngapain_turun', 'season_segala', 'segala_tolol', 'tolol_amat', 'turun_season']"
+"['tahu', 'kenapa', 'bisu', 'percakapanmute', 'mulai', 'kena', 'teman', 'bagus', 'mulai', 'asik']","['bagus_mulai', 'bisu_percakapanmute', 'kena_teman', 'kenapa_bisu', 'mulai_asik', 'mulai_kena', 'percakapanmute_mulai', 'tahu_kenapa', 'teman_bagus']"
+"['darak', 'terlalu', 'banyak']","['darak_terlalu', 'terlalu_banyak']"
+['vinagriil'],[]
+"['tambah', 'streas', 'asu', 'senggel', 'mene']","['asu_senggel', 'senggel_mene', 'streas_asu', 'tambah_streas']"
+"['susah', 'naik', 'makin', 'lama', 'makin', 'bosen']","['lama_makin', 'makin_bosen', 'makin_lama', 'naik_makin', 'susah_naik']"
+['bagus'],[]
+"['teman', 'ngotak', 'sedikit', 'babi']","['ngotak_sedikit', 'sedikit_babi', 'teman_ngotak']"
+"['babi', 'ngasi', 'gelap', 'baik', 'masa', 'pernah', 'bagus']","['babi_ngasi', 'baik_masa', 'gelap_baik', 'masa_pernah', 'ngasi_gelap', 'pernah_bagus']"
+"['lostrek', 'kasi', 'punya', 'betumbok']","['kasi_punya', 'lostrek_kasi', 'punya_betumbok']"
+"['rusak', 'ksih', 'pdhl', 'full', 'mitic', 'hdh']","['full_mitic', 'ksih_pdhl', 'mitic_hdh', 'pdhl_full', 'rusak_ksih']"
+"['luar', 'biasa', 'seru']","['biasa_seru', 'luar_biasa']"
+"['babi', 'kasi', 'bintang', 'semua', 'hyper', 'bodoh', 'ban', 'akun', 'beberapa', 'biar', 'nyusahin']","['akun_beberapa', 'babi_kasi', 'ban_akun', 'beberapa_biar', 'biar_nyusahin', 'bintang_semua', 'bodoh_ban', 'hyper_bodoh', 'kasi_bintang', 'semua_hyper']"
+"['gokill', 'bagi', 'skin', 'epic', 'gratis', 'makin', 'betah', 'legends']","['bagi_skin', 'betah_legends', 'epic_gratis', 'gokill_bagi', 'gratis_makin', 'makin_betah', 'skin_epic']"
+"['darksystem', 'banyak', 'imbang', 'masuk', 'akal', 'buruk', 'musuh', 'joki', 'lo', 'laku', 'bos']","['akal_buruk', 'banyak_imbang', 'buruk_musuh', 'darksystem_banyak', 'imbang_masuk', 'joki_lo', 'laku_bos', 'lo_laku', 'masuk_akal', 'musuh_joki']"
+"['cocok', 'santai', 'santai', 'banyak', 'gelap', 'pantas', 'dimainin', 'online', 'lawan', 'gelap']","['banyak_gelap', 'cocok_santai', 'dimainin_online', 'gelap_pantas', 'lawan_gelap', 'online_lawan', 'pantas_dimainin', 'santai_banyak', 'santai_santai']"
+"['matching', 'banyak', 'tolol']","['banyak_tolol', 'matching_banyak']"
+"['adil', 'musuh', 'pro', 'buruk', 'tolong', 'beri', 'adil', 'ton']","['adil_musuh', 'adil_ton', 'beri_adil', 'buruk_tolong', 'musuh_pro', 'pro_buruk', 'tolong_beri']"
+"['cheat', 'vip', 'rusak', 'report', 'percuma', 'pengaruh', 'masalah', 'sinyal', 'play', 'bot', 'imbang', 'cuma', 'mikirin', 'cuan', 'kualitas', 'sinyal', 'buruk', 'banyak', 'dalam', 'sebut', 'handle', 'nyaman', 'cuma', 'mikirin', 'grafik', 'menuhi', 'demi', 'cuan', 'banyak', 'korupsi', 'sinyal', 'handle']","['banyak_dalam', 'banyak_korupsi', 'bot_imbang', 'buruk_banyak', 'cheat_vip', 'cuan_banyak', 'cuan_kualitas', 'cuma_mikirin', 'dalam_sebut', 'demi_cuan', 'grafik_menuhi', 'handle_nyaman', 'imbang_cuma', 'korupsi_sinyal', 'kualitas_sinyal', 'masalah_sinyal', 'menuhi_demi', 'mikirin_cuan', 'mikirin_grafik', 'nyaman_cuma', 'pengaruh_masalah', 'percuma_pengaruh', 'play_bot', 'report_percuma', 'rusak_report', 'sebut_handle', 'sinyal_buruk', 'sinyal_handle', 'sinyal_play', 'vip_rusak']"
+"['ui', 'rusak']",['ui_rusak']
+"['walau', 'kecewa', 'gema', 'aksi', 'b', 'terlalu', 'banyak', 'joki', 'mula', 'kembang', 'mohon', 'donk', 'd', 'tindak', 'masa', 'mahal', 'atur', 'konsisten', 'serasa', 'murah']","['aksi_terlalu', 'atur_konsisten', 'banyak_joki', 'donk_tindak', 'gema_aksi', 'joki_mula', 'kecewa_gema', 'kembang_mohon', 'konsisten_serasa', 'mahal_atur', 'masa_mahal', 'mohon_donk', 'mula_kembang', 'serasa_murah', 'terlalu_banyak', 'tindak_masa', 'walau_kecewa']"
+"['makin', 'abdet', 'makin', 'lag', 'sinyal', 'cl', 'selalu', 'sinyal', 'merah', 'sudah', 'wifi', 'internet', 'tetap', 'lag', 'mohon', 'rusak', 'sinyal', 'para', 'enak', 'sinyal', 'lag', 'lain', 'enak']","['abdet_makin', 'cl_selalu', 'enak_sinyal', 'internet_tetap', 'lag_lain', 'lag_mohon', 'lag_sinyal', 'lain_enak', 'makin_abdet', 'makin_lag', 'merah_sudah', 'mohon_rusak', 'para_enak', 'rusak_sinyal', 'selalu_sinyal', 'sinyal_cl', 'sinyal_lag', 'sinyal_merah', 'sinyal_para', 'sudah_wifi', 'tetap_lag', 'wifi_internet']"
+"['dongo', 'busuk', 'sedikit', 'mitik', 'emng', 'paling', 'benar', 'pindah', 'rada', 'dongo', 'semua']","['benar_pindah', 'busuk_sedikit', 'dongo_busuk', 'dongo_semua', 'emng_paling', 'mitik_emng', 'paling_benar', 'pindah_rada', 'rada_dongo', 'sedikit_mitik']"
+"['em', 'buruk', 'su', 'asu']","['buruk_su', 'em_buruk', 'su_asu']"
+"['kontol', 'asuu']",['kontol_asuu']
+"['parah', 'skrang', 'lawan', 'ngak', 'imbang']","['lawan_ngak', 'ngak_imbang', 'parah_skrang', 'skrang_lawan']"
+"['ketemu', 'satu', 'bocil', 'tolong', 'baik', 'sda', 'niat']","['baik_sda', 'bocil_tolong', 'ketemu_satu', 'satu_bocil', 'sda_niat', 'tolong_baik']"
+['kontol'],[]
+['tarik'],[]
+"['anjg', 'ls', 'bae']","['anjg_ls', 'ls_bae']"
+"['buruk', 'jelas', 'kalah']","['buruk_jelas', 'jelas_kalah']"
+"['lag', 'najiss']",['lag_najiss']
+['suka'],[]
+"['banyak', 'cheater', 'dalam']","['banyak_cheater', 'cheater_dalam']"
+"['gila', 'ngotak', 'beri', 'masuk', 'mytikglory', 'setan', 'kau', 'guna']","['beri_masuk', 'gila_ngotak', 'kau_guna', 'masuk_mytikglory', 'mytikglory_setan', 'ngotak_beri', 'setan_kau']"
+"['bagus', 'matching', 'beri', 'imbang', 'egois', 'bagus', 'sedikit', 'saran', 'bagus', 'beri', 'hukum', 'baned', 'kepada', 'sengaja', 'sadar', 'laku', 'trollfeeder', 'dalam', 'suatu', 'terimakasih', 'moga', 'salam', 'waras', 'sadar']","['bagus_beri', 'bagus_matching', 'bagus_sedikit', 'baned_kepada', 'beri_hukum', 'beri_imbang', 'dalam_suatu', 'egois_bagus', 'hukum_baned', 'imbang_egois', 'kepada_sengaja', 'laku_trollfeeder', 'matching_beri', 'moga_salam', 'sadar_laku', 'salam_waras', 'saran_bagus', 'sedikit_saran', 'sengaja_sadar', 'suatu_terimakasih', 'terimakasih_moga', 'trollfeeder_dalam', 'waras_sadar']"
+"['lambat', 'masuk', 'lag', 'pusing']","['lag_pusing', 'lambat_masuk', 'masuk_lag']"
+"['banyak', 'nemu', 'musuh', 'guna', 'rw', 'rugi', 'ketemu', 'brengsek']","['banyak_nemu', 'guna_rw', 'ketemu_brengsek', 'musuh_guna', 'nemu_musuh', 'rugi_ketemu', 'rw_rugi']"
+"['jelek', 'sekarang', 'lag', 'parah', 'banyak', 'bug', 'patah', 'bahkan', 'chiter', 'jarang', 'ketemu']","['bahkan_chiter', 'banyak_bug', 'bug_patah', 'chiter_jarang', 'jarang_ketemu', 'jelek_sekarang', 'lag_parah', 'parah_banyak', 'patah_bahkan', 'sekarang_lag']"
+"['sampah', 'adil', 'isi', 'anomali']","['adil_isi', 'isi_anomali', 'sampah_adil']"
+['tres'],[]
+"['makin', 'berat', 'semenjak', 'update', 'size', 'makin', 'besar', 'berat', 'bagi', 'device', 'ram', 'demi', 'nyaman', 'kecil', 'size', 'admin']","['bagi_device', 'berat_bagi', 'berat_semenjak', 'besar_berat', 'demi_nyaman', 'device_ram', 'kecil_size', 'makin_berat', 'makin_besar', 'nyaman_kecil', 'ram_demi', 'semenjak_update', 'size_admin', 'size_makin', 'update_size']"
+['kikir'],[]
+"['entah', 'bingung', 'mungkin']","['bingung_mungkin', 'entah_bingung']"
+"['we', 'ban', 'para', 'gelap', 'sistemtim', 'tolol', 'santt', 'ajg']","['ban_para', 'gelap_sistemtim', 'para_gelap', 'santt_ajg', 'sistemtim_tolol', 'tolol_santt', 'we_ban']"
+"['apalh', 'masa', 'iya', 'ketemu', 'epic', 'mytic', 'kocak', 'puki', 'mending', 'kalah', 'mvp', 'bintang', 'tetap', 'naik', 'uninstall', 'ajalh', 'guna', 'mutu', 'mending', 'gaess']","['ajalh_guna', 'apalh_masa', 'bintang_tetap', 'epic_mytic', 'guna_mutu', 'iya_ketemu', 'kalah_mvp', 'ketemu_epic', 'kocak_puki', 'masa_iya', 'mending_gaess', 'mending_kalah', 'mutu_mending', 'mvp_bintang', 'mytic_kocak', 'naik_uninstall', 'puki_mending', 'tetap_naik', 'uninstall_ajalh']"
+"['bug', 'pepek']",['bug_pepek']
+"['bagi', 'banding', 'jelek', 'oleng', 'sakit', 'kepala']","['bagi_banding', 'banding_jelek', 'jelek_oleng', 'oleng_sakit', 'sakit_kepala']"
+"['bagus', 'slalu', 'dpat', 'bapuk']","['bagus_slalu', 'dpat_bapuk', 'slalu_dpat']"
+"['gamee', 'idiot']",['gamee_idiot']
+"['rusak', 'ketemu', 'stres', 'percuma', 'pilih', 'ujung', 'guna', 'tetap', 'egois']","['guna_tetap', 'ketemu_stres', 'percuma_pilih', 'pilih_ujung', 'rusak_ketemu', 'stres_percuma', 'tetap_egois', 'ujung_guna']"
+"['kagak', 'imbang', 'beri', 'lawan', 'stabil', 'jangan', 'beri', 'susah', 'banget', 'sengaja', 'biar', 'aing', 'ngambil', 'hak', 'lain', 'sayang', 'ginian', 'ngejar', 'bintang', 'untung', 'sat', 'aing', 'hibur', 'bukan', 'nambah', 'stres', 'sat', 'mo', 'bales', 'enggak', 'bodo', 'amat']","['aing_hibur', 'aing_ngambil', 'bales_enggak', 'banget_sengaja', 'beri_lawan', 'beri_susah', 'biar_aing', 'bintang_untung', 'bodo_amat', 'bukan_nambah', 'enggak_bodo', 'ginian_ngejar', 'hak_lain', 'hibur_bukan', 'imbang_beri', 'jangan_beri', 'kagak_imbang', 'lain_sayang', 'lawan_stabil', 'mo_bales', 'nambah_stres', 'ngambil_hak', 'ngejar_bintang', 'sat_aing', 'sat_mo', 'sayang_ginian', 'sengaja_biar', 'stabil_jangan', 'stres_sat', 'susah_banget', 'untung_sat']"
+"['masuk', 'akal', 'buruk', 'lawan', 'nyaa', 'banding', 'ranket', 'ketemu', 'banding']","['akal_buruk', 'banding_ranket', 'buruk_lawan', 'ketemu_banding', 'lawan_nyaa', 'masuk_akal', 'nyaa_banding', 'ranket_ketemu']"
+"['minimal', 'beri', 'jelas', 'yaa', 'sudah', 'muak', 'banget', 'demi', 'sudah']","['banget_demi', 'beri_jelas', 'demi_sudah', 'jelas_yaa', 'minimal_beri', 'muak_banget', 'sudah_muak', 'yaa_sudah']"
+"['terlalu', 'lebih', 'beri', 'lawan', 'keras', 'susah', 'tolong', 'imbang', 'susah', 'menang', 'kalah', 'lebih']","['beri_lawan', 'imbang_susah', 'kalah_lebih', 'keras_susah', 'lawan_keras', 'lebih_beri', 'menang_kalah', 'susah_menang', 'susah_tolong', 'terlalu_lebih', 'tolong_imbang']"
+"['makin', 'banyak', 'update', 'ingame', 'makin', 'sampah']","['banyak_update', 'ingame_makin', 'makin_banyak', 'makin_sampah', 'update_ingame']"
+"['benar', 'buka', 'hepi', 'pusing', 'sampai', 'sekarang', 'bintang', 'naik', 'naik', 'turun', 'rela', 'ngerusak', 'tidur', 'demi', 'buah', 'bintang', 'lose', 'treak', 'pikir', 'ton', 'tres', 'sekarang', 'bales', 'pesan', 'gau']","['bales_pesan', 'benar_buka', 'bintang_lose', 'bintang_naik', 'buah_bintang', 'buka_hepi', 'demi_buah', 'hepi_pusing', 'lose_treak', 'naik_naik', 'naik_turun', 'ngerusak_tidur', 'pesan_gau', 'pikir_ton', 'pusing_sampai', 'rela_ngerusak', 'sampai_sekarang', 'sekarang_bales', 'sekarang_bintang', 'tidur_demi', 'ton_tres', 'treak_pikir', 'tres_sekarang', 'turun_rela']"
+['kontot'],[]
+['butut'],[]
+"['naik', 'mytic', 'susah', 'gimana', 'dpet', 'feeder']","['dpet_feeder', 'gimana_dpet', 'mytic_susah', 'naik_mytic', 'susah_gimana']"
+"['prik', 'amat', 'bukan', 'happy', 'makin', 'stres', 'patah', 'patah', 'ping', 'bagus', 'bujank', 'darah', 'tinggi', 'cocok', 'kntl']","['amat_bukan', 'bagus_bujank', 'bujank_darah', 'bukan_happy', 'cocok_kntl', 'darah_tinggi', 'happy_makin', 'makin_stres', 'patah_patah', 'patah_ping', 'ping_bagus', 'prik_amat', 'stres_patah', 'tinggi_cocok']"
+['taeh'],[]
+"['makin', 'rusak']",['makin_rusak']
+"['sampah', 'babi', 'darah', 'tinggi', 'cuih']","['babi_darah', 'darah_tinggi', 'sampah_babi', 'tinggi_cuih']"
+"['jangan', 'dowload', 'jelas', 'cok', 'sesat', 'pindah', 'pubg']","['cok_sesat', 'dowload_jelas', 'jangan_dowload', 'jelas_cok', 'pindah_pubg', 'sesat_pindah']"
+"['kunyuk', 'gelap', 'mlu']","['gelap_mlu', 'kunyuk_gelap']"
+"['makin', 'lama', 'makin', 'rusak', 'server', 'busuk']","['lama_makin', 'makin_lama', 'makin_rusak', 'rusak_server', 'server_busuk']"
+"['knp', 'celasik', 'sinyal', 'jelek', 'pin', 'ijo', 'bukan', 'merah', 'mohon', 'rusak', 'minimal', 'rugi']","['bukan_merah', 'celasik_sinyal', 'ijo_bukan', 'jelek_pin', 'knp_celasik', 'merah_mohon', 'minimal_rugi', 'mohon_rusak', 'pin_ijo', 'rusak_minimal', 'sinyal_jelek']"
+"['sinyal', 'busuk', 'cape', 'cape', 'naikin', 'level', 'sinyal', 'buruk', 'buruk', 'sampah', 'asu', 'dasar', 'miskin']","['asu_dasar', 'buruk_buruk', 'buruk_sampah', 'busuk_cape', 'cape_cape', 'cape_naikin', 'dasar_miskin', 'level_sinyal', 'naikin_level', 'sampah_asu', 'sinyal_buruk', 'sinyal_busuk']"
+"['anjingg', 'bangsdd', 'gajelas', 'ngent']","['anjingg_bangsdd', 'bangsdd_gajelas', 'gajelas_ngent']"
+"['lama', 'afk', 'bentar', 'selesai', 'hitung', 'afk', 'ah', 'benrin', 'benar', 'banget']","['afk_ah', 'afk_bentar', 'ah_benrin', 'benar_banget', 'benrin_benar', 'bentar_selesai', 'hitung_afk', 'lama_afk', 'selesai_hitung']"
+"['like', 'bintang', 'kasi', 'mqin', 'musuh', 'mudah']","['bintang_kasi', 'kasi_mqin', 'like_bintang', 'mqin_musuh', 'musuh_mudah']"
+"['tolong', 'legends', 'malas', 'sekarang', 'pasti', 'lag', 'pakek', 'wifi', 'tetap', 'lag', 'bug']","['lag_bug', 'lag_pakek', 'legends_malas', 'malas_sekarang', 'pakek_wifi', 'pasti_lag', 'sekarang_pasti', 'tetap_lag', 'tolong_legends', 'wifi_tetap']"
+"['sinyal', 'jelek', 'mati', 'masuk', 'bass']","['jelek_mati', 'masuk_bass', 'mati_masuk', 'sinyal_jelek']"
+"['ping', 'merah', 'frame', 'drop', 'lag', 'pernah', 'tingkat', 'dengar', 'keluh']","['dengar_keluh', 'drop_lag', 'frame_drop', 'lag_pernah', 'merah_frame', 'pernah_tingkat', 'ping_merah', 'tingkat_dengar']"
+['just'],[]
+"['kurang', 'bagus', 'banyak', 'gelap']","['bagus_banyak', 'banyak_gelap', 'kurang_bagus']"
+"['wahai', 'tolong', 'klok', 'niat', 'beri', 'naek', 'lejen', 'mending', 'ben', 'ajy', 'tres', 'cok', 'anjy']","['ajy_tres', 'ben_ajy', 'beri_naek', 'cok_anjy', 'klok_niat', 'lejen_mending', 'mending_ben', 'naek_lejen', 'niat_beri', 'tolong_klok', 'tres_cok', 'wahai_tolong']"
+['mantapp'],[]
+['sampah'],[]
+"['satu', 'menang', 'tiga', 'kalah', 'enggk', 'gitu', 'minimal', 'darksystembocil', 'mati', 'mulai', 'season', 'kemarin', 'mytic', 'gabisa']","['darksystembocil_mati', 'enggk_gitu', 'gitu_minimal', 'kalah_enggk', 'kemarin_mytic', 'mati_mulai', 'menang_tiga', 'minimal_darksystembocil', 'mulai_season', 'mytic_gabisa', 'satu_menang', 'season_kemarin', 'tiga_kalah']"
+"['thing', 'best']",['thing_best']
+"['salah', 'bg', 'lose', 'ampe', 'gelap', 'epic']","['ampe_gelap', 'bg_lose', 'gelap_epic', 'lose_ampe', 'salah_bg']"
+"['beuh', 'seru', 'bro']","['beuh_seru', 'seru_bro']"
+"['aplikasi', 'gelap', 'makin', 'kembang', 'bukan', 'makin', 'keren', 'makin', 'buruk', 'bubar', 'mnding', 'hps', 'plikasi', 'emosi']","['aplikasi_gelap', 'bubar_mnding', 'bukan_makin', 'buruk_bubar', 'gelap_makin', 'hps_plikasi', 'kembang_bukan', 'keren_makin', 'makin_buruk', 'makin_kembang', 'makin_keren', 'mnding_hps', 'plikasi_emosi']"
+"['sampah', 'random', 'noob', 'guna', 'kill', 'banyak', 'selalu', 'kalah', 'uang', 'habis', 'skin', 'obrol', 'mute', 'melulu', 'sampah']","['banyak_selalu', 'guna_kill', 'habis_skin', 'kalah_uang', 'kill_banyak', 'melulu_sampah', 'mute_melulu', 'noob_guna', 'obrol_mute', 'random_noob', 'sampah_random', 'selalu_kalah', 'skin_obrol', 'uang_habis']"
+"['ls', 'anj']",['ls_anj']
+"['tolong', 'rusak', 'baru', 'kalah', 'begini', 'banyak', 'pindah']","['banyak_pindah', 'baru_kalah', 'begini_banyak', 'kalah_begini', 'rusak_baru', 'tolong_rusak']"
+"['ksih', 'lh', 'turun', 'kpn', 'mnang']","['kpn_mnang', 'ksih_lh', 'lh_turun', 'turun_kpn']"
+"['tolong', 'fix', 'bug', 'draft', 'lag', 'banget']","['bug_draft', 'draft_lag', 'fix_bug', 'lag_banget', 'tolong_fix']"
+"['bagi', 'mula', 'belum', 'candu', 'jangan', 'slot', 'menang', 'kalah', 'sampai', 'rungkat', 'ketemu', 'dll']","['bagi_mula', 'belum_candu', 'candu_jangan', 'jangan_slot', 'kalah_sampai', 'ketemu_dll', 'menang_kalah', 'mula_belum', 'rungkat_ketemu', 'sampai_rungkat', 'slot_menang']"
+"['detik', 'hancur', 'aamiin', 'sdh', 'mulai', 'kurang', 'playersnya', 'salah', 'satu', 'kawan', 'sdh', 'mls', 'bodoh', 'sampah', 'adil', 'bagi', 'teamnya']","['aamiin_sdh', 'adil_bagi', 'bagi_teamnya', 'bodoh_sampah', 'detik_hancur', 'hancur_aamiin', 'kawan_sdh', 'kurang_playersnya', 'mls_bodoh', 'mulai_kurang', 'playersnya_salah', 'salah_satu', 'sampah_adil', 'satu_kawan', 'sdh_mls', 'sdh_mulai']"
+"['paling', 'jelek']",['paling_jelek']
+"['buruk', 'lawan', 'tu', 'padan', 'buruk', 'masa', 'kontribusi', 'apaa']","['buruk_lawan', 'buruk_masa', 'kontribusi_apaa', 'lawan_tu', 'masa_kontribusi', 'padan_buruk', 'tu_padan']"
+"['tolol', 'sudah', 'brpa', 'kalah', 'menang', 'kalah', 'sampek', 'gilak', 'gx', 'ad', 'otak', 'besok', 'baik', 'lg', 'jangan', 'gitu', 'nyengsarain']","['ad_otak', 'baik_lg', 'besok_baik', 'brpa_kalah', 'gilak_gx', 'gitu_nyengsarain', 'gx_ad', 'jangan_gitu', 'kalah_menang', 'kalah_sampek', 'lg_jangan', 'menang_kalah', 'otak_besok', 'sampek_gilak', 'sudah_brpa', 'tolol_sudah']"
+"['bintang', 'pilih', 'kurang', 'tegas', 'hadap', 'niat', 'ngefeed', 'dalam']","['bintang_pilih', 'hadap_niat', 'kurang_tegas', 'ngefeed_dalam', 'niat_ngefeed', 'pilih_kurang', 'tegas_hadap']"
+['kontol'],[]
+"['stres', 'menang', 'kalah', 'sampai', 'imbang', 'adil', 'beda', 'bagus', 'sekarang', 'anj']","['adil_beda', 'bagus_sekarang', 'beda_bagus', 'imbang_adil', 'kalah_sampai', 'menang_kalah', 'sampai_imbang', 'sekarang_anj', 'stres_menang']"
+"['makin', 'makin', 'ruksak', 'masalah', 'lobby', 'hijau', 'drapick', 'hijau', 'masuk', 'freeze', 'putus', 'ampun', 'parah', 'benar', 'makin', 'ponsel', 'luas', 'alhasil', 'apk', 'nyaman', 'muak', 'gitu']","['alhasil_apk', 'ampun_parah', 'apk_nyaman', 'benar_makin', 'drapick_hijau', 'freeze_putus', 'hijau_drapick', 'hijau_masuk', 'lobby_hijau', 'luas_alhasil', 'makin_makin', 'makin_ponsel', 'makin_ruksak', 'masalah_lobby', 'masuk_freeze', 'muak_gitu', 'nyaman_muak', 'parah_benar', 'ponsel_luas', 'putus_ampun', 'ruksak_masalah']"
+"['jelas', 'banyak', 'bot']","['banyak_bot', 'jelas_banyak']"
+['kontol'],[]
+"['knpa', 'skrng', 'jringn', 'bgus', 'lag', 'jringan', 'ijo', 'klau', 'merah', 'slh', 'mh', 'hijo', 'jringn', 'merah']","['bgus_lag', 'hijo_jringn', 'ijo_klau', 'jringan_ijo', 'jringn_bgus', 'jringn_merah', 'klau_merah', 'knpa_skrng', 'lag_jringan', 'merah_slh', 'mh_hijo', 'skrng_jringn', 'slh_mh']"
+"['tanding', 'atur', 'biar', 'naikini', 'paling', 'jengkel']","['atur_biar', 'biar_naikini', 'naikini_paling', 'paling_jengkel', 'tanding_atur']"
+"['pernah', 'adil', 'dalam', 'tanding', 'gajelas', 'dalam', 'rankednya', 'lawan', 'tier', 'ranknya']","['adil_dalam', 'dalam_rankednya', 'dalam_tanding', 'gajelas_dalam', 'lawan_tier', 'pernah_adil', 'rankednya_lawan', 'tanding_gajelas', 'tier_ranknya']"
+"['kecewa', 'masa', 'musuh', 'jago', 'sendiri', 'lolot', 'lag', 'parah']","['jago_sendiri', 'kecewa_masa', 'lag_parah', 'lolot_lag', 'masa_musuh', 'musuh_jago', 'sendiri_lolot']"
+"['cape', 'ketemu', 'poke', 'musuh', 'jago', 'jangan', 'gamau', 'stres']","['cape_ketemu', 'gamau_stres', 'jago_jangan', 'jangan_gamau', 'ketemu_poke', 'musuh_jago', 'poke_musuh']"
+"['sampah', 'gelap', 'pisah', 'partian', 'anj', 'busuk']","['anj_busuk', 'gelap_pisah', 'partian_anj', 'pisah_partian', 'sampah_gelap']"
+"['yangg', 'bot', 'musuh', 'jagoo', 'gakk', 'suu']","['bot_musuh', 'gakk_suu', 'jagoo_gakk', 'musuh_jagoo', 'yangg_bot']"
+"['sinya', 'penuh', 'ngeleh', 'tolol', 'tolol', 'asu']","['ngeleh_tolol', 'penuh_ngeleh', 'sinya_penuh', 'tolol_asu', 'tolol_tolol']"
+"['jelek', 'ls', 'buruk']","['jelek_ls', 'ls_buruk']"
+"['babi', 'stak', 'epik', 'babi', 'klonnga', 'musuh', 'full', 'mitik', 'begok']","['babi_klonnga', 'babi_stak', 'epik_babi', 'full_mitik', 'klonnga_musuh', 'mitik_begok', 'musuh_full', 'stak_epik']"
+"['punya', 'hati', 'jelas', 'menang', 'kalah', 'ngilangin', 'stres']","['hati_jelas', 'jelas_menang', 'kalah_ngilangin', 'menang_kalah', 'ngilangin_stres', 'punya_hati']"
+"['lawan', 'menang', 'kalah', 'apapa', 'masalah']","['apapa_masalah', 'kalah_apapa', 'lawan_menang', 'menang_kalah']"
+"['buruk', 'merah', 'pdhl', 'nonton', 'yt', 'roblox', 'lancar', 'jaya', 'buruk', 'ubah']","['buruk_merah', 'buruk_ubah', 'jaya_buruk', 'lancar_jaya', 'merah_pdhl', 'nonton_yt', 'pdhl_nonton', 'roblox_lancar', 'yt_roblox']"
+"['porno', 'rusak', 'mental', 'pikir']","['mental_pikir', 'porno_rusak', 'rusak_mental']"
+"['kagak', 'adil', 'kontol', 'asu']","['adil_kontol', 'kagak_adil', 'kontol_asu']"
+"['gamek', 'ontol', 'lag', 'ngentod']","['gamek_ontol', 'lag_ngentod', 'ontol_lag']"
+"['woy', 'musnah']",['woy_musnah']
+"['tahu', 'jika', 'tagih', 'sportif', 'curang', 'curang', 'beri', 'teman', 'komputer', 'sendiri', 'nickname', 'hampir', 'biasa', 'angkanyakalau', 'laku', 'curang', 'tagih', 'salah', 'justru', 'hapus']","['angkanyakalau_laku', 'beri_teman', 'biasa_angkanyakalau', 'curang_beri', 'curang_curang', 'curang_tagih', 'hampir_biasa', 'jika_tagih', 'justru_hapus', 'komputer_sendiri', 'laku_curang', 'nickname_hampir', 'salah_justru', 'sendiri_nickname', 'sportif_curang', 'tagih_salah', 'tagih_sportif', 'tahu_jika', 'teman_komputer']"
+"['kontol', 'anjing']",['kontol_anjing']
+['mantap'],[]
+"['kasi', 'baik', 'muntun', 'jgan', 'kasi', 'gelap', 'lahh']","['baik_muntun', 'gelap_lahh', 'jgan_kasi', 'kasi_baik', 'kasi_gelap', 'muntun_jgan']"
+"['bane', 'mohon', 'sesuikan']","['bane_mohon', 'mohon_sesuikan']"
+"['hehh', 'bagus', 'capek', 'bintang', 'bagus', 'kau', 'bagus', 'kau', 'bintang']","['bagus_capek', 'bagus_kau', 'bintang_bagus', 'capek_bintang', 'hehh_bagus', 'kau_bagus', 'kau_bintang']"
+"['masalah', 'imbang', 'total', 'tanding', 'k', 'ketemu', 'sampai', 'kocak', 'rusak']","['imbang_total', 'ketemu_sampai', 'kocak_rusak', 'masalah_imbang', 'sampai_kocak', 'tanding_ketemu', 'total_tanding']"
+"['yey', 'ws', 'smaa', 'mimin', 'syg', 'mimin']","['mimin_syg', 'smaa_mimin', 'syg_mimin', 'ws_smaa', 'yey_ws']"
+"['akun', 'kena', 'ban']","['akun_kena', 'kena_ban']"
+"['bagus', 'tolong', 'baik', 'machmaking', 'sampah', 'mythic', 'masa', 'ketemu', 'sedang', 'pihak', 'lawan', 'mythic', 'tolong', 'baik', 'machmaking', 'adil']","['bagus_tolong', 'baik_machmaking', 'ketemu_sedang', 'lawan_mythic', 'machmaking_adil', 'machmaking_sampah', 'masa_ketemu', 'mythic_masa', 'mythic_tolong', 'pihak_lawan', 'sampah_mythic', 'sedang_pihak', 'tolong_baik']"
+"['seru', 'santai']",['seru_santai']
+"['bodoh', 'rusak', 'tolo', 'tolo']","['bodoh_rusak', 'rusak_tolo', 'tolo_tolo']"
+['busuk'],[]
+"['culas', 'busuk', 'wajar', 'ketemu', 'musuh', 'buruk', 'gerak', 'mati', 'langsung', 'lancar']","['buruk_gerak', 'busuk_wajar', 'culas_busuk', 'gerak_mati', 'ketemu_musuh', 'langsung_lancar', 'mati_langsung', 'musuh_buruk', 'wajar_ketemu']"
+"['akun', 'hubung', 'sudah', 'beberapa', 'coba', 'tetap', 'hubung', 'tolong', 'arah']","['akun_hubung', 'beberapa_coba', 'coba_tetap', 'hubung_sudah', 'hubung_tolong', 'sudah_beberapa', 'tetap_hubung', 'tolong_arah']"
+"['wah', 'gmnya', 'bagus', 'gerafiknya', 'bagus', 'derak', 'bananyak', 'coba', 'banyak', 'darak', 'jamin', 'alam', 'seta', 'seson']","['alam_seta', 'bagus_derak', 'bagus_gerafiknya', 'bananyak_coba', 'banyak_darak', 'coba_banyak', 'darak_jamin', 'derak_bananyak', 'gerafiknya_bagus', 'gmnya_bagus', 'jamin_alam', 'seta_seson', 'wah_gmnya']"
+['oke'],[]
+['lacur'],[]
+"['ko', 'makin', 'ngeselin', 'yaa', 'lag', 'parah', 'merah', 'gerak', 'tar', 'jalan', 'sndiri', 'bunuh', 'ngeselin', 'banget', 'asli', 'buka', 'yt', 'kualitas', 'hd', 'ttp', 'jalan']","['asli_buka', 'banget_asli', 'buka_yt', 'bunuh_ngeselin', 'gerak_tar', 'hd_ttp', 'jalan_sndiri', 'ko_makin', 'kualitas_hd', 'lag_parah', 'makin_ngeselin', 'merah_gerak', 'ngeselin_banget', 'ngeselin_yaa', 'parah_merah', 'sndiri_bunuh', 'tar_jalan', 'ttp_jalan', 'yaa_lag', 'yt_kualitas']"
+"['musuh', 'imbang', 'adil', 'seru']","['adil_seru', 'imbang_adil', 'musuh_imbang']"
+"['selesai', 'draf', 'selalu', 'lag', 'parah', 'bagus']","['draf_selalu', 'lag_parah', 'parah_bagus', 'selalu_lag', 'selesai_draf']"
+"['bagus', 'suka', 'role', 'guna', 'role', 'role', 'dapt']","['bagus_suka', 'guna_role', 'role_dapt', 'role_guna', 'role_role', 'suka_role']"
+"['sinyal', 'bagus', 'support', 'ngk', 'gerak']","['bagus_support', 'ngk_gerak', 'sinyal_bagus', 'support_ngk']"
+"['fedder', 'ngk', 'imbang']","['fedder_ngk', 'ngk_imbang']"
+"['buruk', 'benar', 'masa', 'musuh', 'sulit', 'keras', 'trol', 'feeder', 'mana', 'suka', 'lag', 'tibatiba', 'makin', 'makin', 'parah']","['benar_masa', 'buruk_benar', 'feeder_mana', 'keras_trol', 'lag_tibatiba', 'makin_makin', 'makin_parah', 'mana_suka', 'masa_musuh', 'musuh_sulit', 'suka_lag', 'sulit_keras', 'tibatiba_makin', 'trol_feeder']"
+"['anjing', 'cape', 'cape', 'naekin', 'ketemu', 'epic', 'muluu']","['anjing_cape', 'cape_cape', 'cape_naekin', 'epic_muluu', 'ketemu_epic', 'naekin_ketemu']"
+"['hei', 'beri', 'jangan', 'duo', 'trio', 'tolol', 'duotrio', 'tolol']","['beri_jangan', 'duo_trio', 'duotrio_tolol', 'hei_beri', 'jangan_duo', 'tolol_duotrio', 'trio_tolol']"
+"['sinyal', 'full', 'hijau', 'aneh', 'lag', 'parah', 'sampai', 'kira', 'afk', 'benar', 'benar', 'rugi']","['afk_benar', 'aneh_lag', 'benar_benar', 'benar_rugi', 'full_hijau', 'hijau_aneh', 'kira_afk', 'lag_parah', 'parah_sampai', 'sampai_kira', 'sinyal_full']"
+"['lag', 'ngentod']",['lag_ngentod']
+"['matching', 'gajelas']",['matching_gajelas']
+"['biasa', 'gelap', 'pasti', 'jumping', 'sinyal', 'oke']","['biasa_gelap', 'gelap_pasti', 'jumping_sinyal', 'pasti_jumping', 'sinyal_oke']"
+['kontoll'],[]
+"['baik', 'noh', 'bug']","['baik_noh', 'noh_bug']"
+"['bug', 'coba', 'report', 'masalah', 'atas', 'balas', 'report']","['atas_balas', 'balas_report', 'bug_coba', 'coba_report', 'masalah_atas', 'report_masalah']"
+"['kasi', 'musuh', 'sm', 'musuh', 'jago', 'gabisa']","['jago_gabisa', 'kasi_musuh', 'musuh_jago', 'musuh_sm', 'sm_musuh']"
+"['ngilangin', 'stres', 'ehh', 'tambah', 'stres', 'gaush', 'gila', 'ntr']","['ehh_tambah', 'gaush_gila', 'gila_ntr', 'ngilangin_stres', 'stres_ehh', 'stres_gaush', 'tambah_stres']"
+['buruk'],[]
+"['ganti', 'akun', 'cuma', 'arah', 'pusat', 'akun', 'ikut', 'arah', 'customer', 'servis', 'emosi', 'kadang', 'kode', 'verifikasi', 'salah', 'ganti', 'akun', 'email', 'google', 'sudah', 'benar', 'masukin']","['akun_cuma', 'akun_email', 'akun_ikut', 'arah_customer', 'arah_pusat', 'benar_masukin', 'cuma_arah', 'customer_servis', 'email_google', 'emosi_kadang', 'ganti_akun', 'google_sudah', 'ikut_arah', 'kadang_kode', 'kode_verifikasi', 'pusat_akun', 'salah_ganti', 'servis_emosi', 'sudah_benar', 'verifikasi_salah']"
+"['kenapa', 'suara', 'hiro', 'dalam', 'ngak', 'hilang']","['dalam_ngak', 'hiro_dalam', 'kenapa_suara', 'ngak_hilang', 'suara_hiro']"
+"['mikir', 'susah', 'komunikasi', 'gelap', 'aneh']","['gelap_aneh', 'komunikasi_gelap', 'mikir_susah', 'susah_komunikasi']"
+['good'],[]
+"['kenapa', 'sekarang', 'selesai', 'yapping', 'bujang', 'bungkam', 'timkukuat']","['bujang_bungkam', 'bungkam_timkukuat', 'kenapa_sekarang', 'sekarang_selesai', 'selesai_yapping', 'yapping_bujang']"
+"['yatempiyatu', 'asu', 'ngekei', 'goblog', 'kabeh', 'meh', 'munggah', 'mitik', 'e', 'angel', 'e', 'asu', 'jembot']","['angel_asu', 'asu_jembot', 'asu_ngekei', 'goblog_kabeh', 'kabeh_meh', 'meh_munggah', 'mitik_angel', 'munggah_mitik', 'ngekei_goblog', 'yatempiyatu_asu']"
+"['jelas', 'makin', 'lama', 'makin', 'hilang', 'sampah']","['hilang_sampah', 'jelas_makin', 'lama_makin', 'makin_hilang', 'makin_lama']"
+"['sudah', 'session', 'makin', 'njng', 'moontonnya', 'menang', 'lanjut', 'jangan', 'harap', 'menang', 'darksystemnya', 'ngotak', 'developer', 'selalu', 'binatang', 'buruk', 'su', 'sampai', 'kapan', 'imbang', 'dalam']","['binatang_buruk', 'buruk_su', 'darksystemnya_ngotak', 'developer_selalu', 'harap_menang', 'imbang_dalam', 'jangan_harap', 'kapan_imbang', 'lanjut_jangan', 'makin_njng', 'menang_darksystemnya', 'menang_lanjut', 'moontonnya_menang', 'ngotak_developer', 'njng_moontonnya', 'sampai_kapan', 'selalu_binatang', 'session_makin', 'su_sampai', 'sudah_session']"
+['lawak'],[]
+"['lot', 'baru', 'rang', 'kredit', 'skor', 'babi', 'kau', 'gelap', 'parah']","['babi_kau', 'baru_rang', 'gelap_parah', 'kau_gelap', 'kredit_skor', 'lot_baru', 'rang_kredit', 'skor_babi']"
+"['menang', 'kalah', 'sampai', 'lima']","['kalah_sampai', 'menang_kalah', 'sampai_lima']"
+"['peerbaiki', 'sinyal', 'jngan', 'banyak', 'event']","['banyak_event', 'jngan_banyak', 'peerbaiki_sinyal', 'sinyal_jngan']"
+"['seru', 'tantang', 'sukapake', 'lancelot']","['seru_tantang', 'sukapake_lancelot', 'tantang_sukapake']"
+['normal'],[]
+"['makin', 'server', 'lag', 'anj']","['lag_anj', 'makin_server', 'server_lag']"
+"['kenapa', 'kalahh', 'teruss', 'ton', 'capemonton', 'kasi', 'apaa', 'kenapa', 'susang', 'benget', 'keluar', 'legendsmonton', 'gamau', 'lose', 'cape']","['apaa_kenapa', 'benget_keluar', 'capemonton_kasi', 'gamau_lose', 'kalahh_teruss', 'kasi_apaa', 'keluar_legendsmonton', 'kenapa_kalahh', 'kenapa_susang', 'legendsmonton_gamau', 'lose_cape', 'susang_benget', 'teruss_ton', 'ton_capemonton']"
+"['lag', 'ping', 'merah', 'busuk']","['lag_ping', 'merah_busuk', 'ping_merah']"
+"['manajemen', 'milih', 'seluruh', 'cuma', 'indonesia', 'internetnya', 'lambat', 'paksa', 'semua', 'kentang', 'lag', 'brutal', 'pilih', 'mana', 'momen', 'penting', 'tentu', 'menang', 'buah']","['brutal_pilih', 'cuma_indonesia', 'indonesia_internetnya', 'internetnya_lambat', 'kentang_lag', 'lag_brutal', 'lambat_paksa', 'mana_momen', 'manajemen_milih', 'menang_buah', 'milih_seluruh', 'momen_penting', 'paksa_semua', 'penting_tentu', 'pilih_mana', 'seluruh_cuma', 'semua_kentang', 'tentu_menang']"
+"['pokimai', 'masuk', 'akal', 'sedang', 'musuh', 'jago', 'poqi']","['akal_sedang', 'jago_poqi', 'masuk_akal', 'musuh_jago', 'pokimai_masuk', 'sedang_musuh']"
+"['binatang', 'beri', 'hapus', 'banyak', 'bug', 'update', 'sekian', 'wasalam']","['banyak_bug', 'beri_hapus', 'binatang_beri', 'bug_update', 'hapus_banyak', 'sekian_wasalam', 'update_sekian']"
+['aneh'],[]
+"['seru', 'banget', 'sudah', 'th', 'bosen', 'bosen']","['banget_sudah', 'bosen_bosen', 'seru_banget', 'sudah_th', 'th_bosen']"
+"['season', 'kemarin', 'cuam', 'puterputer', 'menang', 'kalah', 'naik', 'enggak', 'turun', 'enggak', 'stuck', 'situ', 'macth', 'mvp', 'kalah', 'menang', 'mvp', 'privilege']","['cuam_puterputer', 'enggak_stuck', 'enggak_turun', 'kalah_menang', 'kalah_naik', 'kemarin_cuam', 'macth_mvp', 'menang_kalah', 'menang_mvp', 'mvp_kalah', 'mvp_privilege', 'naik_enggak', 'puterputer_menang', 'season_kemarin', 'situ_macth', 'stuck_situ', 'turun_enggak']"
+"['sekrang', 'ngasi', 'tolol', 'semua']","['ngasi_tolol', 'sekrang_ngasi', 'tolol_semua']"
+"['like', 'it']",['like_it']
+"['rusak', 'masalah']",['rusak_masalah']
+"['jelas', 'd', 'kurang', 'kredit', 'skor', 'ngga', 'ngapa', 'ngapain']","['jelas_kurang', 'kredit_skor', 'kurang_kredit', 'ngapa_ngapain', 'ngga_ngapa', 'skor_ngga']"
+"['suka', 'lag', 'karuan', 'pen', 'lag', 'bagus', 'tolong', 'jangan', 'rusak', 'nyaman']","['bagus_tolong', 'jangan_rusak', 'karuan_pen', 'lag_bagus', 'lag_karuan', 'pen_lag', 'rusak_nyaman', 'suka_lag', 'tolong_jangan']"
+"['gemm', 'jembot', 'kontol', 'asu', 'tempek', 'keok', 'akeh', 'gelap', 'coknasu']","['akeh_gelap', 'asu_tempek', 'gelap_coknasu', 'gemm_jembot', 'jembot_kontol', 'keok_akeh', 'kontol_asu', 'tempek_keok']"
+"['kikir', 'bgst', 'ajg', 'losstreak']","['ajg_losstreak', 'bgst_ajg', 'kikir_bgst']"
+"['bagus', 'ngotak', 'kadang', 'siyal', 'jelek', 'pus', 'dpet', 'musuh', 'jago', 'semua', 'sendiri', 'jelek', 'lgi', 'pusreng', 'dpet', 'musuh', 'jgo', 'semua']","['bagus_ngotak', 'dpet_musuh', 'jago_semua', 'jelek_lgi', 'jelek_pus', 'jgo_semua', 'kadang_siyal', 'lgi_pusreng', 'musuh_jago', 'musuh_jgo', 'ngotak_kadang', 'pus_dpet', 'pusreng_dpet', 'semua_sendiri', 'sendiri_jelek', 'siyal_jelek']"
+"['tolong', 'musuh', 'padan', 'masa', 'ex', 'ketemu', 'musuh', 'ex', 'imo', 'semua', 'adil', 'padan']","['adil_padan', 'ex_imo', 'ex_ketemu', 'imo_semua', 'ketemu_musuh', 'masa_ex', 'musuh_ex', 'musuh_padan', 'padan_masa', 'semua_adil', 'tolong_musuh']"
+['buruk'],[]
+"['beri', 'adil', 'adil', 'banyak', 'meng', 'troll', 'jika', 'role', 'sengsara', 'jika', 'troll', 'ranking', 'kena', 'lindung', 'kasihan', 'orng', 'lain', 'troll', 'turun']","['adil_adil', 'adil_banyak', 'banyak_meng', 'beri_adil', 'jika_role', 'jika_troll', 'kasihan_orng', 'kena_lindung', 'lain_troll', 'lindung_kasihan', 'meng_troll', 'orng_lain', 'ranking_kena', 'role_sengsara', 'sengsara_jika', 'troll_jika', 'troll_ranking', 'troll_turun']"
+['tae'],[]
+"['punya', 'bocil', 'minimal', 'waras', 'lol']","['bocil_minimal', 'minimal_waras', 'punya_bocil', 'waras_lol']"
+"['jelek', 'mending', 'hapus', 'darksistem', 'semua', 'musuh', 'jago', 'adil', 'jelek', 'usah', 'mainin', 'usak', 'otak']","['adil_jelek', 'darksistem_semua', 'hapus_darksistem', 'jago_adil', 'jelek_mending', 'jelek_usah', 'mainin_usak', 'mending_hapus', 'musuh_jago', 'semua_musuh', 'usah_mainin', 'usak_otak']"
+"['gblok', 'alam', 'romawi', 'glory', 'guobloknya', 'berapa', 'gblok', 'profil', 'tolol', 'parah', 'matchnya', 'anjeng']","['alam_romawi', 'berapa_gblok', 'gblok_alam', 'gblok_profil', 'glory_guobloknya', 'guobloknya_berapa', 'matchnya_anjeng', 'parah_matchnya', 'profil_tolol', 'romawi_glory', 'tolol_parah']"
+"['saranin', 'sabar', 'setip', 'tisu', 'jangan', 'otak', 'stres', 'lama', 'lama', 'kesel', 'jugaa', 'rusak']","['jangan_otak', 'jugaa_rusak', 'kesel_jugaa', 'lama_kesel', 'lama_lama', 'otak_stres', 'sabar_setip', 'saranin_sabar', 'setip_tisu', 'stres_lama', 'tisu_jangan']"
+"['kait', 'rusak', 'ngotak', 'sedikit']","['kait_rusak', 'ngotak_sedikit', 'rusak_ngotak']"
+"['gm', 'taik', 'tol', 'semuaa', 'kasi', 'ajingg', 'binatang', 'ngsi', 'kontoll', 'anjing']","['ajingg_binatang', 'binatang_ngsi', 'gm_taik', 'kasi_ajingg', 'kontoll_anjing', 'ngsi_kontoll', 'semuaa_kasi', 'taik_tol', 'tol_semuaa']"
+"['rusak', 'tres', 'ngk', 'adil', 'lolot', 'mending', 'pindah', 'king', 'lebih', 'tarik', 'lebih', 'adil', 'beri', 'lawan', 'sesuai', 'mampu', 'sendiri', 'beda', 'beri', 'musuh', 'ngak', 'imbang', 'sendiri', 'tambah', 'sekarang', 'sendiri', 'mati', 'pasti', 'langsung', 'ripot', 'kurang', 'kredit', 'kor', 'ngak', 'kasi', 'layer', 'buruk']","['adil_beri', 'adil_lolot', 'beda_beri', 'beri_lawan', 'beri_musuh', 'imbang_sendiri', 'kasi_layer', 'king_lebih', 'kor_ngak', 'kredit_kor', 'kurang_kredit', 'langsung_ripot', 'lawan_sesuai', 'layer_buruk', 'lebih_adil', 'lebih_tarik', 'lolot_mending', 'mampu_sendiri', 'mati_pasti', 'mending_pindah', 'musuh_ngak', 'ngak_imbang', 'ngak_kasi', 'ngk_adil', 'pasti_langsung', 'pindah_king', 'ripot_kurang', 'rusak_tres', 'sekarang_sendiri', 'sendiri_beda', 'sendiri_mati', 'sendiri_tambah', 'sesuai_mampu', 'tambah_sekarang', 'tarik_lebih', 'tres_ngk']"
+"['bagus', 'grafik', 'sudah', 'gabisa', 'sekarang']","['bagus_grafik', 'gabisa_sekarang', 'grafik_sudah', 'sudah_gabisa']"
+['kotl'],[]
+"['pesan', 'buka', 'beri', 'langgar', 'tanpa', 'lihat', 'mentulusuri', 'tolong', 'perbaikin', 'belum', 'ambil', 'tindak']","['ambil_tindak', 'belum_ambil', 'beri_langgar', 'buka_beri', 'langgar_tanpa', 'lihat_mentulusuri', 'mentulusuri_tolong', 'perbaikin_belum', 'pesan_buka', 'tanpa_lihat', 'tolong_perbaikin']"
+"['ketemu', 'gajelas']",['ketemu_gajelas']
+['dongo'],[]
+"['settingan', 'banyak', 'bot', 'kalah', 'moga', 'cepat', 'bangkrut', 'aamiin']","['bangkrut_aamiin', 'banyak_bot', 'bot_kalah', 'cepat_bangkrut', 'kalah_moga', 'moga_cepat', 'settingan_banyak']"
+"['gaje', 'lama', 'season', 'isi', 'banyak', 'maksa', 'sedang', 'musuh', 'renk', 'tinggi', 'glory', 'renk', 'tinggi', 'epic', 'mawi', 'username', 'fadil', 'elek', 'lama', 'season', 'pernah', 'ws']","['banyak_maksa', 'elek_lama', 'epic_mawi', 'fadil_elek', 'gaje_lama', 'glory_renk', 'isi_banyak', 'lama_season', 'maksa_sedang', 'mawi_username', 'musuh_renk', 'pernah_ws', 'renk_tinggi', 'season_isi', 'season_pernah', 'sedang_musuh', 'tinggi_epic', 'tinggi_glory', 'username_fadil']"
+['oke'],[]
+"['lain', 'jali', 'kasi', 'waras', 'sedikit', 'jn', 'ngetrol', 'mikir', 'napa', 'org', 'improve', 'dr', 'skill', 'kasi', 'gt', 'org', 'mentok', 'lawak']","['dr_skill', 'gt_org', 'improve_dr', 'jali_kasi', 'jn_ngetrol', 'kasi_gt', 'kasi_waras', 'lain_jali', 'mentok_lawak', 'mikir_napa', 'napa_org', 'ngetrol_mikir', 'org_improve', 'org_mentok', 'sedikit_jn', 'skill_kasi', 'waras_sedikit']"
+"['sudah', 'apus', 'beri', 'gprnah', 'benar']","['apus_beri', 'beri_gprnah', 'gprnah_benar', 'sudah_apus']"
+"['skin', 'gratis', 'jangan', 'trial', 'herobadang', 'helcrut', 'semuahero', 'gratis', 'nanti', 'bintang', 'suka', 'pasang', 'hapymod']","['bintang_suka', 'gratis_jangan', 'gratis_nanti', 'helcrut_semuahero', 'herobadang_helcrut', 'jangan_trial', 'nanti_bintang', 'pasang_hapymod', 'semuahero_gratis', 'skin_gratis', 'suka_pasang', 'trial_herobadang']"
+"['bagus', 'beri', 'diamond', 'beri', 'bintang', 'cukup']","['bagus_beri', 'beri_bintang', 'beri_diamond', 'bintang_cukup', 'diamond_beri']"
+"['usah', 'ngekil', 'ges', 'mending', 'assist', 'cape', 'cape', 'kill', 'ngepush', 'kalah', 'punya', 'assist', 'lebih', 'banyak', 'mvp', 'mati', 'banyak', 'dia']","['assist_cape', 'assist_lebih', 'banyak_dia', 'banyak_mvp', 'cape_cape', 'cape_kill', 'ges_mending', 'kalah_punya', 'kill_ngepush', 'lebih_banyak', 'mati_banyak', 'mending_assist', 'mvp_mati', 'ngekil_ges', 'ngepush_kalah', 'punya_assist', 'usah_ngekil']"
+['pepek'],[]
+"['banyak', 'darksistem']",['banyak_darksistem']
+"['seru', 'tolong', 'imbang']","['seru_tolong', 'tolong_imbang']"
+['kontol'],[]
+[],[]
+"['parah', 'banget', 'ngebug', 'oke', 'plus', 'tia', 'sentuh', 'kena', 'afk', 'baik']","['afk_baik', 'banget_ngebug', 'kena_afk', 'ngebug_oke', 'oke_plus', 'parah_banget', 'plus_tia', 'sentuh_kena', 'tia_sentuh']"
+"['klok', 'bot', 'musuh', 'jugak', 'bot', 'bot', 'musuh', 'gg', 'tololtolong', 'ituh', 'lobi', 'bnerin', 'mles']","['bnerin_mles', 'bot_bot', 'bot_musuh', 'gg_tololtolong', 'ituh_lobi', 'jugak_bot', 'klok_bot', 'lobi_bnerin', 'musuh_gg', 'musuh_jugak', 'tololtolong_ituh']"
+"['ngotak', 'sedikit', 'lawan', 'imbang', 'pasti', 'pindah', 'tolong', 'baik', 'napa', 'lawan', 'ngotak', 'senang', 'senang', 'imbang', 'lawan', 'alhasil', 'lose', 'streakkecewa', 'berat']","['alhasil_lose', 'baik_napa', 'imbang_lawan', 'imbang_pasti', 'lawan_alhasil', 'lawan_imbang', 'lawan_ngotak', 'lose_streakkecewa', 'napa_lawan', 'ngotak_sedikit', 'ngotak_senang', 'pasti_pindah', 'pindah_tolong', 'sedikit_lawan', 'senang_imbang', 'senang_senang', 'streakkecewa_berat', 'tolong_baik']"
+"['grafik', 'bagus', 'banget', 'ngasi', 'curang', 'keye']","['bagus_banget', 'banget_ngasi', 'curang_keye', 'grafik_bagus', 'ngasi_curang']"
+"['asu', 'celeng', 'lol']","['asu_celeng', 'celeng_lol']"
+"['sampah', 'naik', 'buruk', 'kyk', 'gitu']","['buruk_kyk', 'kyk_gitu', 'naik_buruk', 'sampah_naik']"
+"['hapus', 'play', 'store', 'beberapa', 'selalu', 'baik']","['beberapa_selalu', 'hapus_play', 'play_store', 'selalu_baik', 'store_beberapa']"
+"['banyak', 'satu', 'banyak', 'ngadu', 'admin', 'parah', 'banyak', 'atur']","['admin_parah', 'banyak_atur', 'banyak_ngadu', 'banyak_satu', 'ngadu_admin', 'parah_banyak', 'satu_banyak']"
+"['tolol', 'banyak', 'benar', 'gelap', 'tolol']","['banyak_benar', 'benar_gelap', 'gelap_tolol', 'tolol_banyak']"
+"['scam', 'recommended', 'selalu', 'gabisa', 'nyeleneh', 'musuh', 'jago', 'padan', 'daya', 'punya', 'party', 'gimana', 'ngembangin', 'skill', 'rata', 'gabisa']","['daya_punya', 'gabisa_nyeleneh', 'gimana_ngembangin', 'jago_padan', 'musuh_jago', 'ngembangin_skill', 'nyeleneh_musuh', 'padan_daya', 'party_gimana', 'punya_party', 'rata_gabisa', 'recommended_selalu', 'scam_recommended', 'selalu_gabisa', 'skill_rata']"
+"['selalu', 'lag', 'walau', 'baik']","['lag_walau', 'selalu_lag', 'walau_baik']"
+"['tolong', 'baik', 'sudah', 'terlalu', 'lag']","['baik_sudah', 'sudah_terlalu', 'terlalu_lag', 'tolong_baik']"
+['taek'],[]
+['mantap'],[]
+"['selesai', 'draft', 'selalu', 'patah', 'patah', 'sempat', 'ganti', 'build', 'build', 'rekomendasi', 'belum', 'update', 'lancar', 'lancar', 'sekarang', 'kenapa', 'menggangu', 'errorlag', 'selesai', 'draft', 'sinyal', 'bagus', 'bintang', 'satu', 'update', 'sekarang', 'sudah', 'fiks', 'baru', 'bintang']","['bagus_bintang', 'baru_bintang', 'belum_update', 'bintang_satu', 'build_build', 'build_rekomendasi', 'draft_selalu', 'draft_sinyal', 'errorlag_selesai', 'fiks_baru', 'ganti_build', 'kenapa_menggangu', 'lancar_lancar', 'lancar_sekarang', 'menggangu_errorlag', 'patah_patah', 'patah_sempat', 'rekomendasi_belum', 'satu_update', 'sekarang_kenapa', 'sekarang_sudah', 'selalu_patah', 'selesai_draft', 'sempat_ganti', 'sinyal_bagus', 'sudah_fiks', 'update_lancar', 'update_sekarang']"
+"['tolol', 'ge', 'updet', 'mas', 'salah', 'lag', 'hijau', 'sinyal', 'ko', 'lag', 'rusak', 'jangan', 'diem', 'tangung', 'jawab']","['diem_tangung', 'ge_updet', 'hijau_sinyal', 'jangan_diem', 'ko_lag', 'lag_hijau', 'lag_rusak', 'mas_salah', 'rusak_jangan', 'salah_lag', 'sinyal_ko', 'tangung_jawab', 'tolol_ge', 'updet_mas']"
+['cool'],[]
+['best'],[]
+['kontol'],[]
+"['rusak', 'lag', 'ping', 'jumping', 'kaga', 'jelas']","['jumping_kaga', 'kaga_jelas', 'lag_ping', 'ping_jumping', 'rusak_lag']"
+"['bro', 'puas', 'permainin', 'menang', 'kala', 'ajing', 'musu', 'lol', 'jan', 'mityik', 'gaem', 'lol']","['ajing_musu', 'bro_puas', 'gaem_lol', 'jan_mityik', 'kala_ajing', 'lol_jan', 'menang_kala', 'mityik_gaem', 'musu_lol', 'permainin_menang', 'puas_permainin']"
+"['lag', 'lobby', 'aman', 'nyaman']","['aman_nyaman', 'lag_lobby', 'lobby_aman']"
+"['woy', 'sinyal', 'lag', 'make', 'wifi', 'lohh', 'make', 'bagus', 'lag', 'banget', 'lag', 'sampai', 'gerak']","['bagus_lag', 'banget_lag', 'lag_banget', 'lag_make', 'lag_sampai', 'lohh_make', 'make_bagus', 'make_wifi', 'sampai_gerak', 'sinyal_lag', 'wifi_lohh', 'woy_sinyal']"
+"['minimal', 'tolong', 'pernah', 'menang', 'sujud', 'kantor', 'jilat', 'kaki', 'karyawanmu', 'biar', 'ws', 'tolong', 'minimal', 'frustasi', 'pernah', 'ws', 'kawan', 'pindah', 'ff', 'gara', 'gara', 'ls', 'ah', 'percuma', 'ngomong', 'notice']","['ah_percuma', 'biar_ws', 'ff_gara', 'frustasi_pernah', 'gara_gara', 'gara_ls', 'jilat_kaki', 'kaki_karyawanmu', 'kantor_jilat', 'karyawanmu_biar', 'kawan_pindah', 'ls_ah', 'menang_sujud', 'minimal_frustasi', 'minimal_tolong', 'ngomong_notice', 'percuma_ngomong', 'pernah_menang', 'pernah_ws', 'pindah_ff', 'sujud_kantor', 'tolong_minimal', 'tolong_pernah', 'ws_kawan', 'ws_tolong']"
+['yeah'],[]
+"['kacau', 'stabil']",['kacau_stabil']
+"['update', 'patch', 'nalah', 'tambah', 'busuk', 'super', 'busuk', 'drafting', 'lag', 'aman', 'notif', 'putus', 'sampai', 'masuk', 'menit', 'update', 'patch', 'bukan', 'makin', 'baik', 'makin', 'busuk']","['aman_notif', 'baik_makin', 'bukan_makin', 'busuk_drafting', 'busuk_super', 'drafting_lag', 'lag_aman', 'makin_baik', 'makin_busuk', 'masuk_menit', 'menit_update', 'nalah_tambah', 'notif_putus', 'patch_bukan', 'patch_nalah', 'putus_sampai', 'sampai_masuk', 'super_busuk', 'tambah_busuk', 'update_patch']"
+"['gelap', 'semua', 'anjng']","['gelap_semua', 'semua_anjng']"
+"['pilih', 'lawan', 'terlalu', 'adil', 'selalu', 'ngerti', 'balik', 'lawan', 'semua', 'terlalu', 'adil', 'bab']","['adil_bab', 'adil_selalu', 'balik_lawan', 'lawan_semua', 'lawan_terlalu', 'ngerti_balik', 'pilih_lawan', 'selalu_ngerti', 'semua_terlalu', 'terlalu_adil']"
+"['penarngetan', 'bebas', 'tetap', 'kunci', 'musuh', 'hapus']","['bebas_tetap', 'kunci_musuh', 'musuh_hapus', 'penarngetan_bebas', 'tetap_kunci']"
+"['seru', 'suka', 'moga', 'makin', 'bagus']","['makin_bagus', 'moga_makin', 'seru_suka', 'suka_moga']"
+"['bagus', 'cocok', 'milik', 'sifat', 'mudah', 'marah', 'bantu', 'tenang', 'diri', 'hati', 'tolong', 'baik', 'bagi', 'imbang', 'biar', 'senang']","['bagi_imbang', 'bagus_cocok', 'baik_bagi', 'bantu_tenang', 'biar_senang', 'cocok_milik', 'diri_hati', 'hati_tolong', 'imbang_biar', 'marah_bantu', 'milik_sifat', 'mudah_marah', 'sifat_mudah', 'tenang_diri', 'tolong_baik']"
+"['buruk', 'buka', 'ping', 'selalu', 'merah', 'lag', 'parah', 'buka', 'aplikasi', 'lain', 'lancar']","['aplikasi_lain', 'buka_aplikasi', 'buka_ping', 'buruk_buka', 'lag_parah', 'lain_lancar', 'merah_lag', 'parah_buka', 'ping_selalu', 'selalu_merah']"
+"['buruk', 'kalah', 'nurun', 'satu', 'bintang', 'naik', 'bintang', 'satu', 'lindung', 'tai']","['bintang_naik', 'bintang_satu', 'buruk_kalah', 'kalah_nurun', 'lindung_tai', 'naik_bintang', 'nurun_satu', 'satu_bintang', 'satu_lindung']"
+"['kontol', 'bujang', 'anjingg', 'bagus', 'cepek', 'lose', 'ngentot', 'anjiing']","['anjingg_bagus', 'bagus_cepek', 'bujang_anjingg', 'cepek_lose', 'kontol_bujang', 'lose_ngentot', 'ngentot_anjiing']"
+"['kecewa', 'imbang', 'chat', 'dalam', 'anggap', 'kasar', 'semua', 'batas', 'teman', 'imbang', 'anggap', 'salah', 'chat', 'lebih', 'kurang', 'credit', 'score']","['anggap_kasar', 'anggap_salah', 'batas_teman', 'chat_dalam', 'chat_lebih', 'credit_score', 'dalam_anggap', 'imbang_anggap', 'imbang_chat', 'kasar_semua', 'kecewa_imbang', 'kurang_credit', 'lebih_kurang', 'salah_chat', 'semua_batas', 'teman_imbang']"
+"['mith', 'please']",['mith_please']
+"['jelek', 'ashu', 'pagi', 'sampai', 'sore', 'buka', 'bintang', 'naik', 'lose', 'gajelas', 'mas', 'monnton', 'kasi', 'imbang', 'ashu', 'buka', 'daak', 'kasi', 'sedang', 'musuh', 'kairi', 'ashu', 'uninstall', 'kwuonthol']","['ashu_buka', 'ashu_pagi', 'ashu_uninstall', 'bintang_naik', 'buka_bintang', 'buka_daak', 'daak_kasi', 'gajelas_mas', 'imbang_ashu', 'jelek_ashu', 'kairi_ashu', 'kasi_imbang', 'kasi_sedang', 'lose_gajelas', 'mas_monnton', 'monnton_kasi', 'musuh_kairi', 'naik_lose', 'pagi_sampai', 'sampai_sore', 'sedang_musuh', 'sore_buka', 'uninstall_kwuonthol']"
+"['masa', 'ganti', 'pp', 'keluar', 'lobby', 'sendiri', 'sinyalperangkat', 'tdk', 'kendala', 'kocak', 'bintang', 'no', 'recommend']","['bintang_no', 'ganti_pp', 'keluar_lobby', 'kendala_kocak', 'kocak_bintang', 'lobby_sendiri', 'masa_ganti', 'no_recommend', 'pp_keluar', 'sendiri_sinyalperangkat', 'sinyalperangkat_tdk', 'tdk_kendala']"
+"['kasi', 'benar', 'masa', 'ketemu', 'tolol', 'sudah', 'season', 'ketemu', 'tolol', 'sumpah']","['benar_masa', 'kasi_benar', 'ketemu_tolol', 'masa_ketemu', 'season_ketemu', 'sudah_season', 'tolol_sudah', 'tolol_sumpah']"
+"['parah', 'lag', 'stabil', 'emosi']","['lag_stabil', 'parah_lag', 'stabil_emosi']"
+"['bagus', 'selalu', 'lag', 'patah', 'patah', 'rusak', 'rusak', 'rusakk', 'mending', 'uninstal', 'pindah']","['bagus_selalu', 'lag_patah', 'mending_uninstal', 'patah_patah', 'patah_rusak', 'rusak_rusak', 'rusak_rusakk', 'rusakk_mending', 'selalu_lag', 'uninstal_pindah']"
+"['rusak', 'lag', 'banget', 'sial']","['banget_sial', 'lag_banget', 'rusak_lag']"
+"['pasti', 'sinyal', 'langsung', 'merah', 'tolong', 'd', 'baik', 'tolong', 'baik', 'parah']","['baik_parah', 'baik_tolong', 'langsung_merah', 'merah_tolong', 'pasti_sinyal', 'sinyal_langsung', 'tolong_baik']"
+"['adill', 'cok', 'mitikk', 'musuh', 'glory', 'rata', 'sedang', 'campur', 'biadab']","['adill_cok', 'campur_biadab', 'cok_mitikk', 'glory_rata', 'mitikk_musuh', 'musuh_glory', 'rata_sedang', 'sedang_campur']"
+"['update', 'makin', 'tolol', 'bapuk']","['makin_tolol', 'tolol_bapuk', 'update_makin']"
+"['banyak', 'gelap', 'malasin']","['banyak_gelap', 'gelap_malasin']"
+"['sinyal', 'bagus', 'ping', 'merah', 'tolong', 'baik']","['bagus_ping', 'merah_tolong', 'ping_merah', 'sinyal_bagus', 'tolong_baik']"
+['adil'],[]
+"['makin', 'makin', 'lag', 'parah', 'pdhl', 'bagus']","['lag_parah', 'makin_lag', 'makin_makin', 'parah_pdhl', 'pdhl_bagus']"
+"['kuota', 'banyak', 'wifi', 'jga', 'oke', 'stak', 'afk', 'kesel', 'banget', 'dlu', 'bgtu', 'mls']","['afk_kesel', 'banget_dlu', 'banyak_wifi', 'bgtu_mls', 'dlu_bgtu', 'jga_oke', 'kesel_banget', 'kuota_banyak', 'oke_stak', 'stak_afk', 'wifi_jga']"
+"['keluh', 'kagak', 'benar', 'adil', 'baik', 'jelek', 'banget', 'sumpah', 'dengerin', 'keluh', 'mu', 'baik', 'tolong', 'banget']","['adil_baik', 'baik_jelek', 'baik_tolong', 'banget_sumpah', 'benar_adil', 'dengerin_keluh', 'jelek_banget', 'kagak_benar', 'keluh_kagak', 'keluh_mu', 'mu_baik', 'sumpah_dengerin', 'tolong_banget']"
+"['ping', 'selalu', 'buruk', 'aneh', 'banget']","['aneh_banget', 'buruk_aneh', 'ping_selalu', 'selalu_buruk']"
+['buruk'],[]
+"['montong', 'kurang', 'ngiclik', 'licik', 'lag']","['kurang_ngiclik', 'licik_lag', 'montong_kurang', 'ngiclik_licik']"
+"['sinyal', 'bagus', 'henti', 'suka', 'henti', 'tolong', 'baik', 'bug', 'muntun']","['bagus_henti', 'baik_bug', 'bug_muntun', 'henti_suka', 'henti_tolong', 'sinyal_bagus', 'suka_henti', 'tolong_baik']"
+['taik'],[]
+"['aneh', 'temuin', 'party', 'makin', 'lama', 'makin', 'aneh']","['aneh_temuin', 'lama_makin', 'makin_aneh', 'makin_lama', 'party_makin', 'temuin_party']"
+"['buruk', 'kenapa', 'update', 'ping', 'stabil', 'benar', 'gara', 'gara', 'ping', 'stabil', 'rusak', 'lahh', 'tai']","['benar_gara', 'buruk_kenapa', 'gara_gara', 'gara_ping', 'kenapa_update', 'lahh_tai', 'ping_stabil', 'rusak_lahh', 'stabil_benar', 'stabil_rusak', 'update_ping']"
+"['perbaikin', 'freze', 'sinyal', 'aman', 'ko', 'freze', 'berkalikali', 'ganggu', 'alam']","['aman_ko', 'berkalikali_ganggu', 'freze_berkalikali', 'freze_sinyal', 'ganggu_alam', 'ko_freze', 'perbaikin_freze', 'sinyal_aman']"
+"['asu', 'teman', 'naik', 'naik', 'teman', 'bot', 'adil']","['asu_teman', 'bot_adil', 'naik_naik', 'naik_teman', 'teman_bot', 'teman_naik']"
+"['taii', 'lain', 'tuju', 'senangsenang', 'gilastres', 'gila', 'isi', 'gelap', 'semua', 'bintang', 'lima', 'deteksi', 'tolong']","['bintang_lima', 'deteksi_tolong', 'gelap_semua', 'gila_isi', 'gilastres_gila', 'isi_gelap', 'lain_tuju', 'lima_deteksi', 'semua_bintang', 'senangsenang_gilastres', 'taii_lain', 'tuju_senangsenang']"
+"['banyak', 'layer', 'buruk', 'beri', 'derak', 'malas', 'hati', 'hancur', 'anak', 'yatim', 'para', 'bilang', 'bapak', 'sono', 'bapak']","['anak_yatim', 'banyak_layer', 'bapak_sono', 'beri_derak', 'bilang_bapak', 'buruk_beri', 'derak_malas', 'hancur_anak', 'hati_hancur', 'layer_buruk', 'malas_hati', 'para_bilang', 'sono_bapak', 'yatim_para']"
+"['bosan', 'lag', 'lag', 'lag', 'dn', 'lag', 'sinyak', 'stbil', 'wifi', 'parah', 'total', 'mending', 'ganti', 'pindah']","['bosan_lag', 'dn_lag', 'ganti_pindah', 'lag_dn', 'lag_lag', 'lag_sinyak', 'mending_ganti', 'parah_total', 'sinyak_stbil', 'stbil_wifi', 'total_mending', 'wifi_parah']"
+"['kompak', 'jng', 'pilihin', 'busuk', 'kurang', 'sekolah', 'masa', 'sinyal', 'merah', 'anggap', 'afk', 'gimana']","['afk_gimana', 'anggap_afk', 'busuk_kurang', 'jng_pilihin', 'kompak_jng', 'kurang_sekolah', 'masa_sinyal', 'merah_anggap', 'pilihin_busuk', 'sekolah_masa', 'sinyal_merah']"
+"['percumah', 'menang', 'menang', 'kalah', 'ting', 'satu', 'bot']","['kalah_ting', 'menang_kalah', 'menang_menang', 'percumah_menang', 'satu_bot', 'ting_satu']"
+"['kenapa', 'sudah', 'makin', 'lama', 'makin', 'jelek', 'lag', 'lag', 'jelas', 'dalam', 'tanding', 'patah', 'patah', 'tibatiba', 'afk', 'patah', 'patah', 'mending', 'brawl', 'clasic', 'patah', 'patah', 'aplikasi', 'makin', 'lama', 'makin', 'berat', 'makin', 'patah', 'patah', 'tolong', 'baik', 'sedikit', 'ringan', 'jangan', 'terlalu', 'berat', 'kasi', 'pengunaan', 'ram', 'kecil', 'tanggap', 'ubah', 'mending', 'pindah']","['afk_patah', 'aplikasi_makin', 'baik_sedikit', 'berat_kasi', 'berat_makin', 'brawl_clasic', 'clasic_patah', 'dalam_tanding', 'jangan_terlalu', 'jelas_dalam', 'jelek_lag', 'kasi_pengunaan', 'kecil_tanggap', 'kenapa_sudah', 'lag_jelas', 'lag_lag', 'lama_makin', 'makin_berat', 'makin_jelek', 'makin_lama', 'makin_patah', 'mending_brawl', 'mending_pindah', 'patah_aplikasi', 'patah_mending', 'patah_patah', 'patah_tibatiba', 'patah_tolong', 'pengunaan_ram', 'ram_kecil', 'ringan_jangan', 'sedikit_ringan', 'sudah_makin', 'tanding_patah', 'tanggap_ubah', 'terlalu_berat', 'tibatiba_afk', 'tolong_baik', 'ubah_mending']"
+"['buruk', 'binatang', 'baik', 'bug', 'sinyal', 'mu']","['baik_bug', 'binatang_baik', 'bug_sinyal', 'buruk_binatang', 'sinyal_mu']"
+"['halo', 'mas', 'muntun', 'tolong', 'jago', 'cape', 'gendong', 'pasti', 'menang', 'kalah', 'menang', 'kalah', 'percaya', 'akun', 'sutsujinkw', 'pindah', 'terimakasih']","['akun_sutsujinkw', 'cape_gendong', 'gendong_pasti', 'halo_mas', 'jago_cape', 'kalah_menang', 'kalah_percaya', 'mas_muntun', 'menang_kalah', 'muntun_tolong', 'pasti_menang', 'percaya_akun', 'pindah_terimakasih', 'sutsujinkw_pindah', 'tolong_jago']"
+"['lag', 'banyak', 'emperor']","['banyak_emperor', 'lag_banyak']"
+"['mohon', 'baik', 'eror', 'bnyk', 'gelap']","['baik_eror', 'bnyk_gelap', 'eror_bnyk', 'mohon_baik']"
+"['ban', 'akun', 'lama', 'dri', 'defeet', 'mllu']","['akun_lama', 'ban_akun', 'defeet_mllu', 'dri_defeet', 'lama_dri']"
+"['lag', 'server', 'bug', 'ui', 'lag', 'server', 'speed', 'on', 'lag', 'gerak', 'speed', 'off', 'lag', 'gerak', 'bug', 'ui', 'bug', 'tanding', 'draft', 'pasuk', 'tanding']","['bug_tanding', 'bug_ui', 'draft_pasuk', 'gerak_bug', 'gerak_speed', 'lag_gerak', 'lag_server', 'off_lag', 'on_lag', 'pasuk_tanding', 'server_bug', 'server_speed', 'speed_off', 'speed_on', 'tanding_draft', 'ui_bug', 'ui_lag']"
+"['ap', 'anjing']",['ap_anjing']
+"['maaf', 'hapus', 'males', 'beban', 'teman', 'lama', 'pensi', 'terimakasih', 'banyak', 'nemenin', 'mungkin', 'nanti', 'kapankapan']","['banyak_nemenin', 'beban_teman', 'hapus_males', 'lama_pensi', 'maaf_hapus', 'males_beban', 'mungkin_nanti', 'nanti_kapankapan', 'nemenin_mungkin', 'pensi_terimakasih', 'teman_lama', 'terimakasih_banyak']"
+"['banyak', 'gelap']",['banyak_gelap']
+"['orng', 'baru', 'pertama', 'mending', 'usah', 'happy', 'tenang', 'gan', 'stres', 'pusing']","['baru_pertama', 'gan_stres', 'happy_tenang', 'mending_usah', 'orng_baru', 'pertama_mending', 'stres_pusing', 'tenang_gan', 'usah_happy']"
+"['ketemu', 'gelap', 'mana', 'mana', 'jelas']","['gelap_mana', 'ketemu_gelap', 'mana_jelas', 'mana_mana']"
+"['tolol', 'kalah']",['tolol_kalah']
+"['rusak', 'lol']",['rusak_lol']
+"['stres', 'isi', 'gelap', 'swmua']","['gelap_swmua', 'isi_gelap', 'stres_isi']"
+"['makin', 'update', 'makin', 'lag', 'jelas', 'loogin', 'sampai', 'gerak', 'lancar', 'tetap', 'ngaruh', 'sekian', 'terimakasih', 'gaji']","['gerak_lancar', 'jelas_loogin', 'lag_jelas', 'lancar_tetap', 'loogin_sampai', 'makin_lag', 'makin_update', 'ngaruh_sekian', 'sampai_gerak', 'sekian_terimakasih', 'terimakasih_gaji', 'tetap_ngaruh', 'update_makin']"
+"['adil', 'dalam', 'pilih', 'bot', 'semua', 'sedang', 'musuh', 'jago', 'jago']","['adil_dalam', 'bot_semua', 'dalam_pilih', 'jago_jago', 'musuh_jago', 'pilih_bot', 'sedang_musuh', 'semua_sedang']"
+"['adill', 'dalam', 'bagi', 'banyak', 'gelap', 'musuh', 'gg', 'bot']","['adill_dalam', 'bagi_banyak', 'banyak_gelap', 'dalam_bagi', 'gelap_musuh', 'gg_bot', 'musuh_gg']"
+"['sinyal', 'hilang', 'mati', 'sinyal', 'pull', 'tolong', 'baik', 'sudah', 'baik', 'bintang', 'naikin', 'bintang', 'lima']","['baik_bintang', 'baik_sudah', 'bintang_lima', 'bintang_naikin', 'hilang_mati', 'mati_sinyal', 'naikin_bintang', 'pull_tolong', 'sinyal_hilang', 'sinyal_pull', 'sudah_baik', 'tolong_baik']"
+"['percuma', 'update', 'cape', 'sumpah', 'bot', 'musuh', 'sakit', 'banya', 'buuf', 'buka', 'update', 'makin', 'bagus', 'mah', 'makin', 'parah', 'dasar', 'gaje', 'lol']","['bagus_mah', 'banya_buuf', 'bot_musuh', 'buka_update', 'buuf_buka', 'cape_sumpah', 'dasar_gaje', 'gaje_lol', 'mah_makin', 'makin_bagus', 'makin_parah', 'musuh_sakit', 'parah_dasar', 'percuma_update', 'sakit_banya', 'sumpah_bot', 'update_cape', 'update_makin']"
+"['grafik', 'bagus', 'tetapi', 'jangan', 'mainin', 'samsung', 'oppo']","['bagus_tetapi', 'grafik_bagus', 'jangan_mainin', 'mainin_samsung', 'samsung_oppo', 'tetapi_jangan']"
+"['sial', 'ajg', 'kasi', 'teman', 'draksistem']","['ajg_kasi', 'kasi_teman', 'sial_ajg', 'teman_draksistem']"
+"['beres', 'lek', 'sinyal', 'pin', 'bagus', 'gerak', 'jelek', 'buruk']","['bagus_gerak', 'beres_lek', 'gerak_jelek', 'jelek_buruk', 'lek_sinyal', 'pin_bagus', 'sinyal_pin']"
+"['banyak', 'gelap', 'minimal', 'banget', 'mvp', 'turun', 'bintang', 'lebih', 'baik', 'kalah', 'mvp', 'bintang', 'bayangin', 'gendong', 'gendong', 'ujung', 'ujung', 'kalah', 'aneh', 'gendong', 'rugi', 'bahkan', 'ngerti']","['aneh_gendong', 'bahkan_ngerti', 'baik_kalah', 'banget_mvp', 'banyak_gelap', 'bayangin_gendong', 'bintang_bayangin', 'bintang_lebih', 'gelap_minimal', 'gendong_gendong', 'gendong_rugi', 'gendong_ujung', 'kalah_aneh', 'kalah_mvp', 'lebih_baik', 'minimal_banget', 'mvp_bintang', 'mvp_turun', 'rugi_bahkan', 'turun_bintang', 'ujung_kalah', 'ujung_ujung']"
+"['nek', 'ngekeii', 'genah', 'tel', 'gatel']","['genah_tel', 'nek_ngekeii', 'ngekeii_genah', 'tel_gatel']"
+"['tolong', 'koneksi', 'diperbaikigua', 'kalah', 'gara', 'koneksi', 'stabil']","['diperbaikigua_kalah', 'gara_koneksi', 'kalah_gara', 'koneksi_diperbaikigua', 'koneksi_stabil', 'tolong_koneksi']"
+"['elek', 'masa', 'sinyal', 'ijo', 'lag', 'niat', 'bintang', 'lawak', 'sinyal', 'perhati', 'su']","['bintang_lawak', 'elek_masa', 'ijo_lag', 'lag_niat', 'lawak_sinyal', 'masa_sinyal', 'niat_bintang', 'perhati_su', 'sinyal_ijo', 'sinyal_perhati']"
+"['hama', 'draft', 'bug', 'hama', 'jelas', 'hama']","['bug_hama', 'draft_bug', 'hama_draft', 'hama_jelas', 'jelas_hama']"
+"['lag', 'ping', 'jumping', 'sinyal', 'bagus']","['jumping_sinyal', 'lag_ping', 'ping_jumping', 'sinyal_bagus']"
+"['tolong', 'masa', 'lag', 'trs', 'tadi']","['lag_trs', 'masa_lag', 'tolong_masa', 'trs_tadi']"
+"['bug', 'sinyal', 'bner']","['bug_sinyal', 'sinyal_bner']"
+"['tolong', 'sinyal', 'rusak', 'iya', 'loby', 'sinyal', 'hijau', 'trs', 'dalam', 'sinyal', 'merah', 'kuning', 'beri', 'bintang', 'lima', 'bukan', 'rekomendasitapi', 'biar', 'komenan', 'lihat', 'tindak', 'lanjut', 'meryport', 'jelasjelas', 'mangganggu', 'kog', 'kena', 'pelanggaranini', 'adi', 'banget', 'sinyal', 'lag', 'buka', 'pemberitahuan', 'sinyal', 'setabil', 'kog', 'malh', 'afk', 'gimana', 'maksud', 'minimal', 'adil']","['adi_banget', 'afk_gimana', 'banget_sinyal', 'beri_bintang', 'biar_komenan', 'bintang_lima', 'buka_pemberitahuan', 'bukan_rekomendasitapi', 'dalam_sinyal', 'gimana_maksud', 'hijau_trs', 'iya_loby', 'jelasjelas_mangganggu', 'kena_pelanggaranini', 'kog_kena', 'kog_malh', 'komenan_lihat', 'kuning_beri', 'lag_buka', 'lanjut_meryport', 'lihat_tindak', 'lima_bukan', 'loby_sinyal', 'maksud_minimal', 'malh_afk', 'mangganggu_kog', 'merah_kuning', 'meryport_jelasjelas', 'minimal_adil', 'pelanggaranini_adi', 'pemberitahuan_sinyal', 'rekomendasitapi_biar', 'rusak_iya', 'setabil_kog', 'sinyal_hijau', 'sinyal_lag', 'sinyal_merah', 'sinyal_rusak', 'sinyal_setabil', 'tindak_lanjut', 'tolong_sinyal', 'trs_dalam']"
+"['he', 'kena', 'afk', 'gara', 'sinyal', 'd', 'berhentiin', 'paket', 'unlimited', 'edition', 'tolong', 'd', 'baik', 'bagus', 'kog']","['afk_gara', 'bagus_kog', 'baik_bagus', 'berhentiin_paket', 'edition_tolong', 'gara_sinyal', 'he_kena', 'kena_afk', 'paket_unlimited', 'sinyal_berhentiin', 'tolong_baik', 'unlimited_edition']"
+"['sinyal', 'jelek']",['sinyal_jelek']
+"['ngasi', 'benar', 'dr', 'kemarin', 'sesoen', 'sampai', 'sekarang', 'jls', 'sudah', 'mabar', 'epic', 'klau', 'org', 'komen', 'tanggap', 'tondasar', 'jls']","['benar_dr', 'dr_kemarin', 'epic_klau', 'jls_sudah', 'kemarin_sesoen', 'klau_org', 'komen_tanggap', 'mabar_epic', 'ngasi_benar', 'org_komen', 'sampai_sekarang', 'sekarang_jls', 'sesoen_sampai', 'sudah_mabar', 'tanggap_tondasar', 'tondasar_jls']"
+"['iqoo', 'neo', 'chipset', 'snapdragon', 'gen', 'masa', 'iya', 'panas', 'sedikit', 'langsung', 'redup', 'cerah', 'redup', 'sudah', 'beberapa', 'report', 'tetapi', 'solusi']","['beberapa_report', 'cerah_redup', 'chipset_snapdragon', 'gen_masa', 'iqoo_neo', 'iya_panas', 'langsung_redup', 'masa_iya', 'neo_chipset', 'panas_sedikit', 'redup_cerah', 'redup_sudah', 'report_tetapi', 'sedikit_langsung', 'snapdragon_gen', 'sudah_beberapa', 'tetapi_solusi']"
+"['gim', 'seru']",['gim_seru']
+"['bagus', 'patah', 'jelas']","['bagus_patah', 'patah_jelas']"
+"['ngasi', 'musuh', 'pandang', 'capek', 'jir', 'push', 'naik', 'turun', 'naik', 'turun', 'kapan', 'imonya', 'kompak', 'musuh', 'turun', 'imo', 'semua', 'epik', 'kelar', 'kelar', 'capek', 'jirr']","['capek_jir', 'capek_jirr', 'epik_kelar', 'imo_semua', 'imonya_kompak', 'jir_push', 'kapan_imonya', 'kelar_capek', 'kelar_kelar', 'kompak_musuh', 'musuh_pandang', 'musuh_turun', 'naik_turun', 'ngasi_musuh', 'pandang_capek', 'push_naik', 'semua_epik', 'turun_imo', 'turun_kapan', 'turun_naik']"
+"['bug', 'mu', 'rusak', 'jing']","['bug_mu', 'mu_rusak', 'rusak_jing']"
+"['buruk', 'dunia']",['buruk_dunia']
+"['selalu', 'buruk', 'hijau', 'buruk']","['buruk_hijau', 'hijau_buruk', 'selalu_buruk']"
+"['sumpah', 'tambah', 'lama', 'tambah', 'benar', 'kasi', 'teman', 'imbang', 'jangan', 'berat']","['benar_kasi', 'imbang_jangan', 'jangan_berat', 'kasi_teman', 'lama_tambah', 'sumpah_tambah', 'tambah_benar', 'tambah_lama', 'teman_imbang']"
+"['tolol', 'adil', 'kikir', 'buruk', 'moga', 'hapus', 'playstore']","['adil_kikir', 'buruk_moga', 'hapus_playstore', 'kikir_buruk', 'moga_hapus', 'tolol_adil']"
+"['tolol', 'banyak', 'draksistem']","['banyak_draksistem', 'tolol_banyak']"
+"['walaupun', 'kesal', 'favorit']","['kesal_favorit', 'walaupun_kesal']"
+"['games', 'skrng', 'bantak', 'bocil']","['bantak_bocil', 'games_skrng', 'skrng_bantak']"
+"['minimal', 'starlight', 'member', 'bug', 'ngestak', 'lv', 'dri', 'lalu', 'tolong', 'rusak', 'minimal', 'gaji', 'minggu']","['bug_ngestak', 'dri_lalu', 'gaji_minggu', 'lalu_tolong', 'lv_dri', 'member_bug', 'minimal_gaji', 'minimal_starlight', 'ngestak_lv', 'rusak_minimal', 'starlight_member', 'tolong_rusak']"
+"['musuh', 'imbang']",['musuh_imbang']
+"['lag', 'suka', 'maju', 'maju', 'sendiri', 'enk']","['lag_suka', 'maju_maju', 'maju_sendiri', 'sendiri_enk', 'suka_maju']"
+['cocok'],[]
+"['baru', 'tulis', 'ulas', 'lama', 'berapa', 'report', 'after', 'kirain', 'sendiri', 'rasain', 'inbalance', 'nyata', 'banyak', 'kasus', 'tinggal', 'setia']","['after_kirain', 'banyak_kasus', 'baru_tulis', 'berapa_report', 'inbalance_nyata', 'kasus_tinggal', 'kirain_sendiri', 'lama_berapa', 'nyata_banyak', 'rasain_inbalance', 'report_after', 'sendiri_rasain', 'tinggal_setia', 'tulis_ulas', 'ulas_lama']"
+"['buruk', 'asli', 'bagus']","['asli_bagus', 'buruk_asli']"
+"['mohon', 'atas', 'imbang', 'draft', 'pilih', 'role']","['atas_imbang', 'draft_pilih', 'imbang_draft', 'mohon_atas', 'pilih_role']"
+"['knapa', 'bngt', 'lag', 'sendiri', 'bukan', 'cuma', 'sya', 'kena', 'kena', 'pdahal', 'sinyal', 'lancar', 'pubg', 'pernah', 'kya']","['bngt_lag', 'bukan_cuma', 'cuma_sya', 'kena_kena', 'kena_pdahal', 'knapa_bngt', 'lag_sendiri', 'lancar_pubg', 'pdahal_sinyal', 'pernah_kya', 'pubg_pernah', 'sendiri_bukan', 'sinyal_lancar', 'sya_kena']"
+"['senang', 'stres', 'lumayan', 'kecuali', 'gelap']","['kecuali_gelap', 'lumayan_kecuali', 'senang_stres', 'stres_lumayan']"
+"['bosen', 'kalah', 'mending', 'ajar']","['bosen_kalah', 'kalah_mending', 'mending_ajar']"
+"['kontl', 'su', 'isi', 'gelap', 'jan', 'donlod', 'ges', 'gl']","['donlod_ges', 'gelap_jan', 'ges_gl', 'isi_gelap', 'jan_donlod', 'kontl_su', 'su_isi']"
+"['sinyal', 'hilang', 'habis', 'tu', 'draf', 'lag', 'banget', 'mending', 'fix', 'ngurusin', 'update', 'rusak']","['banget_mending', 'draf_lag', 'fix_ngurusin', 'habis_tu', 'hilang_habis', 'lag_banget', 'mending_fix', 'ngurusin_update', 'sinyal_hilang', 'tu_draf', 'update_rusak']"
+"['baik', 'bug', 'bukan', 'skin', 'keluar', 'wifi', 'rumah', 'oke', 'bug', 'bosen', 'jika', 'bug']","['baik_bug', 'bosen_jika', 'bug_bosen', 'bug_bukan', 'bukan_skin', 'jika_bug', 'keluar_wifi', 'oke_bug', 'rumah_oke', 'skin_keluar', 'wifi_rumah']"
+"['kenapa', 'baik', 'lag', 'banget', 'tolong', 'rusak', 'susah', 'mood']","['baik_lag', 'banget_tolong', 'kenapa_baik', 'lag_banget', 'rusak_susah', 'susah_mood', 'tolong_rusak']"
+"['lag', 'parah', 'bagus', 'becus', 'cepet', 'rusak', 'pindah', 'rasain']","['bagus_becus', 'becus_cepet', 'cepet_rusak', 'lag_parah', 'parah_bagus', 'pindah_rasain', 'rusak_pindah']"
+['rusak'],[]
+"['tolong', 'ubah', 'selalu', 'lain', 'alam', 'format', 'biasa', 'dua', 'imbang', 'beberapa', 'duo', 'trio', 'beda', 'beda', 'saling', 'kenal', 'baru', 'kenal', 'bahkan', 'kenal', 'satu', 'lainbiasanya', 'duotrio', 'suatu', 'dominasi', 'tetapi', 'duotrio', 'satu', 'kompak', 'akibat', 'ketidakseimbangan', 'rusak', 'alam']","['akibat_ketidakseimbangan', 'alam_format', 'bahkan_kenal', 'baru_kenal', 'beberapa_duo', 'beda_beda', 'beda_saling', 'biasa_dua', 'dominasi_tetapi', 'dua_imbang', 'duo_trio', 'duotrio_satu', 'duotrio_suatu', 'format_biasa', 'imbang_beberapa', 'kenal_bahkan', 'kenal_baru', 'kenal_satu', 'ketidakseimbangan_rusak', 'kompak_akibat', 'lain_alam', 'lainbiasanya_duotrio', 'rusak_alam', 'saling_kenal', 'satu_kompak', 'satu_lainbiasanya', 'selalu_lain', 'suatu_dominasi', 'tetapi_duotrio', 'tolong_ubah', 'trio_beda', 'ubah_selalu']"
+"['ketemu', 'gelap', 'sudah', 'gendong', 'capek', 'juang', 'gabisa', 'bahkan', 'musuh', 'jago', 'banget', 'mohon', 'baik']","['bahkan_musuh', 'banget_mohon', 'capek_juang', 'gabisa_bahkan', 'gelap_sudah', 'gendong_capek', 'jago_banget', 'juang_gabisa', 'ketemu_gelap', 'mohon_baik', 'musuh_jago', 'sudah_gendong']"
+"['woy', 'server', 'masalah', 'rusak', 'masa', 'sinyal', 'full', 'langsung', 'ping', 'down', 'aneh', 'banget', 'lama', 'lama']","['aneh_banget', 'banget_lama', 'down_aneh', 'full_langsung', 'lama_lama', 'langsung_ping', 'masa_sinyal', 'masalah_rusak', 'ping_down', 'rusak_masa', 'server_masalah', 'sinyal_full', 'woy_server']"
+"['los', 'hapus']",['los_hapus']
+['buruk'],[]
+['kntl'],[]
+"['rusak', 'kg', 'tenang', 'lag', 'banget', 'lancar', 'lag', 'parah', 'gimana']","['banget_lancar', 'kg_tenang', 'lag_banget', 'lag_parah', 'lancar_lag', 'parah_gimana', 'rusak_kg', 'tenang_lag']"
+"['ganguan', 'maet', 'engga', 'jelas']","['engga_jelas', 'ganguan_maet', 'maet_engga']"
+"['suka', 'legends', 'tolong', 'mooton', 'kurang', 'gelap', 'jago', 'troll', 'musuh', 'jago', 'semua', 'hadeh']","['gelap_jago', 'jago_semua', 'jago_troll', 'kurang_gelap', 'legends_tolong', 'mooton_kurang', 'musuh_jago', 'semua_hadeh', 'suka_legends', 'tolong_mooton', 'troll_musuh']"
+"['buruk', 'banyak', 'bugkebanyakan', 'draksistem']","['banyak_bugkebanyakan', 'bugkebanyakan_draksistem', 'buruk_banyak']"
+"['logika', 'rendah']",['logika_rendah']
+"['baik', 'kadang', 'gemplay', 'lag', 'jaringanya', 'bagus', 'aduh', 'rugi', 'ginj']","['aduh_rugi', 'bagus_aduh', 'baik_kadang', 'gemplay_lag', 'jaringanya_bagus', 'kadang_gemplay', 'lag_jaringanya', 'rugi_ginj']"
+"['he', 'monnton', 'kasihh', 'benar', 'ngapa', 'tadi', 'benar', 'serius', 'ngetroll', 'gimana', 'nyusahin', 'gwe', 'imbang', 'laahh', 'udhh', 'susah', 'susah', 'mlh', 'kena', 'trol', 'publik', 'kentang', 'kapan', 'lite', 'gwe', 'sudah', 'kuat', 'nihh']","['benar_ngapa', 'benar_serius', 'gimana_nyusahin', 'gwe_imbang', 'gwe_sudah', 'he_monnton', 'imbang_laahh', 'kapan_lite', 'kasihh_benar', 'kena_trol', 'kentang_kapan', 'kuat_nihh', 'laahh_udhh', 'lite_gwe', 'mlh_kena', 'monnton_kasihh', 'ngapa_tadi', 'ngetroll_gimana', 'nyusahin_gwe', 'publik_kentang', 'serius_ngetroll', 'sudah_kuat', 'susah_mlh', 'susah_susah', 'tadi_benar', 'trol_publik', 'udhh_susah']"
+"['musuh', 'susah', 'banget']","['musuh_susah', 'susah_banget']"
+"['makin', 'makin', 'jelas', 'ijoo', 'nglag', 'taii']","['ijoo_nglag', 'jelas_ijoo', 'makin_jelas', 'makin_makin', 'nglag_taii']"
+"['makin', 'lama', 'makin', 'cacat', 'servernya', 'masa', 'kecepetan', 'wifi', 'mbs', 'lag', 'sampai', 'laen', 'lancar', 'lancar', 'ajaa', 'banyak', 'makan', 'skin', 'guna']","['ajaa_banyak', 'banyak_makan', 'cacat_servernya', 'kecepetan_wifi', 'laen_lancar', 'lag_sampai', 'lama_makin', 'lancar_ajaa', 'lancar_lancar', 'makan_skin', 'makin_cacat', 'makin_lama', 'masa_kecepetan', 'mbs_lag', 'sampai_laen', 'servernya_masa', 'skin_guna', 'wifi_mbs']"
+"['tres', 'banyak', 'gelap']","['banyak_gelap', 'tres_banyak']"
+"['tolol', 'anj']",['tolol_anj']
+"['sinyal', 'ijo', 'pencet', 'merahapaan', 'sudah', 'ping', 'bagus']","['ijo_pencet', 'merahapaan_sudah', 'pencet_merahapaan', 'ping_bagus', 'sinyal_ijo', 'sudah_ping']"
+"['nambah', 'stres', 'jelas', 'semua', 'sedikit', 'sedikit', 'menang', 'sedikit', 'sedikit', 'kalah', 'gitu', 'sampai', 'semua', 'pindah', 'roblox']","['gitu_sampai', 'jelas_semua', 'kalah_gitu', 'menang_sedikit', 'nambah_stres', 'pindah_roblox', 'sampai_semua', 'sedikit_kalah', 'sedikit_menang', 'sedikit_sedikit', 'semua_pindah', 'semua_sedikit', 'stres_jelas']"
+"['lain', 'winstreak', 'gausah', 'busuk', 'musuh', 'jago', 'napa', 'minimal', 'gitu', 'napa', 'lose', 'streak', 'jing', 'sudah', 'capek', 'hadepin', 'tel']","['busuk_musuh', 'capek_hadepin', 'gausah_busuk', 'gitu_napa', 'hadepin_tel', 'jago_napa', 'jing_sudah', 'lain_winstreak', 'lose_streak', 'minimal_gitu', 'musuh_jago', 'napa_lose', 'napa_minimal', 'streak_jing', 'sudah_capek', 'winstreak_gausah']"
+"['do', 'nt', 'this', 'because', 'it', 'not', 'good', 'for', 'your', 'health']","['because_it', 'do_nt', 'for_your', 'good_for', 'it_not', 'not_good', 'nt_this', 'this_because', 'your_health']"
+"['baik', 'bug', 'kocak', 'aneh', 'banget', 'sosmed', 'yt', 'semua', 'lancar', 'jarngan', 'naik', 'turun', 'aneh', 'banget', 'kocak']","['aneh_banget', 'baik_bug', 'banget_kocak', 'banget_sosmed', 'bug_kocak', 'jarngan_naik', 'kocak_aneh', 'lancar_jarngan', 'naik_turun', 'semua_lancar', 'sosmed_yt', 'turun_aneh', 'yt_semua']"
+"['seru', 'tambah', 'kenang']","['seru_tambah', 'tambah_kenang']"
+"['tolong', 'hapus', 'bag', 'gelek', 'sinyal', 'lancar', 'aplikasi', 'lain', 'lancar', 'buwat', 'lag', 'brawel', 'lag', 'reng', 'lag', 'banget']","['aplikasi_lain', 'bag_gelek', 'brawel_lag', 'buwat_lag', 'gelek_sinyal', 'hapus_bag', 'lag_banget', 'lag_brawel', 'lag_reng', 'lain_lancar', 'lancar_aplikasi', 'lancar_buwat', 'reng_lag', 'sinyal_lancar', 'tolong_hapus']"
+"['lag', 'bangett', 'kl', 'bapuk']","['bangett_kl', 'kl_bapuk', 'lag_bangett']"
+"['bagus', 'tolong', 'sudah', 'beri', 'musuh', 'susah', 'sampah', 'jangan', 'lag', 'bagus', 'ijo', 'paket', 'banyak', 'lag', 'jln', 'tempat', 'tolong', 'keluh', 'tolong', 'banget', 'usah', 'lag', 'lag', 'segala', 'sudah', 'beri', 'mach', 'susah', 'yaudah', 'jangan', 'tambah', 'lag', 'nambah', 'cape', 'lawan', 'musuh', 'gendong', 'lag', 'coba', 'tolong', 'baik']","['bagus_ijo', 'bagus_tolong', 'banget_usah', 'banyak_lag', 'beri_mach', 'beri_musuh', 'cape_lawan', 'coba_tolong', 'gendong_lag', 'ijo_paket', 'jangan_lag', 'jangan_tambah', 'jln_tempat', 'keluh_tolong', 'lag_bagus', 'lag_coba', 'lag_jln', 'lag_lag', 'lag_nambah', 'lag_segala', 'lawan_musuh', 'mach_susah', 'musuh_gendong', 'musuh_susah', 'nambah_cape', 'paket_banyak', 'sampah_jangan', 'segala_sudah', 'sudah_beri', 'susah_sampah', 'susah_yaudah', 'tambah_lag', 'tempat_tolong', 'tolong_baik', 'tolong_banget', 'tolong_keluh', 'tolong_sudah', 'usah_lag', 'yaudah_jangan']"
+"['mungkin', 'iri', 'baru', 'win', 'musuh', 'jago', 'bego', 'ulangin', 'sampai', 'bintang', 'habis', 'smph']","['baru_win', 'bego_ulangin', 'bintang_habis', 'habis_smph', 'iri_baru', 'jago_bego', 'mungkin_iri', 'musuh_jago', 'sampai_bintang', 'ulangin_sampai', 'win_musuh']"
+['monyet'],[]
+"['sudah', 'susah', 'susah', 'kode', 'redem', 'emot', 'sudah', 'lihat', 'kena', 'izin', 'sudah', 'capet']","['emot_sudah', 'izin_sudah', 'kena_izin', 'kode_redem', 'lihat_kena', 'redem_emot', 'sudah_capet', 'sudah_lihat', 'sudah_susah', 'susah_kode', 'susah_susah']"
+"['lawak', 'sekarang', 'becus', 'dalam', 'tangan', 'akun', 'komputer']","['akun_komputer', 'becus_dalam', 'dalam_tangan', 'lawak_sekarang', 'sekarang_becus', 'tangan_akun']"
+"['banyak', 'gelap', 'komtol']","['banyak_gelap', 'gelap_komtol']"
+"['hallo', 'support', 'sedikit', 'keluh', 'habis', 'update', 'patch', 'baru', 'device', 'redmi', 'note', 'pro', 'lag', 'parah', 'last', 'semua', 'sudah', 'heromenyiapkan', 'tanding', 'sangking', 'lag', 'parah', 'costum', 'emblem', 'belum', 'belum', 'update', 'peta', 'patch', 'baru', 'aman', 'rugi', 'dalam', 'tempur', 'terkadang', 'detik', 'sudah', 'jalan', 'baru', 'masuk', 'tanding', 'sudah', 'coba', 'device', 'nyata', 'terimakasih']","['aman_rugi', 'baru_aman', 'baru_device', 'baru_masuk', 'belum_belum', 'belum_update', 'coba_device', 'costum_emblem', 'dalam_tempur', 'detik_sudah', 'device_nyata', 'device_redmi', 'emblem_belum', 'habis_update', 'hallo_support', 'heromenyiapkan_tanding', 'jalan_baru', 'keluh_habis', 'lag_parah', 'last_semua', 'masuk_tanding', 'note_pro', 'nyata_terimakasih', 'parah_costum', 'parah_last', 'patch_baru', 'peta_patch', 'pro_lag', 'redmi_note', 'rugi_dalam', 'sangking_lag', 'sedikit_keluh', 'semua_sudah', 'sudah_coba', 'sudah_heromenyiapkan', 'sudah_jalan', 'support_sedikit', 'tanding_sangking', 'tanding_sudah', 'tempur_terkadang', 'terkadang_detik', 'update_patch', 'update_peta']"
+"['banyak', 'draksistem', 'mumet', 'das']","['banyak_draksistem', 'draksistem_mumet', 'mumet_das']"
+"['sinyal', 'bagus', 'lag']","['bagus_lag', 'sinyal_bagus']"
+['bagus'],[]
+"['parah', 'kasi', 'darksistem', 'makin', 'lama', 'makin', 'males']","['darksistem_makin', 'kasi_darksistem', 'lama_makin', 'makin_lama', 'makin_males', 'parah_kasi']"
+"['kenapa', 'season', 'makin', 'buruk', 'bagus', 'buka', 'apk', 'lain', 'lancar', 'lag', 'banget', 'diem', 'lobby', 'kadang', 'muter', 'muter', 'draft', 'detik', 'akhir', 'selalu', 'lag', 'ping', 'ijo', 'pdhl', 'lag', 'banget', 'tbtb', 'ping', 'merah', 'season', 'belum', 'lancar', 'entah', 'kentang', 'sudah', 'kuat', 'gmn', 'tolong', 'baik', 'jangan', 'sedikit', 'sedikit', 'pikirin', 'cuma', 'revamp', 'revamp']","['akhir_selalu', 'apk_lain', 'bagus_buka', 'baik_jangan', 'banget_diem', 'banget_tbtb', 'belum_lancar', 'buka_apk', 'buruk_bagus', 'cuma_revamp', 'detik_akhir', 'diem_lobby', 'draft_detik', 'entah_kentang', 'gmn_tolong', 'ijo_pdhl', 'jangan_sedikit', 'kadang_muter', 'kenapa_season', 'kentang_sudah', 'kuat_gmn', 'lag_banget', 'lag_ping', 'lain_lancar', 'lancar_entah', 'lancar_lag', 'lobby_kadang', 'makin_buruk', 'merah_season', 'muter_draft', 'muter_muter', 'pdhl_lag', 'pikirin_cuma', 'ping_ijo', 'ping_merah', 'revamp_revamp', 'season_belum', 'season_makin', 'sedikit_pikirin', 'sedikit_sedikit', 'selalu_lag', 'sudah_kuat', 'tbtb_ping', 'tolong_baik']"
+"['suka', 'cocok', 'stabil', 'wifi', 'kemarin', 'jelek', 'kenapa', 'napa', 'lag', 'mls']","['cocok_stabil', 'jelek_kenapa', 'kemarin_jelek', 'kenapa_napa', 'lag_mls', 'napa_lag', 'stabil_wifi', 'suka_cocok', 'wifi_kemarin']"
+"['taik', 'lag', 'lag', 'jelas', 'j', 'ng']","['jelas_ng', 'lag_jelas', 'lag_lag', 'taik_lag']"
+"['banyak', 'gelap', 'sistemm', 'beri', 'winstreak']","['banyak_gelap', 'beri_winstreak', 'gelap_sistemm', 'sistemm_beri']"
+['gajee'],[]
+"['ajg', 'kntl', 'bab', 'kmk', 'mmk', 'geje', 'mending', 'tutup', 'have', 'fun', 'bukan', 'stres', 'sok', 'beri', 'ingat', 'baik', 'kau', 'baru', 'beri', 'ingat', 'dongok']","['ajg_kntl', 'bab_kmk', 'baik_kau', 'baru_beri', 'beri_ingat', 'bukan_stres', 'fun_bukan', 'geje_mending', 'have_fun', 'ingat_baik', 'ingat_dongok', 'kau_baru', 'kmk_mmk', 'kntl_bab', 'mending_tutup', 'mmk_geje', 'sok_beri', 'stres_sok', 'tutup_have']"
+"['karana', 'banyak', 'drk']","['banyak_drk', 'karana_banyak']"
+"['bagus', 'lansia']",['bagus_lansia']
+"['bagus', 'suka', 'kolo', 'mabar', 'buruk', 'suka']","['bagus_suka', 'buruk_suka', 'kolo_mabar', 'mabar_buruk', 'suka_kolo']"
+"['hama', 'gampang', 'bobol', 'banyak', 'cheater', 'server', 'urus', 'masalah', 'pernah', 'benar', 'guna', 'dev']","['banyak_cheater', 'benar_guna', 'bobol_banyak', 'cheater_server', 'gampang_bobol', 'guna_dev', 'hama_gampang', 'masalah_pernah', 'pernah_benar', 'server_urus', 'urus_masalah']"
+"['aneh', 'server', 'adil', 'niat', 'pen', 'hilangin', 'cape', 'lose', 'server', 'buruk']","['adil_niat', 'aneh_server', 'cape_lose', 'hilangin_cape', 'lose_server', 'niat_pen', 'pen_hilangin', 'server_adil', 'server_buruk']"
+"['tolol', 'kalah', 'ton', 'kalah', 'rating']","['kalah_rating', 'kalah_ton', 'tolol_kalah', 'ton_kalah']"
+"['resah', 'masyarakat', 'stres', 'kepala', 'uda', 'jago', 'labih', 'parah', 'musuh', 'luar', 'logika']","['jago_labih', 'kepala_uda', 'labih_parah', 'luar_logika', 'masyarakat_stres', 'musuh_luar', 'parah_musuh', 'resah_masyarakat', 'stres_kepala', 'uda_jago']"
+"['sudah', 'sekarang', 'mangkin', 'lag']","['mangkin_lag', 'sekarang_mangkin', 'sudah_sekarang']"
+"['guna', 'jelass', 'pilih', 'jng', 'donwload', 'nanti', 'nyesel']","['donwload_nanti', 'guna_jelass', 'jelass_pilih', 'jng_donwload', 'nanti_nyesel', 'pilih_jng']"
+"['rusak', 'cacat', 'banyak', 'gelap']","['banyak_gelap', 'cacat_banyak', 'rusak_cacat']"
+['bagus'],[]
+"['perhatiin', 'makin', 'rusak', 'wifi', 'ping', 'lompat', 'gaje', 'bngt', 'sumpah', 'mood']","['bngt_sumpah', 'gaje_bngt', 'lompat_gaje', 'makin_rusak', 'perhatiin_makin', 'ping_lompat', 'rusak_wifi', 'sumpah_mood', 'wifi_ping']"
+"['tolong', 'jelas', 'draksistem', 'semua', 'smpai', 'lostrek']","['draksistem_semua', 'jelas_draksistem', 'semua_smpai', 'smpai_lostrek', 'tolong_jelas']"
+"['ubah', 'maka', 'nilai', 'ubah']","['maka_nilai', 'nilai_ubah', 'ubah_maka']"
+"['makin', 'rajalela', 'pakek', 'cheat', 'kena', 'report', 'banyak', 'ngecheat', 'kadang', 'report', 'nick', 'name', 'barusan', 'ngecheat', 'jg', 'hilang', 'hasil', 'pertngdingan', 'jg', 'hilang', 'aneh', 'bintang', 'tetap', 'hilang', 'report', 'percuma', 'gubris', 'tetap', 'lepas']","['aneh_bintang', 'banyak_ngecheat', 'barusan_ngecheat', 'bintang_tetap', 'cheat_kena', 'gubris_tetap', 'hasil_pertngdingan', 'hilang_aneh', 'hilang_hasil', 'hilang_report', 'jg_hilang', 'kadang_report', 'kena_report', 'makin_rajalela', 'name_barusan', 'ngecheat_jg', 'ngecheat_kadang', 'nick_name', 'pakek_cheat', 'percuma_gubris', 'pertngdingan_jg', 'rajalela_pakek', 'report_banyak', 'report_nick', 'report_percuma', 'tetap_hilang', 'tetap_lepas']"
+"['bang', 'resale', 'angela', 'cc', 'pls', 'nnti', 'rate', 'bintang']","['angela_cc', 'bang_resale', 'cc_pls', 'nnti_rate', 'pls_nnti', 'rate_bintang', 'resale_angela']"
+"['sinyal', 'jelek']",['sinyal_jelek']
+"['kenapa', 'sekarang', 'beda', 'riel', 'adu', 'jago', 'sekarang', 'lebih', 'adu', 'gelap', 'muntun', 'rame', 'jngn', 'gelap', 'kurang', 'senang', 'sulit', 'bagus', 'terlalu', 'banyak', 'ngetrol', 'pesan', 'jika', 'rame', 'hilang', 'gelap']","['adu_gelap', 'adu_jago', 'bagus_terlalu', 'banyak_ngetrol', 'beda_riel', 'gelap_kurang', 'gelap_muntun', 'hilang_gelap', 'jago_sekarang', 'jika_rame', 'jngn_gelap', 'kenapa_sekarang', 'kurang_senang', 'lebih_adu', 'muntun_rame', 'ngetrol_pesan', 'pesan_jika', 'rame_hilang', 'rame_jngn', 'riel_adu', 'sekarang_beda', 'sekarang_lebih', 'senang_sulit', 'sulit_bagus', 'terlalu_banyak']"
+"['bagus', 'baik', 'bug', 'begitu', 'bug', 'langsung', 'rusak', 'mantap']","['bagus_baik', 'baik_bug', 'begitu_bug', 'bug_begitu', 'bug_langsung', 'langsung_rusak', 'rusak_mantap']"
+"['dongo', 'kadang', 'susah', 'swap', 'akun']","['dongo_kadang', 'kadang_susah', 'susah_swap', 'swap_akun']"
+"['pliss', 'selalu', 'update', 'moga', 'rezeki', 'lancar', 'amin']","['lancar_amin', 'moga_rezeki', 'pliss_selalu', 'rezeki_lancar', 'selalu_update', 'update_moga']"
+"['masa', 'kalah', 'baru', 'update', 'kalah', 'line', 'gimana', 'exp', 'bosen', 'ken', 'leni', 'lain', 'gimana', 'buruk', 'gimana']","['baru_update', 'bosen_ken', 'buruk_gimana', 'exp_bosen', 'gimana_buruk', 'gimana_exp', 'kalah_baru', 'kalah_line', 'ken_leni', 'lain_gimana', 'leni_lain', 'line_gimana', 'masa_kalah', 'update_kalah']"
+"['update', 'makin', 'jelek', 'loading', 'lama', 'full', 'draft', 'lag', 'malas', 'ngepush', 'tolong', 'baik']","['draft_lag', 'full_draft', 'jelek_loading', 'lag_malas', 'lama_full', 'loading_lama', 'makin_jelek', 'malas_ngepush', 'ngepush_tolong', 'tolong_baik', 'update_makin']"
+['buruk'],[]
+"['beri', 'lawan', 'imbang', 'tolol']","['beri_lawan', 'imbang_tolol', 'lawan_imbang']"
+"['selalu', 'jelek', 'lag', 'pernah', 'online', 'lain', 'sekarang', 'sudah', 'jelek', 'jelek', 'menit', 'mending', 'lain']","['jelek_jelek', 'jelek_lag', 'jelek_menit', 'lag_pernah', 'lain_sekarang', 'mending_lain', 'menit_mending', 'online_lain', 'pernah_online', 'sekarang_sudah', 'selalu_jelek', 'sudah_jelek']"
+"['sekarang', 'seru', 'hampir', 'stres', 'gara', 'gara', 'gimana', 'stres', 'menang', 'kalah', 'berkalikali', 'bahkan', 'itung', 'lose']","['bahkan_itung', 'berkalikali_bahkan', 'gara_gara', 'gara_gimana', 'gimana_stres', 'hampir_stres', 'itung_lose', 'kalah_berkalikali', 'menang_kalah', 'sekarang_seru', 'seru_hampir', 'stres_gara', 'stres_menang']"
+"['anjeng', 'isi', 'hewan', 'hewan', 'patek']","['anjeng_isi', 'hewan_hewan', 'hewan_patek', 'isi_hewan']"
+"['makin', 'buruk', 'bagus', 'dalam', 'sinyalerah']","['bagus_dalam', 'buruk_bagus', 'dalam_sinyalerah', 'makin_buruk']"
+['mantap'],[]
+"['sinyal', 'tolong', 'baik']","['sinyal_tolong', 'tolong_baik']"
+"['update', 'bug', 'lag', 'kgk', 'rusak', 'lol']","['bug_lag', 'kgk_rusak', 'lag_kgk', 'rusak_lol', 'update_bug']"
+"['update', 'kemarin', 'makin', 'gajelas', 'lag', 'wifi', 'bagus', 'lag', 'ngekah', 'ping', 'an', 'lag', 'banget', 'ketemu', 'musuh', 'lag', 'ketemu', 'lancar', 'jangan', 'bagus', 'taoi', 'bik']","['an_lag', 'bagus_lag', 'bagus_taoi', 'banget_ketemu', 'gajelas_lag', 'jangan_bagus', 'kemarin_makin', 'ketemu_lancar', 'ketemu_musuh', 'lag_banget', 'lag_ketemu', 'lag_ngekah', 'lag_wifi', 'lancar_jangan', 'makin_gajelas', 'musuh_lag', 'ngekah_ping', 'ping_an', 'taoi_bik', 'update_kemarin', 'wifi_bagus']"
+"['makin', 'makin', 'gajelas', 'ijo', 'ngelegngefreze', 'bug', 'akhir', 'draft']","['akhir_draft', 'bug_akhir', 'gajelas_ijo', 'ijo_ngelegngefreze', 'makin_gajelas', 'makin_makin', 'ngelegngefreze_bug']"
+['oh'],[]
+"['gjls', 'lag', 'bagus', 'isi', 'draksistem', 'semua']","['bagus_isi', 'draksistem_semua', 'gjls_lag', 'isi_draksistem', 'lag_bagus']"
+"['mkin', 'ksni', 'mkin', 'rusak', 'tu', 'server', 'ajg']","['ksni_mkin', 'mkin_ksni', 'mkin_rusak', 'rusak_tu', 'server_ajg', 'tu_server']"
+"['plagiat', 'tolol']",['plagiat_tolol']
+"['bagus', 'banget']",['bagus_banget']
+"['lag', 'ngehe']",['lag_ngehe']
+"['bug', 'seta', 'update', 'baru', 'lag', 'ngelekan']","['baru_lag', 'bug_seta', 'lag_ngelekan', 'seta_update', 'update_baru']"
+"['tambah', 'berat', 'kentang']","['berat_kentang', 'tambah_berat']"
+"['tambah', 'transfer', 'bp', 'diamond']","['bp_diamond', 'tambah_transfer', 'transfer_bp']"
+"['jangan', 'rusak', 'otak', 'jangan']","['jangan_rusak', 'otak_jangan', 'rusak_otak']"
+"['anjur', 'suka', 'lag', 'jangan', 'instal', 'sedikit']","['anjur_suka', 'instal_sedikit', 'jangan_instal', 'lag_jangan', 'suka_lag']"
+['ngotak'],[]
+"['ex', 'glory', 'bahkan', 'gapernah', 'musik']","['bahkan_gapernah', 'ex_glory', 'gapernah_musik', 'glory_bahkan']"
+['stres'],[]
+"['gila', 'muak', 'ditrol', 'publik', 'dongo', 'jung', 'tb', 'neh', 'mending', 'jung', 'assassin']","['ditrol_publik', 'dongo_jung', 'gila_muak', 'jung_assassin', 'jung_tb', 'mending_jung', 'muak_ditrol', 'neh_mending', 'publik_dongo', 'tb_neh']"
+"['beri', 'gapernah', 'beres', 'usang']","['beres_usang', 'beri_gapernah', 'gapernah_beres']"
+"['apasih', 'sedikit', 'sedikit', 'defeat', 'sedikit', 'sedikit', 'defeat', 'menang', 'lag', 'ping', 'merah', 'kalah', 'developer', 'asu', 'gapernah', 'benar']","['apasih_sedikit', 'asu_gapernah', 'defeat_menang', 'defeat_sedikit', 'developer_asu', 'gapernah_benar', 'kalah_developer', 'lag_ping', 'menang_lag', 'merah_kalah', 'ping_merah', 'sedikit_defeat', 'sedikit_sedikit']"
+"['mana', 'sinyal', 'buruk', 'luar', 'ruang', 'ko', 'sudah', 'luar', 'tetap', 'lag', 'bulan']","['buruk_luar', 'ko_sudah', 'lag_bulan', 'luar_ruang', 'luar_tetap', 'mana_sinyal', 'ruang_ko', 'sinyal_buruk', 'sudah_luar', 'tetap_lag']"
+"['gelap', 'dh', 'hapus']","['dh_hapus', 'gelap_dh']"
+"['emosimain', 'trio', 'duomawi']","['emosimain_trio', 'trio_duomawi']"
+"['systemnya', 'jelek']",['systemnya_jelek']
+"['sumpah', 'parah', 'benar', 'lag', 'sinyal', 'bagus', 'kuota', 'gede', 'wifi', 'kenceng', 'heran', 'sudah', 'babi', 'kesel']","['babi_kesel', 'bagus_kuota', 'benar_lag', 'gede_wifi', 'heran_sudah', 'kenceng_heran', 'kuota_gede', 'lag_sinyal', 'parah_benar', 'sinyal_bagus', 'sudah_babi', 'sumpah_parah', 'wifi_kenceng']"
+"['paling', 'tolol', 'panjang', 'masa', 'paling', 'banyak']","['masa_paling', 'paling_banyak', 'paling_tolol', 'panjang_masa', 'tolol_panjang']"
+"['report', 'langgan', 'cuma', 'tenang', 'bukan', 'tindak']","['bukan_tindak', 'cuma_tenang', 'langgan_cuma', 'report_langgan', 'tenang_bukan']"
+"['punya', 'buka', 'akun', 'sudah', 'kait']","['akun_sudah', 'buka_akun', 'punya_buka', 'sudah_kait']"
+"['parah', 'sesaon', 'skrng', 'kalah', 'menang', 'lemah', 'semua', 'musuh', 'jagokompak', 'banding', 'klassic', 'parah', 'bobot', 'adil', 'jangan', 'pernah', 'donwload', 'parah', 'manusiawi', 'duo', 'ketemu', 'mushh', 'trio', 'kadang', 'duo', 'dua', 'musuh', 'sedang', 'cuma', 'satu', 'duo', 'lihat', 'buruk', 'sengaja', 'akun', 'lose', 'biar', 'susah', 'naik']","['adil_jangan', 'akun_lose', 'banding_klassic', 'biar_susah', 'bobot_adil', 'buruk_sengaja', 'cuma_satu', 'donwload_parah', 'dua_musuh', 'duo_dua', 'duo_ketemu', 'duo_lihat', 'jagokompak_banding', 'jangan_pernah', 'kadang_duo', 'kalah_menang', 'ketemu_mushh', 'klassic_parah', 'lemah_semua', 'lihat_buruk', 'lose_biar', 'manusiawi_duo', 'menang_lemah', 'mushh_trio', 'musuh_jagokompak', 'musuh_sedang', 'parah_bobot', 'parah_manusiawi', 'parah_sesaon', 'pernah_donwload', 'satu_duo', 'sedang_cuma', 'semua_musuh', 'sengaja_akun', 'sesaon_skrng', 'skrng_kalah', 'susah_naik', 'trio_kadang']"
+"['gemm', 'banyak', 'gelap', 'sistemm', 'asu']","['banyak_gelap', 'gelap_sistemm', 'gemm_banyak', 'sistemm_asu']"
+"['biasa', 'dalam', 'bila', 'menang', 'kenya', 'merah', 'report', 'ingat', 'afk', 'potong', 'kredit', 'skor', 'dasar', 'punya', 'atitude', 'senang', 'ujungujungnya', 'hukum', 'tuju', 'afk', 'lebih', 'kejar', 'tinggal', 'assu', 'tibatiba', 'potong', 'kredit', 'skor', 'babi']","['afk_lebih', 'afk_potong', 'assu_tibatiba', 'atitude_senang', 'biasa_dalam', 'bila_menang', 'dalam_bila', 'dasar_punya', 'hukum_tuju', 'ingat_afk', 'kejar_tinggal', 'kenya_merah', 'kredit_skor', 'lebih_kejar', 'menang_kenya', 'merah_report', 'potong_kredit', 'punya_atitude', 'report_ingat', 'senang_ujungujungnya', 'skor_babi', 'skor_dasar', 'tibatiba_potong', 'tinggal_assu', 'tuju_afk', 'ujungujungnya_hukum']"
+"['bagus', 'dha']",['bagus_dha']
+"['seru', 'stres', 'stuck', 'epik']","['seru_stres', 'stres_stuck', 'stuck_epik']"
+['adil'],[]
+"['reapot', 'gara', 'gara', 'cheat', 'kagak', 'cheat']","['cheat_kagak', 'gara_cheat', 'gara_gara', 'kagak_cheat', 'reapot_gara']"
+"['makin', 'lama', 'chet', 'makin', 'banyak', 'utama', 'cheat', 'lag']","['banyak_utama', 'cheat_lag', 'chet_makin', 'lama_chet', 'makin_banyak', 'makin_lama', 'utama_cheat']"
+['bagus'],[]
+"['buruk', 'mending', 'epep', 'gelap']","['buruk_mending', 'epep_gelap', 'mending_epep']"
+"['update', 'lag', 'parah', 'lag', 'sinyal', 'bagus', 'wifi', 'tolong', 'baik', 'cepat']","['bagus_wifi', 'baik_cepat', 'lag_parah', 'lag_sinyal', 'parah_lag', 'sinyal_bagus', 'tolong_baik', 'update_lag', 'wifi_tolong']"
+"['seru', 'asik']",['seru_asik']
+['rusak'],[]
+"['baik', 'tambah', 'lag', 'frame', 'drop', 'semenjak', 'update', 'wifidata', 'bagus']","['baik_tambah', 'drop_semenjak', 'frame_drop', 'lag_frame', 'semenjak_update', 'tambah_lag', 'update_wifidata', 'wifidata_bagus']"
+"['teammatch', 'imbang', 'lh', 'kala']","['imbang_lh', 'lh_kala', 'teammatch_imbang']"
+"['tantang', 'seru', 'emosi', 'seru', 'rate', 'bintang', 'yng', 'mabar', 'nick', 'name', 'coba', 'tabak', 'siapa', 'sorry', 'namany', 'keliru', 'arigato']","['bintang_yng', 'coba_tabak', 'emosi_seru', 'keliru_arigato', 'mabar_nick', 'namany_keliru', 'name_coba', 'nick_name', 'rate_bintang', 'seru_emosi', 'seru_rate', 'siapa_sorry', 'sorry_namany', 'tabak_siapa', 'tantang_seru', 'yng_mabar']"
+"['menang', 'kalah', 'banyak', 'ngetrol']","['banyak_ngetrol', 'kalah_banyak', 'menang_kalah']"
+"['jangn', 'emosi', 'sinyal', 'bagus', 'lag', 'lag', 'parah', 'getak', 'sinyal', 'bagus', 'kuning', 'merah', 'lag']","['bagus_kuning', 'bagus_lag', 'emosi_sinyal', 'getak_sinyal', 'jangn_emosi', 'kuning_merah', 'lag_lag', 'lag_parah', 'merah_lag', 'parah_getak', 'sinyal_bagus']"
+"['sya', 'tdak', 'pus', 'gemes', 'tambah', 'parah', 'jarigan', 'nga', 'stabil', 'loby', 'bagus', 'merah', 'apdep', 'terlalalu', 'nga', 'jelas', 'baget']","['apdep_terlalalu', 'bagus_merah', 'gemes_tambah', 'jarigan_nga', 'jelas_baget', 'loby_bagus', 'merah_apdep', 'nga_jelas', 'nga_stabil', 'parah_jarigan', 'pus_gemes', 'stabil_loby', 'sya_tdak', 'tambah_parah', 'tdak_pus', 'terlalalu_nga']"
+['mantap'],[]
+"['gelap', 'gj']",['gelap_gj']
+"['bintang', 'naik', 'turun']","['bintang_naik', 'naik_turun']"
+"['oke', 'bos']",['oke_bos']
