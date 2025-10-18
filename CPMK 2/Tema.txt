@@ -1,0 +1,5 @@
+Analisis Sentimen 2 game moba berdasarkan review google play
+
+Nama game:
+1. Mobile Legends
+2. Honor of Kings
